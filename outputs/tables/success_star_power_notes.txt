@@ -1,0 +1,15 @@
+Success analysis notes
+
+Network films: 19,084; revenue known for 7,547 (40%). Revenue models describe the reported-revenue market; films with revenue are more visible and more often English-language.
+Revenue percentile reference: market. Star power uses only films from earlier years (cast and director prior reach), so no future information enters the predictors.
+log revenue: R² 0.238 with controls; plot network adds 0.004, star power 0.051, community 0.012. Plot-network block jointly significant in M4 (p=0.0016).
+revenue percentile in year: R² 0.233 with controls; plot network adds 0.005, star power 0.059, community 0.013. Plot-network block jointly significant in M4 (p=0.00023).
+rating (vote average): R² 0.259 with controls; plot network adds 0.000, star power 0.006, community 0.010. Plot-network block jointly not significant in M4 (p=0.1).
+log popularity: R² 0.158 with controls; plot network adds 0.001, star power 0.045, community 0.007. Plot-network block jointly significant in M4 (p=0.016).
+Novelty → log revenue: flat.
+Novelty → revenue percentile in year: flat.
+Novelty → rating (vote average): flat.
+Novelty → log popularity: flat.
+Community differences in rating after controls: highest Japanese and Korean cinema: samurai, yakuza, school life and anime (+0.23), lowest Zombies, viruses and outbreaks (-0.26) relative to the average film; 14 of 35 labelled communities differ significantly from average.
+v1 specification check: weighted degree and PageRank correlate at ρ = 0.93. On log revenue the weighted-degree coefficient is -0.159 with PageRank in the model and +0.036 without it — the v1 estimates were driven by collinearity. v2's main models do not use these two measures.
+All results are associations, not causal effects.

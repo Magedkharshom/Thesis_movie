@@ -1,0 +1,37 @@
+Brick 4 — Narrative communities interpretation note
+    ====================================================
+
+    Main message
+    ------------
+    Community detection divides the plot-similarity network into narrative
+    neighborhoods. These communities are NOT strict genres. They are groups of
+    films whose plot descriptions place them near one another in the semantic network.
+
+    Key numbers
+    -----------
+      Total detected communities      : 26
+      Major interpreted communities   : 23
+      Minor communities               : 3
+      Largest community size          : 1,792 films
+      Median community size           : 813 films
+      Major-community threshold       : ≥ 100 films
+
+    Recommended main thesis figures
+    --------------------------------
+      1. 01_community_detection_concept.png
+      2. 02_major_communities_lollipop.png
+      3. 04_top_communities_index_table.png
+      4. Selected 05_community_profile_sheet_CXX.png
+      5. 06_representative_films_gallery.png
+
+    Recommended appendix / supporting figures
+    ------------------------------------------
+      1. 03_major_minor_community_split.png
+      2. 07_community_size_vs_median_year.png
+      3. 08_community_genre_mix_small_multiples.png
+      4. 09_community_interpretation_summary.png
+
+    Important wording
+    -----------------
+    The community labels are descriptive interpretations of plot-based clusters.
+    They should NOT be described as objective genre labels or ground-truth categories.

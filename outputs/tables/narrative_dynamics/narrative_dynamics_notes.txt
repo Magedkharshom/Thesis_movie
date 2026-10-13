@@ -1,0 +1,17 @@
+Narrative dynamics notes
+
+Rising narratives (share per decade, significant): Family secrets, siblings and domestic threat (+1.04 pp); French relationship and family drama-comedy (+0.84 pp); Supernatural horror: hauntings, demons and possession (+0.68 pp).
+Fading narratives (significant): Crime, policing and the criminal underworld (-2.06 pp); Romance, marriage and relationship drama-comedy (-0.49 pp); Espionage, secret agents, terrorism and hackers (-0.42 pp).
+revenue percentile in year: crowding +0.028 (p=0.062), foresight +0.008 (p=0.012), same-year competition -0.039 (p=0.01); R² gain over Notebook 05 controls 0.0029.
+log return on investment: crowding +0.086 (p=0.37), foresight +0.070 (p=0.018), same-year competition -0.125 (p=0.14); R² gain over Notebook 05 controls 0.0029.
+rating: crowding +0.019 (p=0.75), foresight +0.026 (p=0.00081), same-year competition -0.042 (p=0.49); R² gain over Notebook 05 controls 0.0012.
+log popularity: crowding +0.001 (p=0.97), foresight +0.016 (p=8.3e-07), same-year competition -0.005 (p=0.71); R² gain over Notebook 05 controls 0.0009.
+Moran's I for revenue percentile in year (adjusted for year and genre): 0.121 (random-network 95th percentile 0.015, p=0.002) — films with similar plots have similar outcomes.
+Moran's I for log return on investment (adjusted for year and genre): 0.082 (random-network 95th percentile 0.021, p=0.002) — films with similar plots have similar outcomes.
+Moran's I for rating (adjusted for year and genre): 0.098 (random-network 95th percentile 0.006, p=0.002) — films with similar plots have similar outcomes.
+Moran's I for log popularity (adjusted for year and genre): 0.053 (random-network 95th percentile 0.006, p=0.002) — films with similar plots have similar outcomes.
+Out-of-sample revenue percentile in year: baseline R² 0.288; plot prior adds +0.0179, genre prior -0.0002, full embedding +0.0424 (best: + full plot embedding (ridge)). Forward-in-time test (train <2015, predict later films): plot prior +0.0242, genre prior -0.0093, full embedding +0.0256.
+Out-of-sample log return on investment: baseline R² 0.056; plot prior adds +0.0074, genre prior +0.0004, full embedding +0.0252 (best: + full plot embedding (ridge)). Forward-in-time test (train <2015, predict later films): plot prior +0.0123, genre prior -0.0078, full embedding +0.0154.
+Out-of-sample rating: baseline R² 0.260; plot prior adds +0.0232, genre prior +0.0006, full embedding +0.0302 (best: + full plot embedding (ridge)). Forward-in-time test (train <2015, predict later films): plot prior +0.0360, genre prior -0.0017, full embedding +0.0218.
+Out-of-sample log popularity: baseline R² 0.203; plot prior adds +0.0050, genre prior -0.0001, full embedding +0.0158 (best: + full plot embedding (ridge)). Forward-in-time test (train <2015, predict later films): plot prior +0.0069, genre prior +0.0001, full embedding +0.0122.
+Measures are standardised within release year; crowding uses films from the 5 previous years only, foresight compares the 5 following with the 5 previous years. All results are associations.

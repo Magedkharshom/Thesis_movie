@@ -1,0 +1,23 @@
+Brick 8 — Narrative structure and success signals interpretation note
+
+This is the final results brick.
+
+Main message:
+The thesis does not claim to predict movie success. It shows that plot-based narrative structure is descriptively associated with different success signals. Narrative communities and network positions appear more informative for some forms of success, especially rating-based evaluative reception, than for purely commercial outcomes.
+
+Recommended main thesis figures:
+1. 01_structure_success_question_map.png
+2. 02_success_model_summary.png
+3. 03_model_improvement_by_success_dimension.png
+4. 04_community_success_profile_heatmap.png
+5. 05_top_communities_by_evaluative_success.png
+6. 06_top_communities_by_commercial_success.png
+7. 09_key_result_interpretation_cards.png
+8. 10_final_results_storyline.png
+
+Recommended appendix/supporting figures:
+1. 07_centrality_success_profile.png
+2. 08_bridging_success_profile.png
+
+Important wording:
+Use “descriptive association,” “success signals,” and “multidimensional success.” Avoid overclaiming prediction, causality, or universal success formulas.

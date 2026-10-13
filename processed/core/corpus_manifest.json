@@ -1,0 +1,54 @@
+{
+  "notebook": "01_build_curated_thesis_corpus_v2",
+  "built_at_utc": "2026-10-08T16:13:40+00:00",
+  "config": {
+    "raw_filename": "TMDB_all_movies.csv",
+    "local_cache_dir": "/content/thesis_movie_project/raw",
+    "year_min": 1990,
+    "year_max": 2024,
+    "snapshot_date": "2024-12-31",
+    "runtime_min": 70,
+    "runtime_max": 240,
+    "overview_words_thesis": 25,
+    "overview_words_semantic": 35,
+    "vote_count_thesis": 1,
+    "vote_count_semantic": 25,
+    "vote_count_display": 50,
+    "exclude_tv_movie": true,
+    "exclude_documentary_primary": true,
+    "cast_top_n": 5,
+    "roi_bounds": [
+      0,
+      100
+    ],
+    "options": {
+      "exclude_documentary_any_genre": false,
+      "min_plausible_money": null
+    },
+    "event_filter": "strict",
+    "allow_corpus_change": false,
+    "expected_network_rows": {
+      "strict": 19919,
+      "legacy": 19523
+    }
+  },
+  "row_counts": {
+    "df_thesis_films": 98037,
+    "df_semantic_analysis": 20091,
+    "df_network_corpus": 19919,
+    "df_display_candidates": 13965,
+    "df_revenue_analysis": 13186,
+    "df_roi_analysis": 7933
+  },
+  "fingerprints": {
+    "df_thesis_films": "c19fab9ed5764554",
+    "df_semantic_analysis": "6cb3f82b4e616408",
+    "df_network_corpus": "40680c1bd55fd295",
+    "df_display_candidates": "02ab82dae088fc7a",
+    "df_revenue_analysis": "fb85942f51dc9e84",
+    "df_roi_analysis": "9067c0be2f245dd9"
+  },
+  "network_corpus_matches_embedding_index": true,
+  "embedded_text_column_in_nb03": "overview",
+  "event_filter": "strict"
+}

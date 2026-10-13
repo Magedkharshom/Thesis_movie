@@ -1,0 +1,9 @@
+- The thesis corpus contains 98,037 released feature films (1990–2024).
+- The semantic corpus keeps films with at least 35 words of plot description and at least 25 votes: 20,091 films.
+- After removing recordings without a plot (wrestling and MMA broadcasts, concert films, stand-up specials), the network corpus contains 19,919 films.
+- Films are embedded from their plot overview only (`overview`), not from titles, genres or cast.
+- Compared with the thesis corpus, the network over-represents Animation (×1.73) and under-represents Music (×0.22) among the 15 largest primary genres.
+- 25 network films share an identical overview with another film, and 4,433 overviews repeat a proper name from their own title, such as a franchise or character name (each can create similarity that is not about the plot).
+- The middle 80% of ratings spans 6.5 points for films with 1–4 votes and 1.5 points for films with 10,000+ votes — ratings from few votes are much noisier, which supports the vote threshold.
+- Revenue is available for 39.5% of network films. Films with revenue have a median of 361 votes versus 58 without, so commercial results describe the more visible part of the network.
+- Spearman ρ between vote average and log revenue is 0.25; the signals are only partly related, which supports treating success as multidimensional.

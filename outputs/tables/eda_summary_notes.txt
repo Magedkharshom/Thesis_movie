@@ -1,0 +1,8 @@
+The curated thesis corpus contains 98,037 released, feature-length, non-documentary, non-TV films.
+The semantic analysis corpus contains 20,091 films with sufficient plot text and minimum audience signal.
+The display subset contains 13,965 films with stronger audience visibility for thesis examples and tables.
+Release years range from 1990 to 2024.
+The median overview length in the semantic corpus is 57 words.
+The median vote count in the semantic corpus is 94.
+Revenue is available for 13.5% of the thesis corpus, so commercial-success analysis is treated as a subset analysis.
+ROI is available for 8.1% of the thesis corpus and should be interpreted cautiously.

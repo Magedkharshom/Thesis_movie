@@ -1,0 +1,29 @@
+FINAL RESULTS NARRATIVE — READY-TO-EDIT DRAFT
+
+1. Main idea
+
+This thesis represents films as a plot-based semantic network. Instead of connecting movies because they share actors, directors, or predefined genres, movies are connected when their plot descriptions are semantically similar. This makes it possible to study cinema as a network of stories.
+
+2. Network construction result
+
+The final semantic network contains 19,202 films and 86,685 mutual-KNN plot-similarity links. The films cover the period 1990–2024. Community detection identifies 26 total narrative communities, of which 23 larger communities are manually interpreted in the thesis.
+
+3. Narrative communities
+
+The discovered communities should not be interpreted as strict genres. Instead, they represent recurring narrative neighborhoods in the plot-description space. For example, some communities concentrate around relationship drama and social comedy, while others concentrate around war and historical conflict, crime and revenge narratives, science-fiction or dystopian narratives, holiday/family narratives, or superhero and mythic adventure structures.
+
+4. Central and bridging films
+
+Central films are interpreted as typical examples of dense narrative neighborhoods. Bridging films are interpreted as films that may connect different story regions. These roles are structural positions in the network, not rankings of quality, fame, or box-office performance.
+
+5. Success as multi-dimensional
+
+Success is treated as more than box office. The thesis distinguishes commercial success, audience attention, and evaluative reception. Commercial success is measured using revenue and revenue percentile within release year. Audience attention is proxied using vote count and popularity. Evaluative reception is proxied using vote average. Awards and formal recognition are discussed conceptually but are not modeled because structured awards data are not included in the current dataset.
+
+6. Outcome-association result
+
+The outcome models suggest that narrative-network features and community membership are associated with success signals, but the strength of association differs by outcome. The strongest model fit appears for evaluative reception, while revenue and popularity are more weakly explained. This supports the interpretation that plot-based narrative structure is especially useful for understanding story neighborhoods and evaluative patterns, while commercial success depends strongly on additional factors such as marketing, distribution, release scale, franchise strategy, and platform attention.
+
+7. Main contribution
+
+The main contribution is not a box-office prediction model. The main contribution is a plot-based network approach for mapping film relationships. The thesis shows that NLP-based plot similarity can reveal narrative communities and structural positions that are not visible when films are grouped only by actors, genres, or popularity.

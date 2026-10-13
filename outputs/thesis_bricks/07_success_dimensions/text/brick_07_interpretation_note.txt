@@ -1,0 +1,23 @@
+Brick 7 — Success dimensions interpretation note
+
+This section should appear after the network-position sections and before the final outcome-association section.
+
+Main message:
+The thesis treats success as multidimensional. Commercial performance, audience attention, evaluative reception, and recognition are conceptually different. The available dataset supports direct analysis of revenue, popularity/vote-count style attention, and vote average. Awards and formal recognition are discussed as important but not directly modeled because structured awards data is not included.
+
+Recommended main thesis figures:
+1. 01_success_dimensions_framework.png
+2. 02_success_variables_measurement_table.png
+3. 03_outcome_availability_cards.png
+4. 07_success_quadrant_concept.png
+5. 08_hidden_evaluative_success_candidates.png
+6. 09_attention_success_candidates.png
+
+Recommended appendix/supporting figures:
+1. 04_revenue_distribution.png
+2. 05_vote_average_distribution.png
+3. 06_attention_distribution.png
+4. 10_success_dimensions_summary.png
+
+Important wording:
+Do not write that the thesis predicts movie success. The correct framing is that the thesis compares plot-network structure with different success signals and uses candidate figures to show why success cannot be reduced to box office alone.

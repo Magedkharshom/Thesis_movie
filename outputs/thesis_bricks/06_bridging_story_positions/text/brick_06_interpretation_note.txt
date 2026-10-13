@@ -1,0 +1,37 @@
+Brick 6 — Bridging story positions interpretation note
+
+    Main message:
+    A bridging film is a film that lies between different narrative regions in the
+    plot-similarity network. In this thesis, bridging is interpreted as narrative
+    brokerage or cross-community story position, not as fame, quality, revenue,
+    or star power.
+
+    Measure: betweenness centrality (column: betweenness_centrality_sampled).
+    Normalised score range: 0.0 – 1.0 (bridge_score_norm).
+    Median score:         0.000160
+    99th-percentile score:0.001023
+    Films in top 1%:      193
+
+    NEW in v2:
+     - Fig 3b shows how concentrated bridging power is (Lorenz / Gini view).
+     - Fig 7b shows a community-reach heatmap: which bridges span which communities.
+     - Fig 9 introduces a 4-quadrant role taxonomy:
+         Pure Bridge   = high betweenness, low typicality
+         Hybrid        = high betweenness, high typicality
+         Central-only  = low betweenness, high typicality
+         Peripheral    = low on both dimensions
+
+    Recommended main thesis figures:
+      1. 01_bridging_as_narrative_brokerage.png
+      2. 02_betweenness_explainer.png
+      3. 04_bridging_films_ranked_table.png
+      4. Selected 05_bridge_profile_C<XX>.png profile sheets
+      5. Selected 06_bridge_local_cross_community_C<XX>.png
+      6. 09_bridge_role_taxonomy.png
+
+    Recommended appendix figures:
+      1. 03a_betweenness_distribution.png
+      2. 03b_betweenness_concentration.png
+      3. 07a_bridge_vs_centrality_selected_map.png
+      4. 07b_community_reach_heatmap.png
+      5. 08_bridging_interpretation_summary.png

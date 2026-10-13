@@ -1,0 +1,20 @@
+Brick 1 — Data construction interpretation note
+
+This section should appear in the Data chapter or at the beginning of Results.
+
+Main message:
+The thesis starts from a broad curated film corpus and then creates specific analysis subsets for semantic similarity, network construction, display examples, revenue analysis, and ROI analysis.
+
+Recommended figures for main thesis:
+1. 01_data_funnel_main.png
+2. 02_year_coverage_semantic_corpus.png
+3. 04_variable_availability.png
+4. 07_data_construction_summary_cards.png
+
+Recommended appendix/supporting figures:
+1. 03_year_coverage_final_network.png
+2. 05_revenue_coverage_by_year.png
+3. 06_vote_count_distribution_semantic.png
+
+Important wording:
+The smaller revenue and ROI subsets should be described as data-availability constraints, not as mistakes or arbitrary exclusions.

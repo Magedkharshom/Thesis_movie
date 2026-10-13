@@ -1,0 +1,21 @@
+Brick 3 — Network construction interpretation note
+
+This section should appear after the NLP similarity explanation.
+
+Main message:
+The thesis turns semantic similarity into a sparse mutual-KNN graph. Each node is a film, and each edge is a retained reciprocal plot-similarity relation. The largest connected component contains 19,202 films and 86,685 edges, making it the main network used for community detection and centrality analysis.
+
+Recommended main thesis figures:
+1. 01_network_construction_flow.png
+2. 02_graph_elements_explainer.png
+3. 03_network_scale_cards.png
+4. 04_component_retention.png
+5. 05_degree_distribution.png
+
+Recommended appendix/supporting figures:
+1. 06_edge_weight_distribution.png
+2. 07_degree_vs_edge_weight_summary.png
+3. 08_network_construction_summary.png
+
+Important wording:
+The final network is intentionally sparse. It does not connect every movie to every other movie. It keeps reciprocal local story-neighbor links so that the graph can represent meaningful plot-similarity structure.

@@ -1,0 +1,21 @@
+Brick 2 — NLP similarity explanation note
+
+This section should appear in the Methodology chapter before the network construction section.
+
+Main message:
+The thesis converts plot descriptions into semantic vectors, compares those vectors using similarity, and keeps reciprocal nearest-neighbor relations as plot-based graph edges.
+
+Recommended main thesis figures:
+1. 01_text_to_embedding_concept.png
+2. 02_semantic_neighbor_cards.png
+3. 04_mutual_knn_toy_example.png
+4. 06_anchor_ego_neighborhood.png
+
+Recommended appendix/supporting figures:
+1. 03_high_vs_low_similarity_pairs.png
+2. 05_edge_similarity_distribution.png
+3. 07_embedding_space_small_sample.png
+4. 08_nlp_similarity_summary_cards.png
+
+Important wording:
+This is a plot-centered semantic layer. Actor names, star power, revenue, and awards are not used to create the core story-similarity network.

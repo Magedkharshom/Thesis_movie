@@ -1,0 +1,24 @@
+Brick 5 — Central story positions interpretation note
+
+    Main message:
+    A central film in this thesis is a film strongly embedded in a dense neighborhood
+    of similar plot descriptions. Centrality is interpreted as story typicality or
+    narrative embeddedness, not as fame, quality, revenue, or star power.
+
+    Centrality measure: weighted degree (sum of all plot-similarity link strengths).
+    Normalised score range: 0.0 – 1.0 (stored as centrality_score_norm).
+    Median score:         4.295
+    90th-percentile score:8.736
+    Films in top 10%:     1,921
+
+    Recommended main thesis figures:
+      1. 01_centrality_as_story_typicality.png
+      2. 02_weighted_degree_explainer.png
+      3. 04_central_films_by_community_table.png
+      4. Selected 05_central_story_profile_CXX.png
+      5. Selected 06_central_film_local_neighborhood_CXX.png
+
+    Recommended appendix figures:
+      1. 03_weighted_degree_distribution.png
+      2. 07_centrality_by_community_small_multiples.png
+      3. 08_centrality_interpretation_summary.png
