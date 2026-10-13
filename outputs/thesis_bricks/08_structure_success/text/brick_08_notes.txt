@@ -1,0 +1,22 @@
+Brick 8 — Narrative structure and success
+
+log revenue: R² 0.238 with controls; plot network +0.004, star power +0.051, community +0.012; plot-network block p = 0.0016.
+revenue percentile: R² 0.233 with controls; plot network +0.005, star power +0.059, community +0.013; plot-network block p = 0.00023.
+rating: R² 0.259 with controls; plot network +0.000, star power +0.006, community +0.010; plot-network block p = 0.1.
+log popularity: R² 0.158 with controls; plot network +0.001, star power +0.045, community +0.007; plot-network block p = 0.016.
+Novelty (optimal distinctiveness test): log revenue flat, revenue percentile flat, rating flat, log popularity flat.
+R² from plot position · revenue percentile: +0.005 (star power adds 0.059; plot block p = 0.00023).
+R² from plot position · rating: +0.000 (star power adds 0.006; plot block p = 0.1).
+Moran's I · revenue percentile: 0.12 (chance level ≤ 0.015: similar plots, similar fates).
+out-of-sample R² · rating: +0.023 (from earlier films' outcomes; genre prior +0.001).
+out-of-sample R² · revenue percentile: +0.018 (from earlier films' outcomes; genre prior -0.000).
+outcomes with a positive, significant foresight effect: 4/4 (stories that later films came to resemble).
+communities that differ in rating: 14/35 (after year, genre, star power and plot position).
+
+Storyline for the Results chapter (each sentence follows from the numbers above):
+1. Static position in plot space adds at most 0.005 R² to year, genre, runtime and language (star power adds up to 0.059); the plot-network block is jointly significant for 3 of 4 outcomes (fig_01).
+2. Plot measures with p < 0.05 after all controls (fig_02): betweenness → log revenue (+0.093); participation → log revenue (-0.065); clustering → log revenue (+0.068); betweenness → revenue percentile (+0.012); participation → revenue percentile (-0.008); clustering → revenue percentile (+0.007); betweenness → log popularity (+0.010); clustering → log popularity (+0.010); foresight → revenue percentile (+0.008); same-year competition → revenue percentile (-0.039); foresight → log ROI (+0.070); foresight → rating (+0.026); foresight → log popularity (+0.016).
+3. Outcomes cluster on the plot network for 4 of 4 outcomes (Moran's I 0.053–0.121); the plot prior beats the genre prior out of sample for 4 of 4 outcomes (fig_03).
+4. After controls, 14 of 35 labelled communities differ from the average film in rating, 11 in revenue percentile and 5 in both (fig_04).
+5. 8 communities grew and 6 shrank significantly as a share of each year's films, 1990–2024 (fig_05).
+All results are associations, not causal effects.

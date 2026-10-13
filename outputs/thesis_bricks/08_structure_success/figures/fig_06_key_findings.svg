@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="712.944pt" height="444.744pt" viewBox="0 0 712.944 444.744" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T16:18:59.685775</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 444.744 
+L 712.944 444.744 
+L 712.944 -0 
+L 0 -0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 179.844444 
+L 231.092308 179.844444 
+L 231.092308 64.8 
+L 7.2 64.8 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 27.350308 172.941778 
+L 210.942 172.941778 
+Q 224.375538 172.941778 224.375538 166.039111 
+L 224.375538 78.605333 
+Q 224.375538 71.702667 210.942 71.702667 
+L 27.350308 71.702667 
+Q 13.916769 71.702667 13.916769 78.605333 
+L 13.916769 166.039111 
+Q 13.916769 172.941778 27.350308 172.941778 
+z
+" clip-path="url(#p95b690eed7)" style="fill: #dbe8f8"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="25.111385" y="101.947991" transform="rotate(-0 25.111385 101.947991)">+0.005</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(25.111385 124.183375)">R² from plot position · revenue</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(25.111385 135.183375)">percentile</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="25.111385" y="159.098243" transform="rotate(-0 25.111385 159.098243)">star power adds 0.059; plot block p = 0.00023</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_4">
+    <path d="M 244.525846 179.844444 
+L 468.418154 179.844444 
+L 468.418154 64.8 
+L 244.525846 64.8 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 264.676154 172.941778 
+L 448.267846 172.941778 
+Q 461.701385 172.941778 461.701385 166.039111 
+L 461.701385 78.605333 
+Q 461.701385 71.702667 448.267846 71.702667 
+L 264.676154 71.702667 
+Q 251.242615 71.702667 251.242615 78.605333 
+L 251.242615 166.039111 
+Q 251.242615 172.941778 264.676154 172.941778 
+z
+" clip-path="url(#pb5e6fcca97)" style="fill: #fbe3d7"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="262.437231" y="101.947991" transform="rotate(-0 262.437231 101.947991)">+0.000</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="262.437231" y="129.644312" transform="rotate(-0 262.437231 129.644312)">R² from plot position · rating</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="262.437231" y="159.098243" transform="rotate(-0 262.437231 159.098243)">star power adds 0.006; plot block p = 0.1</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_6">
+    <path d="M 481.851692 179.844444 
+L 705.744 179.844444 
+L 705.744 64.8 
+L 481.851692 64.8 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 502.002 172.941778 
+L 685.593692 172.941778 
+Q 699.027231 172.941778 699.027231 166.039111 
+L 699.027231 78.605333 
+Q 699.027231 71.702667 685.593692 71.702667 
+L 502.002 71.702667 
+Q 488.568462 71.702667 488.568462 78.605333 
+L 488.568462 166.039111 
+Q 488.568462 172.941778 502.002 172.941778 
+z
+" clip-path="url(#p71f8c00679)" style="fill: #d5f0e5"/>
+   </g>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6"/>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="499.763077" y="101.947991" transform="rotate(-0 499.763077 101.947991)">0.12</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="499.763077" y="129.683375" transform="rotate(-0 499.763077 129.683375)">Moran's I · revenue percentile</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(499.763077 154.383243)">chance level ≤ 0.015: similar plots, similar</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(499.763077 164.607618)">fates</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_8">
+    <path d="M 7.2 308.694222 
+L 231.092308 308.694222 
+L 231.092308 193.649778 
+L 7.2 193.649778 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 27.350308 301.791556 
+L 210.942 301.791556 
+Q 224.375538 301.791556 224.375538 294.888889 
+L 224.375538 207.455111 
+Q 224.375538 200.552444 210.942 200.552444 
+L 27.350308 200.552444 
+Q 13.916769 200.552444 13.916769 207.455111 
+L 13.916769 294.888889 
+Q 13.916769 301.791556 27.350308 301.791556 
+z
+" clip-path="url(#pceb269afd1)" style="fill: #fbedcc"/>
+   </g>
+   <g id="matplotlib.axis_7"/>
+   <g id="matplotlib.axis_8"/>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="25.111385" y="230.797769" transform="rotate(-0 25.111385 230.797769)">+0.023</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="25.111385" y="258.49409" transform="rotate(-0 25.111385 258.49409)">out-of-sample R² · rating</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(25.111385 283.233021)">from earlier films' outcomes; genre prior</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(25.111385 293.385005)">+0.001</text>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_10">
+    <path d="M 244.525846 308.694222 
+L 468.418154 308.694222 
+L 468.418154 193.649778 
+L 244.525846 193.649778 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 264.676154 301.791556 
+L 448.267846 301.791556 
+Q 461.701385 301.791556 461.701385 294.888889 
+L 461.701385 207.455111 
+Q 461.701385 200.552444 448.267846 200.552444 
+L 264.676154 200.552444 
+Q 251.242615 200.552444 251.242615 207.455111 
+L 251.242615 294.888889 
+Q 251.242615 301.791556 264.676154 301.791556 
+z
+" clip-path="url(#pbdf23c631b)" style="fill: #dbe8f8"/>
+   </g>
+   <g id="matplotlib.axis_9"/>
+   <g id="matplotlib.axis_10"/>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="262.437231" y="230.797769" transform="rotate(-0 262.437231 230.797769)">+0.018</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(262.437231 253.033153)">out-of-sample R² · revenue</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(262.437231 264.033153)">percentile</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(262.437231 283.233021)">from earlier films' outcomes; genre prior</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(262.437231 293.385005)">-0.000</text>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_12">
+    <path d="M 481.851692 308.694222 
+L 705.744 308.694222 
+L 705.744 193.649778 
+L 481.851692 193.649778 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 502.002 301.791556 
+L 685.593692 301.791556 
+Q 699.027231 301.791556 699.027231 294.888889 
+L 699.027231 207.455111 
+Q 699.027231 200.552444 685.593692 200.552444 
+L 502.002 200.552444 
+Q 488.568462 200.552444 488.568462 207.455111 
+L 488.568462 294.888889 
+Q 488.568462 301.791556 502.002 301.791556 
+z
+" clip-path="url(#p19eebe3e23)" style="fill: #fbe3d7"/>
+   </g>
+   <g id="matplotlib.axis_11"/>
+   <g id="matplotlib.axis_12"/>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="499.763077" y="230.797769" transform="rotate(-0 499.763077 230.797769)">4/4</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(499.763077 253.033153)">outcomes with a positive,</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(499.763077 263.99409)">significant foresight effect</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="499.763077" y="288.742396" transform="rotate(-0 499.763077 288.742396)">stories that later films came to resemble</text>
+   </g>
+  </g>
+  <g id="axes_7">
+   <g id="patch_14">
+    <path d="M 7.2 437.544 
+L 231.092308 437.544 
+L 231.092308 322.499556 
+L 7.2 322.499556 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 27.350308 430.641333 
+L 210.942 430.641333 
+Q 224.375538 430.641333 224.375538 423.738667 
+L 224.375538 336.304889 
+Q 224.375538 329.402222 210.942 329.402222 
+L 27.350308 329.402222 
+Q 13.916769 329.402222 13.916769 336.304889 
+L 13.916769 423.738667 
+Q 13.916769 430.641333 27.350308 430.641333 
+z
+" clip-path="url(#pe2c9a1fba4)" style="fill: #d5f0e5"/>
+   </g>
+   <g id="matplotlib.axis_13"/>
+   <g id="matplotlib.axis_14"/>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="25.111385" y="359.647547" transform="rotate(-0 25.111385 359.647547)">14/35</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="25.111385" y="387.343868" transform="rotate(-0 25.111385 387.343868)">communities that differ in rating</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(25.111385 412.082799)">after year, genre, star power and plot</text>
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(25.111385 421.512799)">position</text>
+   </g>
+  </g>
+  <g id="axes_8">
+   <g id="patch_16">
+    <path d="M 244.525846 437.544 
+L 468.418154 437.544 
+L 468.418154 322.499556 
+L 244.525846 322.499556 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_15"/>
+   <g id="matplotlib.axis_16"/>
+  </g>
+  <g id="axes_9">
+   <g id="patch_17">
+    <path d="M 481.851692 437.544 
+L 705.744 437.544 
+L 705.744 322.499556 
+L 481.851692 322.499556 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_17"/>
+   <g id="matplotlib.axis_18"/>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="7.2" y="17.077969" transform="rotate(-0 7.2 17.077969)">Narrative structure and success: the key numbers</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">From Notebooks 05 and 06 (v2) · associations, not causal effects</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p95b690eed7">
+   <rect x="7.2" y="64.8" width="223.892308" height="115.044444"/>
+  </clipPath>
+  <clipPath id="pb5e6fcca97">
+   <rect x="244.525846" y="64.8" width="223.892308" height="115.044444"/>
+  </clipPath>
+  <clipPath id="p71f8c00679">
+   <rect x="481.851692" y="64.8" width="223.892308" height="115.044444"/>
+  </clipPath>
+  <clipPath id="pceb269afd1">
+   <rect x="7.2" y="193.649778" width="223.892308" height="115.044444"/>
+  </clipPath>
+  <clipPath id="pbdf23c631b">
+   <rect x="244.525846" y="193.649778" width="223.892308" height="115.044444"/>
+  </clipPath>
+  <clipPath id="p19eebe3e23">
+   <rect x="481.851692" y="193.649778" width="223.892308" height="115.044444"/>
+  </clipPath>
+  <clipPath id="pe2c9a1fba4">
+   <rect x="7.2" y="322.499556" width="223.892308" height="115.044444"/>
+  </clipPath>
+ </defs>
+</svg>

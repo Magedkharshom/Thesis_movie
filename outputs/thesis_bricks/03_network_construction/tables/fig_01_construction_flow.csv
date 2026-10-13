@@ -1,0 +1,6 @@
+step,count,note
+Network corpus,"19,919 films",one plot overview each
+k-nearest neighbours,"398,367 links",each film → its 20 most similar plots
+Mutual filter,"70,372 edges",kept only if both films agree
+Largest component,"19,084 films","70,252 edges · 95.8% of films"
+Communities,105 found,modularity 0.65 · 35 major

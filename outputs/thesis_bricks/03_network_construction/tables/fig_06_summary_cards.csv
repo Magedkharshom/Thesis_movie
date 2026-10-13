@@ -1,0 +1,7 @@
+value,label,note
+"19,084",films,largest connected component
+"70,252",edges,mutual plot neighbours
+7.4,average degree,at most 20
+0.00039,density,share of possible links present
+105,communities,35 major (≥ 100 films)
+0.65,modularity,consensus Louvain

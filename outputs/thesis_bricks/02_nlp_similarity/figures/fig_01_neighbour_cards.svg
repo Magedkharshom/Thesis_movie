@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="783.36pt" height="599.160781pt" viewBox="0 0 783.36 599.160781" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T16:18:18.817137</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 599.160781 
+L 783.36 599.160781 
+L 783.36 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 106.56 147.708983 
+L 776.16 147.708983 
+L 776.16 57.6 
+L 106.56 57.6 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 133.344 144.104623 
+L 749.376 144.104623 
+Q 776.16 144.104623 776.16 140.500264 
+L 776.16 64.808719 
+Q 776.16 61.204359 749.376 61.204359 
+L 133.344 61.204359 
+Q 106.56 61.204359 106.56 64.808719 
+L 106.56 140.500264 
+Q 106.56 144.104623 133.344 144.104623 
+z
+" clip-path="url(#paa0cc64d77)" style="fill: #dbe8f8"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="116.604" y="79.995797" transform="rotate(-0 116.604 79.995797)">Anchor · Toy Story (1995) · C6 · Fairy tale &amp; fantasy</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(116.604 103.316241)">Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(116.604 114.366241)">heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(116.604 126.239679)">differences.</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_4">
+    <path d="M 106.56 230.559186 
+L 238.500887 230.559186 
+L 238.500887 170.486531 
+L 106.56 170.486531 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 106.56 227.828611 
+L 201.535611 227.828611 
+L 201.535611 173.217106 
+L 106.56 173.217106 
+z
+" clip-path="url(#p90266ce83f)" style="fill: #2a78d6"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+   <g id="patch_6">
+    <path d="M 106.56 230.559186 
+L 106.56 170.486531 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 106.56 230.559186 
+L 238.500887 230.559186 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="205.493838" y="203.120515" transform="rotate(-0 205.493838 203.120515)">0.72</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_8">
+    <path d="M 248.396453 230.559186 
+L 776.16 230.559186 
+L 776.16 170.486531 
+L 248.396453 170.486531 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 269.506995 228.15628 
+L 755.049458 228.15628 
+Q 776.16 228.15628 776.16 225.753374 
+L 776.16 175.292343 
+Q 776.16 172.889437 755.049458 172.889437 
+L 269.506995 172.889437 
+Q 248.396453 172.889437 248.396453 175.292343 
+L 248.396453 225.753374 
+Q 248.396453 228.15628 269.506995 228.15628 
+z
+" clip-path="url(#p6c4acaf49f)" style="fill: #f1f0ec"/>
+   </g>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6"/>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="256.312906" y="188.076515" transform="rotate(-0 256.312906 188.076515)">#1  Toy Story 3 (2010) · same community</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 203.587515)">Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 214.637515)">find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 225.687515)">home to Andy.</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_10">
+    <path d="M 106.56 313.40939 
+L 238.500887 313.40939 
+L 238.500887 253.336734 
+L 106.56 253.336734 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 106.56 310.678814 
+L 166.635879 310.678814 
+L 166.635879 256.06731 
+L 106.56 256.06731 
+z
+" clip-path="url(#pdd3de94dd3)" style="fill: #2a78d6"/>
+   </g>
+   <g id="matplotlib.axis_7"/>
+   <g id="matplotlib.axis_8"/>
+   <g id="patch_12">
+    <path d="M 106.56 313.40939 
+L 106.56 253.336734 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 106.56 313.40939 
+L 238.500887 313.40939 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="170.594106" y="285.970718" transform="rotate(-0 170.594106 285.970718)">0.46</text>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_14">
+    <path d="M 248.396453 313.40939 
+L 776.16 313.40939 
+L 776.16 253.336734 
+L 248.396453 253.336734 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 269.506995 311.006483 
+L 755.049458 311.006483 
+Q 776.16 311.006483 776.16 308.603577 
+L 776.16 258.142547 
+Q 776.16 255.739641 755.049458 255.739641 
+L 269.506995 255.739641 
+Q 248.396453 255.739641 248.396453 258.142547 
+L 248.396453 308.603577 
+Q 248.396453 311.006483 269.506995 311.006483 
+z
+" clip-path="url(#p9ff5c4b139)" style="fill: #f1f0ec"/>
+   </g>
+   <g id="matplotlib.axis_9"/>
+   <g id="matplotlib.axis_10"/>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="256.312906" y="270.926719" transform="rotate(-0 256.312906 270.926719)">#2  Lockdown all'italiana (2020) · other community: C1 · Love &amp; relationships</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 286.437718)">The film follows the story of two couples in crisis who are about to break up but who, due to the Lockdown, imposed to</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 297.487718)">stop the spread of the coronavirus, will instead be forced into a forced coexistence. The protagonists, through</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 308.537718)">smartkworking, household chores and sports…</text>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_16">
+    <path d="M 106.56 396.259593 
+L 238.500887 396.259593 
+L 238.500887 336.186938 
+L 106.56 336.186938 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 106.56 393.529018 
+L 165.998765 393.529018 
+L 165.998765 338.917513 
+L 106.56 338.917513 
+z
+" clip-path="url(#pe9916dd65b)" style="fill: #2a78d6"/>
+   </g>
+   <g id="matplotlib.axis_11"/>
+   <g id="matplotlib.axis_12"/>
+   <g id="patch_18">
+    <path d="M 106.56 396.259593 
+L 106.56 336.186938 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 106.56 396.259593 
+L 238.500887 396.259593 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="169.956992" y="368.820922" transform="rotate(-0 169.956992 368.820922)">0.45</text>
+   </g>
+  </g>
+  <g id="axes_7">
+   <g id="patch_20">
+    <path d="M 248.396453 396.259593 
+L 776.16 396.259593 
+L 776.16 336.186938 
+L 248.396453 336.186938 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 269.506995 393.856687 
+L 755.049458 393.856687 
+Q 776.16 393.856687 776.16 391.453781 
+L 776.16 340.99275 
+Q 776.16 338.589844 755.049458 338.589844 
+L 269.506995 338.589844 
+Q 248.396453 338.589844 248.396453 340.99275 
+L 248.396453 391.453781 
+Q 248.396453 393.856687 269.506995 393.856687 
+z
+" clip-path="url(#p9487095de2)" style="fill: #f1f0ec"/>
+   </g>
+   <g id="matplotlib.axis_13"/>
+   <g id="matplotlib.axis_14"/>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="256.312906" y="353.776922" transform="rotate(-0 256.312906 353.776922)">#3  La La Land (2016) · other community: C12 · Music &amp; musicians</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 369.287922)">Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 380.337922)">playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 391.387922)">fragile fabric of their love affair, and the…</text>
+   </g>
+  </g>
+  <g id="axes_8">
+   <g id="patch_22">
+    <path d="M 106.56 479.109797 
+L 238.500887 479.109797 
+L 238.500887 419.037141 
+L 106.56 419.037141 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 106.56 476.379221 
+L 165.306653 476.379221 
+L 165.306653 421.767717 
+L 106.56 421.767717 
+z
+" clip-path="url(#pa4a43672d9)" style="fill: #2a78d6"/>
+   </g>
+   <g id="matplotlib.axis_15"/>
+   <g id="matplotlib.axis_16"/>
+   <g id="patch_24">
+    <path d="M 106.56 479.109797 
+L 106.56 419.037141 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 106.56 479.109797 
+L 238.500887 479.109797 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="169.264879" y="451.671125" transform="rotate(-0 169.264879 451.671125)">0.45</text>
+   </g>
+  </g>
+  <g id="axes_9">
+   <g id="patch_26">
+    <path d="M 248.396453 479.109797 
+L 776.16 479.109797 
+L 776.16 419.037141 
+L 248.396453 419.037141 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 269.506995 476.70689 
+L 755.049458 476.70689 
+Q 776.16 476.70689 776.16 474.303984 
+L 776.16 423.842954 
+Q 776.16 421.440048 755.049458 421.440048 
+L 269.506995 421.440048 
+Q 248.396453 421.440048 248.396453 423.842954 
+L 248.396453 474.303984 
+Q 248.396453 476.70689 269.506995 476.70689 
+z
+" clip-path="url(#p9e2ee0485f)" style="fill: #f1f0ec"/>
+   </g>
+   <g id="matplotlib.axis_17"/>
+   <g id="matplotlib.axis_18"/>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="256.312906" y="436.627126" transform="rotate(-0 256.312906 436.627126)">#4  Modern Life Is Rubbish (2018) · other community: C1 · Love &amp; relationships</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 452.138125)">Brought together by their shared love of music, ten years on Liam and Natalie are at breaking point. In their case</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 463.188125)">opposites attract but don't necessarily work long-term. Making the difficult decision to separate, they must split</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 474.238125)">their prized music library. But the soundtrack that…</text>
+   </g>
+  </g>
+  <g id="axes_10">
+   <g id="patch_28">
+    <path d="M 106.56 561.96 
+L 238.500887 561.96 
+L 238.500887 501.887345 
+L 106.56 501.887345 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 106.56 559.229425 
+L 165.025316 559.229425 
+L 165.025316 504.61792 
+L 106.56 504.61792 
+z
+" clip-path="url(#pcd2f9ab932)" style="fill: #2a78d6"/>
+   </g>
+   <g id="matplotlib.axis_19">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m2e419dc94b" d="M 0 0 
+L 0 3.5 
+" style="stroke: #898781; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2e419dc94b" x="106.56" y="561.96" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #898781" x="106.56" y="575.797891" transform="rotate(-0 106.56 575.797891)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m2e419dc94b" x="172.530443" y="561.96" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #898781" x="172.530443" y="575.797891" transform="rotate(-0 172.530443 575.797891)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m2e419dc94b" x="238.500887" y="561.96" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #898781" x="238.500887" y="575.797891" transform="rotate(-0 238.500887 575.797891)">1.0</text>
+     </g>
+    </g>
+    <g id="text_18">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="172.530443" y="589.558437" transform="rotate(-0 172.530443 589.558437)">cosine similarity</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_20"/>
+   <g id="patch_30">
+    <path d="M 106.56 561.96 
+L 106.56 501.887345 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 106.56 561.96 
+L 238.500887 561.96 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="168.983542" y="534.521329" transform="rotate(-0 168.983542 534.521329)">0.44</text>
+   </g>
+  </g>
+  <g id="axes_11">
+   <g id="patch_32">
+    <path d="M 248.396453 561.96 
+L 776.16 561.96 
+L 776.16 501.887345 
+L 248.396453 501.887345 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 269.506995 559.557094 
+L 755.049458 559.557094 
+Q 776.16 559.557094 776.16 557.154188 
+L 776.16 506.693157 
+Q 776.16 504.290251 755.049458 504.290251 
+L 269.506995 504.290251 
+Q 248.396453 504.290251 248.396453 506.693157 
+L 248.396453 557.154188 
+Q 248.396453 559.557094 269.506995 559.557094 
+z
+" clip-path="url(#pb1de4c7afc)" style="fill: #f1f0ec"/>
+   </g>
+   <g id="matplotlib.axis_21"/>
+   <g id="matplotlib.axis_22"/>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="256.312906" y="519.477329" transform="rotate(-0 256.312906 519.477329)">#5  About Last Night (2014) · other community: C1 · Love &amp; relationships</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 534.988329)">Bernie and Joan are two fiery flirters who are passionate about everything from hookups to breakups and each other.</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 546.038329)">When he sets up his best friend, Danny, with her roommate, Debbie, the sparks soon fly as they try to navigate the</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(256.312906 557.088329)">relationship minefields from the bar to the bedroom…</text>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="7.2" y="17.077969" transform="rotate(-0 7.2 17.077969)">The films whose plots read most like Toy Story</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">Nearest overviews by cosine similarity of the sentence embeddings · films with ≥ 50 votes, one per title family</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="paa0cc64d77">
+   <rect x="106.56" y="57.6" width="669.6" height="90.108983"/>
+  </clipPath>
+  <clipPath id="p90266ce83f">
+   <rect x="106.56" y="170.486531" width="131.940887" height="60.072655"/>
+  </clipPath>
+  <clipPath id="p6c4acaf49f">
+   <rect x="248.396453" y="170.486531" width="527.763547" height="60.072655"/>
+  </clipPath>
+  <clipPath id="pdd3de94dd3">
+   <rect x="106.56" y="253.336734" width="131.940887" height="60.072655"/>
+  </clipPath>
+  <clipPath id="p9ff5c4b139">
+   <rect x="248.396453" y="253.336734" width="527.763547" height="60.072655"/>
+  </clipPath>
+  <clipPath id="pe9916dd65b">
+   <rect x="106.56" y="336.186938" width="131.940887" height="60.072655"/>
+  </clipPath>
+  <clipPath id="p9487095de2">
+   <rect x="248.396453" y="336.186938" width="527.763547" height="60.072655"/>
+  </clipPath>
+  <clipPath id="pa4a43672d9">
+   <rect x="106.56" y="419.037141" width="131.940887" height="60.072655"/>
+  </clipPath>
+  <clipPath id="p9e2ee0485f">
+   <rect x="248.396453" y="419.037141" width="527.763547" height="60.072655"/>
+  </clipPath>
+  <clipPath id="pcd2f9ab932">
+   <rect x="106.56" y="501.887345" width="131.940887" height="60.072655"/>
+  </clipPath>
+  <clipPath id="pb1de4c7afc">
+   <rect x="248.396453" y="501.887345" width="527.763547" height="60.072655"/>
+  </clipPath>
+ </defs>
+</svg>

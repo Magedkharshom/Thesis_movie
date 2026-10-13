@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1001.52pt" height="629.28pt" viewBox="0 0 1001.52 629.28" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T16:18:37.829380</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 629.28 
+L 1001.52 629.28 
+L 1001.52 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.92 622.08 
+L 994.32 622.08 
+L 994.32 57.6 
+L 7.92 57.6 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 7.92 81.12 
+L 994.32 81.12 
+L 994.32 119.607273 
+L 7.92 119.607273 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 7.92 166.647273 
+L 994.32 166.647273 
+L 994.32 205.134545 
+L 7.92 205.134545 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 7.92 252.174545 
+L 994.32 252.174545 
+L 994.32 290.661818 
+L 7.92 290.661818 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 7.92 337.701818 
+L 994.32 337.701818 
+L 994.32 376.189091 
+L 7.92 376.189091 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 7.92 423.229091 
+L 994.32 423.229091 
+L 994.32 461.716364 
+L 7.92 461.716364 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 7.92 508.756364 
+L 994.32 508.756364 
+L 994.32 547.243636 
+L 7.92 547.243636 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 7.92 81.12 
+L 11.8656 81.12 
+L 11.8656 119.607273 
+L 7.92 119.607273 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 7.92 123.883636 
+L 11.8656 123.883636 
+L 11.8656 162.370909 
+L 7.92 162.370909 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 7.92 166.647273 
+L 11.8656 166.647273 
+L 11.8656 205.134545 
+L 7.92 205.134545 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 7.92 209.410909 
+L 11.8656 209.410909 
+L 11.8656 247.898182 
+L 7.92 247.898182 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 7.92 252.174545 
+L 11.8656 252.174545 
+L 11.8656 290.661818 
+L 7.92 290.661818 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 7.92 294.938182 
+L 11.8656 294.938182 
+L 11.8656 333.425455 
+L 7.92 333.425455 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 7.92 337.701818 
+L 11.8656 337.701818 
+L 11.8656 376.189091 
+L 7.92 376.189091 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 7.92 380.465455 
+L 11.8656 380.465455 
+L 11.8656 418.952727 
+L 7.92 418.952727 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 7.92 423.229091 
+L 11.8656 423.229091 
+L 11.8656 461.716364 
+L 7.92 461.716364 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 7.92 465.992727 
+L 11.8656 465.992727 
+L 11.8656 504.48 
+L 7.92 504.48 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #eb6834; stroke: #eb6834; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 7.92 508.756364 
+L 11.8656 508.756364 
+L 11.8656 547.243636 
+L 7.92 547.243636 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 7.92 551.52 
+L 11.8656 551.52 
+L 11.8656 590.007273 
+L 7.92 590.007273 
+z
+" clip-path="url(#p6e835b3dae)" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="12.852" y="76.843636" transform="rotate(-0 12.852 76.843636)">community</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="289.044" y="76.843636" transform="rotate(-0 289.044 76.843636)">films</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="76.843636" transform="rotate(-0 348.228 76.843636)">distinctive words (c-TF-IDF)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="654.012" y="76.843636" transform="rotate(-0 654.012 76.843636)">well-known examples</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="17.784" y="102.571976" transform="rotate(-0 17.784 102.571976)">C0 · Crime, policing and the criminal underworld</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="102.571644" transform="rotate(-0 289.044 102.571644)">1,700</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="102.442074" transform="rotate(-0 348.228 102.442074)">police, prison, killer, murder, crime, cop</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 97.64098)">Luther: The Fallen Sun (2023); Road to Perdition (2002);</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 107.243168)">Double Jeopardy (1999)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 140.23445)">C1 · Romance, marriage and relationship drama-</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 150.436775)">comedy</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="145.335281" transform="rotate(-0 289.044 145.335281)">1,360</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="145.20571" transform="rotate(-0 348.228 145.20571)">love, relationship, life, gay, wife, married</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 140.404616)">Made of Honor (2008); Sweet November (2001); Something</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 150.006804)">Borrowed (2011)</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 182.998087)">C2 · Family secrets, siblings and domestic</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 193.200411)">threat</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="188.098917" transform="rotate(-0 289.044 188.098917)">1,346</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="187.969347" transform="rotate(-0 348.228 187.969347)">mother, family, father, old, year, son</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 183.168565)">The Boogeyman (2023); Ghostland (2018); The Book of Henry</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 192.770128)">(2017)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 225.761723)">C3 · War, historical conflict and military</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 235.964047)">action</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="230.862553" transform="rotate(-0 289.044 230.862553)">1,246</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="230.732983" transform="rotate(-0 348.228 230.732983)">war, soldiers, army, soldier, mission, plane</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 225.932202)">All Quiet on the Western Front (2022); Black Book (2006); Fury</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 235.533764)">(2014)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 268.52536)">C4 · Science fiction, space, robots and</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 278.727684)">superhero worlds</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="273.62619" transform="rotate(-0 289.044 273.62619)">1,120</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="273.496619" transform="rotate(-0 348.228 273.496619)">earth, planet, alien, space, world, future</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 268.695838)">The Tomorrow War (2021); Robots (2005); Justice League Dark</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 278.297401)">(2017)</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 311.288996)">C5 · Supernatural horror: hauntings, demons and</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 321.49132)">possession</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="316.389826" transform="rotate(-0 289.044 316.389826)">1,079</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="316.260256" transform="rotate(-0 348.228 316.260256)">group, friends, house, night, students, game</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 311.459474)">Haunt (2019); A Haunted House (2013); Prey for the Devil</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 321.061037)">(2022)</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="17.784" y="359.153794" transform="rotate(-0 17.784 359.153794)">C6 · Fairy tales, royalty and mythic fantasy</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="359.153462" transform="rotate(-0 289.044 359.153462)">816</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="359.023892" transform="rotate(-0 348.228 359.023892)">king, princess, prince, kingdom, evil, dragon</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 354.222798)">Cinderella II: Dreams Come True (2002); The Princess Diaries</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 363.824986)">2: Royal Engagement (2004); Mirror Mirror (2012)</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="17.784" y="401.917431" transform="rotate(-0 17.784 401.917431)">C7 · French relationship and family drama-comedy</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="401.917099" transform="rotate(-0 289.044 401.917099)">717</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="401.787528" transform="rotate(-0 348.228 401.787528)">life, julia, love, sophie, antoine, wife</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="654.012" y="401.787528" transform="rotate(-0 654.012 401.787528)">What's in a Name (2012); Julie &amp; Julia (2009); Rings (2017)</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 439.579905)">C8 · Japanese and Korean cinema: samurai,</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(17.784 449.782229)">yakuza, school life and anime</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="444.680735" transform="rotate(-0 289.044 444.680735)">699</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="444.551165" transform="rotate(-0 348.228 444.551165)">yakuza, school, soo, high, day, samurai</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 439.750071)">The Last Samurai (2003); Shoplifters (2018); The Last: Naruto</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 449.352259)">the Movie (2014)</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="17.784" y="487.444703" transform="rotate(-0 17.784 487.444703)">C9 · School, campus and dance coming-of-age</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="487.444371" transform="rotate(-0 289.044 487.444371)">656</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="487.314801" transform="rotate(-0 348.228 487.314801)">school, teacher, high, student, dance, college</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="654.012" y="487.314801" transform="rotate(-0 654.012 487.314801)">Step Up 3D (2010); Rushmore (1998); Clueless (1995)</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="17.784" y="530.20834" transform="rotate(-0 17.784 530.20834)">C10 · Latin American and Spanish-language drama</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="530.208008" transform="rotate(-0 289.044 530.208008)">648</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="530.078437" transform="rotate(-0 348.228 530.078437)">life, old, lives, love, father, drug</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 525.277656)">The Devil's Backbone (2001); Loving Pablo (2017); Desperado</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 534.879219)">(1995)</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="17.784" y="572.971976" transform="rotate(-0 17.784 572.971976)">C11 · Animals and pets: family animal adventures</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.044" y="572.971644" transform="rotate(-0 289.044 572.971644)">597</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="348.228" y="572.842074" transform="rotate(-0 348.228 572.842074)">dog, cat, animals, animal, tiger, canine</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 568.04098)">The Secret Life of Pets 2 (2019); The Call of the Wild (2020);</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #52514e" transform="translate(654.012 577.643168)">Beverly Hills Chihuahua (2008)</text>
+   </g>
+  </g>
+  <g id="text_53">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="7.2" y="17.077969" transform="rotate(-0 7.2 17.077969)">What the largest narrative communities are about</text>
+  </g>
+  <g id="text_54">
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">The 12 largest communities · words that are frequent in a community's overviews and rare elsewhere · labels reviewed by hand (Notebook 04)</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6e835b3dae">
+   <rect x="7.92" y="57.6" width="986.4" height="564.48"/>
+  </clipPath>
+ </defs>
+</svg>

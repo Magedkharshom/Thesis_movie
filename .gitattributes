@@ -2,3 +2,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.npy filter=lfs diff=lfs merge=lfs -text
 _archive_2026-10/ARCHIVE_INDEX.csv -filter -diff -merge text
+outputs/thesis_bricks/**/*.csv -filter -diff -merge text

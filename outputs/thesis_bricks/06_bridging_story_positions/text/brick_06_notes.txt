@@ -1,0 +1,7 @@
+Brick 6 — Bridging positions
+
+Best-known bridge films (exact betweenness, ≥ 50 votes, one per title family): Black Panther: Wakanda Forever (2022); Alone in the Dark (2005); The Last Days (2013); Dune (2021); The Ciambra (2017).
+Position types (top 5% betweenness × participation ≥ 0.5): embedded 11,818 (61.9%), hybrid 6,311 (33.1%), broker 570 (3.0%), connector 385 (2.0%).
+Participation and betweenness correlate only at ρ = 0.37: carrying many shortest paths and having a mixed neighbourhood are different kinds of bridging.
+Wording: a bridge film 'connects narratives' through its plot description; it is a structural position, not a judgement of originality.
+Main text: fig_01_bridge_typology, fig_03_top_bridges, fig_04_bridge_pathway. Appendix: fig_02_community_contact_matrix, fig_05_open_narratives.

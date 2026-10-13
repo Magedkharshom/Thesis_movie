@@ -1,0 +1,5 @@
+outcome,films,edges_used,morans_I,null_mean,null_p95,p_value,+ full plot embedding (ridge),+ genre and plot prior,+ genre prior,+ plot prior,baseline
+log_popularity,19084,70252,0.0529,-4e-05,0.00607,0.002,0.01585,0.00493,-6e-05,0.00496,0.0
+log_roi,4910,5820,0.08181,-0.00019,0.02132,0.002,0.02522,0.00785,0.00043,0.00741,0.0
+revenue_percentile_year,7547,12003,0.1209,-0.00015,0.01527,0.002,0.0424,0.01785,-0.00017,0.01792,0.0
+vote_average,19084,70252,0.09827,-0.00011,0.00597,0.002,0.0302,0.02351,0.00058,0.02323,0.0

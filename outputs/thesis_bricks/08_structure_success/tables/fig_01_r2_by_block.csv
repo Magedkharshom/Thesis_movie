@@ -1,0 +1,5 @@
+outcome,"controls (year, genre, runtime, English)",+ plot network,+ star power,+ narrative community
+log_revenue,0.23754,0.00378,0.05083,0.01156
+revenue_percentile_year,0.23306,0.00457,0.0594,0.01281
+vote_average,0.2585,0.00041,0.00595,0.00954
+log_popularity,0.15769,0.00071,0.04474,0.00663

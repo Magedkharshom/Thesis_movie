@@ -1,0 +1,5 @@
+attribute,share_of_edges,expected_random_pairs,ratio
+same primary genre,0.306,0.1513,2.0223
+same decade,0.3195,0.2946,1.0848
+same community,0.6927,0.0421,16.448
+both English-language or both not,0.65,0.502,1.2949

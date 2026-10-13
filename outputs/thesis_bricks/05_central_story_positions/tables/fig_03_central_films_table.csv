@@ -1,0 +1,37 @@
+community_id,rank,title,release_year,vote_count,within_community_strength,is_core
+0,1,The Postcard Killings,2020,647.0,14.03430066,True
+0,2,Alex Cross,2012,767.0,13.55304014,True
+0,3,Only the River Flows,2023,107.0,13.43087725,True
+1,1,The Other Woman,2010,415.0,12.69410076,True
+1,2,Made of Honor,2008,1772.0,12.64863745,True
+1,3,Last Night,2010,816.0,12.03683824,True
+2,1,The Boogeyman,2023,1062.0,12.87227883,True
+2,2,Ghostland,2018,2631.0,12.76208032,True
+2,3,The Book of Henry,2017,1349.0,12.70611779,True
+3,1,Sobibor,2018,325.0,11.34948404,True
+3,2,The Auschwitz Report,2021,84.0,11.31957657,True
+3,3,Aimée & Jaguar,1999,109.0,10.68292898,True
+4,1,Assassin 33 A.D.,2020,116.0,11.4979676,True
+4,2,The Visitor from the Future,2022,229.0,11.46098005,True
+4,3,The Tomorrow War,2021,4067.0,11.37419732,True
+5,1,The Seventh Day,2021,287.0,12.91438101,True
+5,2,Haunt,2019,1353.0,12.48123702,True
+5,3,Talon Falls,2017,105.0,12.04288273,True
+6,1,Cinderella II: Dreams Come True,2002,1528.0,11.48270202,True
+6,2,The Princess Diaries 2: Royal Engagement,2004,3394.0,11.41030242,True
+6,3,Godmothered,2020,634.0,11.26289689,True
+7,1,Love Affair(s),2020,203.0,11.86353245,True
+7,2,The Past,2013,609.0,11.15990719,True
+7,3,"Mektoub, My Love: Canto Uno",2018,333.0,10.64498034,True
+8,1,Into the Sun,2005,165.0,10.64164336,True
+8,2,Samurai Cop,1991,204.0,10.05375962,True
+8,3,Demon Slayer: Kimetsu no Yaiba - Sibling's Bond,2019,244.0,9.85530378,True
+9,1,Ma che bella sorpresa,2015,415.0,11.6686439,True
+9,2,Step Sisters,2018,464.0,10.31307729,True
+9,3,The Red and the Blue,2012,87.0,10.19111891,True
+10,1,Miles and Lies,2023,105.0,9.62232189,True
+10,2,While at War,2019,304.0,9.1038871,True
+10,3,Dirty Dancing: Havana Nights,2004,691.0,7.98770505,True
+11,1,The Secret Life of Pets 2,2019,3295.0,11.58285092,True
+11,2,Revenge for Jolly!,2012,51.0,9.90145719,True
+11,3,Snow Buddies,2008,292.0,9.59537886,True
