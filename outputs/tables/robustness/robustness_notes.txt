@@ -1,0 +1,26 @@
+Robustness notes (Notebook 07)
+
+Multiple testing: 13 of 36 plot-position and timing tests have p < 0.05 (≈2 expected by chance); 4 survive a Benjamini–Hochberg correction (FDR 5%).
+  Survive: foresight → log popularity (+0.016, q < 0.0001); foresight → rating (+0.026, q 0.013); betweenness → revenue percentile (+0.012, q 0.013); participation → revenue percentile (-0.008, q 0.048).
+  Do not survive (report as tentative): same-year competition → revenue percentile (p 0.01, q 0.071); foresight → revenue percentile (p 0.012, q 0.071); foresight → log ROI (p 0.018, q 0.091); betweenness → log revenue (p 0.023, q 0.1); clustering → log revenue (p 0.028, q 0.11); clustering → revenue percentile (p 0.031, q 0.11); clustering → log popularity (p 0.035, q 0.11); betweenness → log popularity (p 0.044, q 0.13); participation → log revenue (p 0.046, q 0.13).
+Communities differing from the average film after controls, raw → after FDR: revenue percentile 11 → 10 of 35; rating 14 → 13 of 35.
+Foresight windows (same 3,876–14,262 films per outcome, Notebook 06 controls): significant with the 1–5-year window for revenue percentile, log ROI, rating, log popularity; with films released 1–2 years later (too soon to be copies) for none; 3–5 years later for rating, log popularity.
+  1–2-year window: revenue percentile -0.0017 (p=0.54); log ROI +0.0470 (p=0.051); rating +0.0200 (p=0.06); log popularity +0.0075 (p=0.068). 3–5-year window: revenue percentile +0.0054 (p=0.13); log ROI +0.0601 (p=0.051); rating +0.0199 (p=0.0066); log popularity +0.0149 (p=9.8e-05).
+Imitation test, revenue percentile: 1 SD more success → later similarity -0.0087 SD after 1–2 years (p=0.028), +0.0002 SD after 3–5 years (p=0.96) — no imitation signature: success does not predict more similar stories 3–5 years later.
+Imitation test, rating: 1 SD more success → later similarity +0.0043 SD after 1–2 years (p=0.45), +0.0052 SD after 3–5 years (p=0.18) — no imitation signature: success does not predict more similar stories 3–5 years later.
+Imitation test, log popularity: 1 SD more success → later similarity +0.0038 SD after 1–2 years (p=0.031), +0.0080 SD after 3–5 years (p=5.4e-06) — imitation signature: success predicts similar stories 3–5 years later.
+Check: the 1–5-year foresight measure reproduces Notebook 06 (r = 1.0000).
+Rebuilt networks: MiniLM k=10 16,955 films, mean degree 4.0; MiniLM k=20 19,084 films, mean degree 7.4; MiniLM k=30 19,556 films, mean degree 11.0; TF-IDF k=20 19,911 films, mean degree 12.1.
+R² added by plot position over the controls ranges 0.0002–0.0050 across 4 networks and 4 outcomes (main network: 0.0004–0.0046).
+Plot-position block jointly significant in M4 (p < 0.05): log revenue in 3 of 4 networks; revenue percentile in 4 of 4 networks; rating in 2 of 4 networks; log popularity in 2 of 4 networks.
+  betweenness → log revenue (main +0.093): same sign and p < 0.05 in MiniLM k=20, MiniLM k=30; same sign, not significant in MiniLM k=10, TF-IDF k=20.
+  participation → log revenue (main -0.065): same sign and p < 0.05 in MiniLM k=20; same sign, not significant in MiniLM k=10, MiniLM k=30, TF-IDF k=20.
+  clustering → log revenue (main +0.068): same sign and p < 0.05 in MiniLM k=10, MiniLM k=30; same sign, not significant in MiniLM k=20; opposite sign in TF-IDF k=20.
+  betweenness → revenue percentile (main +0.012): same sign and p < 0.05 in MiniLM k=20, MiniLM k=30; same sign, not significant in MiniLM k=10, TF-IDF k=20.
+  participation → revenue percentile (main -0.008): same sign and p < 0.05 in MiniLM k=20, MiniLM k=30; same sign, not significant in MiniLM k=10, TF-IDF k=20.
+  clustering → revenue percentile (main +0.007): same sign and p < 0.05 in MiniLM k=10, MiniLM k=30; same sign, not significant in MiniLM k=20; opposite sign in TF-IDF k=20.
+  betweenness → log popularity (main +0.010): same sign and p < 0.05 in MiniLM k=20, MiniLM k=30; same sign, not significant in MiniLM k=10, TF-IDF k=20.
+  clustering → log popularity (main +0.010): same sign and p < 0.05 in MiniLM k=20, MiniLM k=30; same sign, not significant in MiniLM k=10; opposite sign in TF-IDF k=20.
+Moran's I (similar plots, similar fates) across networks: revenue percentile 0.040–0.150, p < 0.05 in 4 of 4; rating 0.036–0.107, p < 0.05 in 4 of 4.
+
+Communities in rebuilt networks come from the best of several Louvain runs, not the consensus of Notebook 03; the community control in all models is the 35 labelled communities of the main network. All results are associations, not causal effects.

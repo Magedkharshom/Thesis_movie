@@ -18,6 +18,7 @@ Run the notebooks in order in Google Colab. Each one reads only what the earlier
 | 04 | `04_network_interpretation_v2.ipynb` | Interprets the network: distinctive words, labels for the 35 major communities, central, bridge and boundary films, communities vs genres. | `outputs/{tables,figures}/interpretation/`, labelled community file |
 | 05 | `05_success_and_star_power_v2.ipynb` | Nested regressions (controls → plot network → star power → community) for revenue, rating and popularity; novelty sweet spot; community effects; robustness. | `outputs/{tables,figures}/success/`, `processed/features/modeling_table_success_star_power.csv` |
 | 06 | `06_narrative_dynamics.ipynb` | Timing: crowding, foresight and competition; rising and fading narratives; Moran's *I*; out-of-sample prediction from plot neighbours. | `outputs/{tables,figures}/narrative_dynamics/` |
+| 07 | `07_robustness_checks.ipynb` | Robustness: Benjamini–Hochberg correction of the plot, timing and community tests; foresight vs imitation (shorter foresight windows, does success attract similar stories?); the network rebuilt with k = 10/20/30 and from TF-IDF word vectors, with the Notebook 05 models and Moran's *I* re-run on each. | `outputs/{tables,figures}/robustness/` |
 | 08 | `08_thesis_bricks.ipynb` | The thesis figures: eight presentation bricks built from the outputs above. It re-estimates nothing. | `outputs/thesis_bricks/` |
 
 `tools/tidy_project.ipynb` moves files the pipeline no longer uses into an archive folder (see *Archive* below).
@@ -34,7 +35,7 @@ processed/
   features/               sentence embeddings, modelling table, time-aware plot features (Notebooks 03, 05, 06)
 outputs/
   tables/                 tables of every notebook; sub-folders per notebook:
-    eda/ · interpretation/ · success/ · narrative_dynamics/ · corpus_audit/ · network_diagnostics/
+    eda/ · interpretation/ · success/ · narrative_dynamics/ · corpus_audit/ · network_diagnostics/ · robustness/
                           (files directly in tables/ are written by Notebooks 01–05 under the names
                            later notebooks read, e.g. community_manual_labeling_template_labeled.csv)
   figures/                analysis figures, same sub-folders as tables/
@@ -62,6 +63,8 @@ Every figure is saved together with a CSV of the numbers it shows. Each notebook
 
 The remaining figures of each brick are listed as appendix material in its `text/brick_NN_notes.txt`.
 
+**Robustness (Notebook 07).** `outputs/tables/robustness/robustness_notes.txt` says which results survive a multiple-testing correction, whether the foresight result could be imitation, and how much the plot-position results depend on k and the text representation. The Brick 8 storyline uses these numbers when the folder exists. A second sentence-BERT model (all-mpnet-base-v2) runs automatically in Colab when a GPU runtime is selected.
+
 ---
 
 ## Running the project
@@ -70,7 +73,7 @@ The remaining figures of each brick are listed as appendix material in its `text
 2. Open a notebook in Colab and run all cells. Drive is mounted automatically.
 3. Notebook 03 downloads the sentence-BERT model and the spaCy model `en_core_web_sm` on first use. A GPU speeds up the embedding step but is not required.
 
-**Packages** (all preinstalled in Colab except where noted): pandas, numpy, matplotlib, scipy, scikit-learn, statsmodels, networkx, python-igraph, sentence-transformers, spacy. Notebook 08 was tested with pandas 2.3, numpy 2.5, matplotlib 3.11, scipy 1.18, scikit-learn 1.9, statsmodels 0.15, networkx 3.7.
+**Packages** (all preinstalled in Colab except where noted): pandas, numpy, matplotlib, scipy, scikit-learn, statsmodels, networkx, python-igraph, sentence-transformers, spacy. Notebooks 07 and 08 were tested with pandas 2.3, numpy 2.5, matplotlib 3.11, scipy 1.18, scikit-learn 1.9, statsmodels 0.15, networkx 3.7.
 
 **Reproducibility.** Random steps use fixed seeds (`random_state = 42`). Each run writes manifests (`corpus_manifest.json`, `network_manifest.json`) with row counts and fingerprints, and later notebooks check them, so a stale input stops the run instead of silently changing results. One figure differs between machines: the t-SNE map in Brick 2 (`fig_05_embedding_map`) is laid out slightly differently by each scikit-learn version. Which communities sit together is stable; their position on the page is not.
 
