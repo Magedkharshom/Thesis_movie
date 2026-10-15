@@ -1,0 +1,7 @@
+value,label,note
+"98,037",thesis corpus,released feature films 1990–2024
+"20,091",semantic corpus,"usable plot text, ≥ 25 votes"
+"19,084",films in the network,largest connected component
+1990–2024,release years,median 2013
+"7,547",with revenue,40% of network films
+"4,910",with ROI,revenue and budget ≥ $10k

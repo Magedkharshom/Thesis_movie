@@ -1,0 +1,6 @@
+Brick 3 — Network construction
+
+Mutual 20-nearest-neighbour network: 398,367 directed candidate links → 70,372 mutual edges. The largest connected component holds 19,084 films and 70,252 edges (average degree 7.36, density 0.000386).
+69% of edges lie inside a community; edges inside are stronger (median cosine 0.571 vs 0.554).
+Wording: the mutual rule removes one-sided links to generic, hub-like plots, so no film can have more than k edges.
+Main text: fig_01_construction_flow, fig_05_edge_homophily. Appendix: fig_02–04, fig_06.

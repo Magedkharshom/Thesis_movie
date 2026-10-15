@@ -1,0 +1,4 @@
+distribution,n,median,p05,p95
+random pairs,199988,0.2025,0.0405,0.3815
+20th neighbour,3000,0.4975,0.4014,0.5929
+network edges,70252,0.5654,0.4706,0.6609

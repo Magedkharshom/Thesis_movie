@@ -1,0 +1,9 @@
+network,representation,k,outcome,morans_I,morans_p,morans_null_p95
+MiniLM k=10,MiniLM,10,revenue_percentile_year,0.150075,0.005,0.020601
+MiniLM k=10,MiniLM,10,vote_average,0.107041,0.005,0.010316
+MiniLM k=20,MiniLM,20,revenue_percentile_year,0.120743,0.005,0.015995
+MiniLM k=20,MiniLM,20,vote_average,0.098299,0.005,0.006577
+MiniLM k=30,MiniLM,30,revenue_percentile_year,0.096148,0.005,0.012155
+MiniLM k=30,MiniLM,30,vote_average,0.087417,0.005,0.005543
+TF-IDF k=20,TF-IDF,20,revenue_percentile_year,0.039566,0.005,0.013155
+TF-IDF k=20,TF-IDF,20,vote_average,0.036367,0.005,0.004886

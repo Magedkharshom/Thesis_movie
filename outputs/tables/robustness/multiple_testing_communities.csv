@@ -1,0 +1,71 @@
+community_id,label,coef,p_value,outcome,q_value,significant_raw,survives_fdr
+8,"Japanese and Korean cinema: samurai, yakuza, school life and anime",0.234191,0.0,vote_average,0.0,True,True
+12,"Music, bands and performers' careers",0.200384,0.0,vote_average,1e-06,True,True
+29,"Forests, cabins and remote wilderness",-0.142393,2e-06,revenue_percentile_year,5.6e-05,True,True
+10,Latin American and Spanish-language drama,0.144152,8e-06,vote_average,0.000142,True,True
+6,"Fairy tales, royalty and mythic fantasy",0.047603,4.8e-05,revenue_percentile_year,0.000604,True,True
+4,"Science fiction, space, robots and superhero worlds",-0.12058,5.8e-05,vote_average,0.000604,True,True
+24,"Zombies, viruses and outbreaks",-0.264521,6e-05,vote_average,0.000604,True,True
+4,"Science fiction, space, robots and superhero worlds",0.044297,7.9e-05,revenue_percentile_year,0.00069,True,True
+2,"Family secrets, siblings and domestic threat",0.081077,0.00011,vote_average,0.000857,True,True
+5,"Supernatural horror: hauntings, demons and possession",-0.094729,0.00052,vote_average,0.003643,True,True
+13,"Film-making, acting and show business",-0.059447,0.000735,revenue_percentile_year,0.004678,True,True
+28,Nordic and arthouse family drama (mixed),-0.119072,0.000826,revenue_percentile_year,0.004816,True,True
+18,"Espionage, secret agents, terrorism and hackers",0.061963,0.00109,revenue_percentile_year,0.005872,True,True
+19,"Indian romance, marriage and family",-0.190044,0.001657,vote_average,0.008286,True,True
+18,"Espionage, secret agents, terrorism and hackers",-0.146846,0.002971,vote_average,0.013865,True,True
+1,"Romance, marriage and relationship drama-comedy",-0.062341,0.003486,vote_average,0.01525,True,True
+11,Animals and pets: family animal adventures,0.039102,0.004379,revenue_percentile_year,0.018031,True,True
+10,Latin American and Spanish-language drama,-0.041686,0.005116,revenue_percentile_year,0.019897,True,True
+7,French relationship and family drama-comedy,-0.075476,0.008852,vote_average,0.032611,True,True
+9,"School, campus and dance coming-of-age",0.082518,0.009686,vote_average,0.033901,True,True
+22,Boxing and martial-arts fighters,0.142258,0.011153,vote_average,0.037176,True,True
+12,"Music, bands and performers' careers",-0.039323,0.013299,revenue_percentile_year,0.042314,True,True
+9,"School, campus and dance coming-of-age",0.032061,0.014743,revenue_percentile_year,0.044869,True,True
+26,Vampires and werewolves,-0.146838,0.01934,vote_average,0.056407,True,False
+25,"Twins, sisters and family identity (mixed)",-0.066978,0.020712,revenue_percentile_year,0.057995,True,False
+23,"Religion, faith, angels and the clergy",0.112861,0.050617,vote_average,0.136276,False,False
+15,"Italian comedy, family and the mafia",-0.029014,0.064152,revenue_percentile_year,0.16269,False,False
+7,French relationship and family drama-comedy,-0.027584,0.065076,revenue_percentile_year,0.16269,False,False
+14,"The sea: ships, sharks, pirates and island survival",-0.067467,0.091258,vote_average,0.220278,False,False
+6,"Fairy tales, royalty and mythic fantasy",-0.047673,0.116123,vote_average,0.25895,False,False
+26,Vampires and werewolves,-0.045956,0.116657,revenue_percentile_year,0.25895,False,False
+0,"Crime, policing and the criminal underworld",0.030541,0.118377,vote_average,0.25895,False,False
+34,Treasure hunts and gold,-0.136961,0.132436,vote_average,0.280925,False,False
+2,"Family secrets, siblings and domestic threat",-0.015694,0.144485,revenue_percentile_year,0.29564,False,False
+30,"Gambling, poker, lotteries and money",0.044789,0.14782,revenue_percentile_year,0.29564,False,False
+25,"Twins, sisters and family identity (mixed)",-0.089557,0.152694,vote_average,0.296904,False,False
+14,"The sea: ships, sharks, pirates and island survival",0.021843,0.170318,revenue_percentile_year,0.322222,False,False
+21,"Christmas, holiday comedy and seasonal family fantasy",0.032244,0.199687,revenue_percentile_year,0.367845,False,False
+30,"Gambling, poker, lotteries and money",-0.08298,0.212077,vote_average,0.380652,False,False
+32,Mixed residual community (no clear theme),-0.052318,0.218191,revenue_percentile_year,0.381835,False,False
+33,"Turkey, Iran and the Middle East: history and village life",0.101714,0.24882,vote_average,0.419984,False,False
+23,"Religion, faith, angels and the clergy",-0.028797,0.251991,revenue_percentile_year,0.419984,False,False
+3,"War, historical conflict and military action",-0.010623,0.297746,revenue_percentile_year,0.475425,False,False
+24,"Zombies, viruses and outbreaks",-0.035102,0.298838,revenue_percentile_year,0.475425,False,False
+20,"Cars, racing and road journeys",-0.026285,0.306898,revenue_percentile_year,0.477396,False,False
+5,"Supernatural horror: hauntings, demons and possession",0.013085,0.326006,revenue_percentile_year,0.496096,False,False
+32,Mixed residual community (no clear theme),-0.066568,0.344086,vote_average,0.505245,False,False
+16,"Hospitals, illness, memory and the mind",0.037144,0.346454,vote_average,0.505245,False,False
+0,"Crime, policing and the criminal underworld",-0.008106,0.388052,revenue_percentile_year,0.548203,False,False
+17,"Sports teams, coaches and competition",0.013642,0.391574,revenue_percentile_year,0.548203,False,False
+27,"Friend groups, reunions and getaways",-0.050763,0.434429,vote_average,0.586908,False,False
+19,"Indian romance, marriage and family",-0.020822,0.435989,revenue_percentile_year,0.586908,False,False
+34,Treasure hunts and gold,-0.023555,0.480861,revenue_percentile_year,0.6351,False,False
+11,Animals and pets: family animal adventures,-0.021353,0.52225,vote_average,0.674722,False,False
+27,"Friend groups, reunions and getaways",0.018962,0.537779,revenue_percentile_year,0.674722,False,False
+16,"Hospitals, illness, memory and the mind",0.012847,0.539778,revenue_percentile_year,0.674722,False,False
+31,"Fashion, beauty trades and small businesses (mixed)",0.021686,0.568413,revenue_percentile_year,0.698051,False,False
+17,"Sports teams, coaches and competition",0.019979,0.591187,vote_average,0.702733,False,False
+29,"Forests, cabins and remote wilderness",-0.03118,0.592304,vote_average,0.702733,False,False
+13,"Film-making, acting and show business",0.016634,0.656734,vote_average,0.761146,False,False
+15,"Italian comedy, family and the mafia",0.01571,0.675831,vote_average,0.761146,False,False
+20,"Cars, racing and road journeys",0.01915,0.680485,vote_average,0.761146,False,False
+22,Boxing and martial-arts fighters,-0.010393,0.685031,revenue_percentile_year,0.761146,False,False
+28,Nordic and arthouse family drama (mixed),-0.020294,0.76293,vote_average,0.834455,False,False
+31,"Fashion, beauty trades and small businesses (mixed)",-0.019731,0.784113,vote_average,0.84443,False,False
+1,"Romance, marriage and relationship drama-comedy",-0.002354,0.822557,revenue_percentile_year,0.872409,False,False
+3,"War, historical conflict and military action",-0.004251,0.854029,vote_average,0.892269,False,False
+33,"Turkey, Iran and the Middle East: history and village life",0.005316,0.876629,revenue_percentile_year,0.896669,False,False
+21,"Christmas, holiday comedy and seasonal family fantasy",-0.007864,0.883859,vote_average,0.896669,False,False
+8,"Japanese and Korean cinema: samurai, yakuza, school life and anime",-0.001157,0.932073,revenue_percentile_year,0.932073,False,False

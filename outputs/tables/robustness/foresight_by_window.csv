@@ -1,0 +1,17 @@
+outcome,window,coef,ci_low,ci_high,p_value,n_obs
+revenue_percentile_year,1 year after,-0.00471,-0.011133,0.001712,0.150588,5689
+revenue_percentile_year,1–2 years after,-0.001714,-0.007197,0.003769,0.540046,5689
+revenue_percentile_year,3–5 years after,0.005415,-0.001566,0.012397,0.128458,5689
+revenue_percentile_year,1–5 years after (Notebook 06),0.007608,0.001682,0.013534,0.011858,5689
+log_roi,1 year after,0.030031,-0.027429,0.08749,0.30567,3876
+log_roi,1–2 years after,0.046972,-0.000162,0.094106,0.050792,3876
+log_roi,3–5 years after,0.060114,-0.000354,0.120583,0.051357,3876
+log_roi,1–5 years after (Notebook 06),0.07009,0.012208,0.127972,0.017628,3876
+vote_average,1 year after,0.017206,-0.015276,0.049688,0.299176,14262
+vote_average,1–2 years after,0.020006,-0.000875,0.040887,0.060408,14262
+vote_average,3–5 years after,0.019857,0.005539,0.034176,0.006565,14262
+vote_average,1–5 years after (Notebook 06),0.025979,0.010774,0.041184,0.000812,14262
+log_popularity,1 year after,0.003503,-0.005207,0.012212,0.430559,14262
+log_popularity,1–2 years after,0.007536,-0.000564,0.015637,0.068242,14262
+log_popularity,3–5 years after,0.01489,0.007398,0.022383,9.8e-05,14262
+log_popularity,1–5 years after (Notebook 06),0.016332,0.009837,0.022826,1e-06,14262

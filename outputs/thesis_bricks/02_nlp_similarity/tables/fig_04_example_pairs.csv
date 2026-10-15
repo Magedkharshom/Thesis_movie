@@ -1,0 +1,5 @@
+level,cosine,kind,film_a,film_b,community_a,community_b
+very high (top 1% of edges),0.6999276,edge,The Hidden Blade (2004),Hana (2006),C8 · Japan & Korea,C8 · Japan & Korea
+high (top quarter of edges),0.60609794,edge,Heaven & Earth (1993),Camp X-Ray (2014),C3 · War & military,C3 · War & military
+typical edge (bottom quarter),0.52390903,edge,Girl on a Bicycle (2013),Zoran: My Nephew the Idiot (2013),C15 · Italian comedy & mafia,C15 · Italian comedy & mafia
+random pair (no edge),0.16970552504062653,random,Simply Irresistible (1999),Lost and Beautiful (2015),C36 · minor,C15 · Italian comedy & mafia

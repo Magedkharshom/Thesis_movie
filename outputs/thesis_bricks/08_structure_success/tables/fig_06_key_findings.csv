@@ -1,0 +1,8 @@
+value,label,note
++0.005,R² from plot position · revenue percentile,star power adds 0.059; plot block p = 0.00023
++0.000,R² from plot position · rating,star power adds 0.006; plot block p = 0.1
+0.12,Moran's I · revenue percentile,"chance level ≤ 0.015: similar plots, similar fates"
++0.023,out-of-sample R² · rating,from earlier films' outcomes; genre prior +0.001
++0.018,out-of-sample R² · revenue percentile,from earlier films' outcomes; genre prior -0.000
+4/4,"outcomes with a positive, significant foresight effect",stories that later films came to resemble
+14/35,communities that differ in rating,"after year, genre, star power and plot position"

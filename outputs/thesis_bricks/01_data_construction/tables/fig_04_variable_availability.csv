@@ -1,0 +1,13 @@
+variable,column,available_pct,n_available
+budget and revenue (ROI),log_roi,25.728358834625865,4910
+budget,budget_clean,34.798784321945085,6641
+revenue,revenue_clean,39.54621672605324,7547
+cast,cast_clean,99.91616013414378,19068
+director,director_name,99.91616013414378,19068
+plot overview,overview,100.0,19084
+primary genre,primary_genre,100.0,19084
+release year,release_year,100.0,19084
+popularity,popularity,100.0,19084
+rating,vote_average,100.0,19084
+vote count,vote_count,100.0,19084
+runtime,runtime,100.0,19084

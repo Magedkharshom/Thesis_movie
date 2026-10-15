@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="712.944pt" height="321.264pt" viewBox="0 0 712.944 321.264" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T16:18:35.937227</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 321.264 
+L 712.944 321.264 
+L 712.944 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 182.377358 
+L 231.092308 182.377358 
+L 231.092308 64.8 
+L 7.2 64.8 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 27.350308 175.322717 
+L 210.942 175.322717 
+Q 224.375538 175.322717 224.375538 168.268075 
+L 224.375538 78.909283 
+Q 224.375538 71.854642 210.942 71.854642 
+L 27.350308 71.854642 
+Q 13.916769 71.854642 13.916769 78.909283 
+L 13.916769 168.268075 
+Q 13.916769 175.322717 27.350308 175.322717 
+z
+" clip-path="url(#p4aab886d19)" style="fill: #dbe8f8"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="25.111385" y="102.657207" transform="rotate(-0 25.111385 102.657207)">19,084</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="25.111385" y="132.019899" transform="rotate(-0 25.111385 132.019899)">films</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="25.111385" y="161.124574" transform="rotate(-0 25.111385 161.124574)">largest connected component</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_4">
+    <path d="M 244.525846 182.377358 
+L 468.418154 182.377358 
+L 468.418154 64.8 
+L 244.525846 64.8 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 264.676154 175.322717 
+L 448.267846 175.322717 
+Q 461.701385 175.322717 461.701385 168.268075 
+L 461.701385 78.909283 
+Q 461.701385 71.854642 448.267846 71.854642 
+L 264.676154 71.854642 
+Q 251.242615 71.854642 251.242615 78.909283 
+L 251.242615 168.268075 
+Q 251.242615 175.322717 264.676154 175.322717 
+z
+" clip-path="url(#p173c9aa811)" style="fill: #fbe3d7"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="262.437231" y="102.657207" transform="rotate(-0 262.437231 102.657207)">70,252</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="262.437231" y="131.012086" transform="rotate(-0 262.437231 131.012086)">edges</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="262.437231" y="161.124574" transform="rotate(-0 262.437231 161.124574)">mutual plot neighbours</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_6">
+    <path d="M 481.851692 182.377358 
+L 705.744 182.377358 
+L 705.744 64.8 
+L 481.851692 64.8 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 502.002 175.322717 
+L 685.593692 175.322717 
+Q 699.027231 175.322717 699.027231 168.268075 
+L 699.027231 78.909283 
+Q 699.027231 71.854642 685.593692 71.854642 
+L 502.002 71.854642 
+Q 488.568462 71.854642 488.568462 78.909283 
+L 488.568462 168.268075 
+Q 488.568462 175.322717 502.002 175.322717 
+z
+" clip-path="url(#pffdab6493d)" style="fill: #d5f0e5"/>
+   </g>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6"/>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="499.763077" y="102.657207" transform="rotate(-0 499.763077 102.657207)">7.4</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="499.763077" y="131.012086" transform="rotate(-0 499.763077 131.012086)">average degree</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="499.763077" y="161.846559" transform="rotate(-0 499.763077 161.846559)">at most 20</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_8">
+    <path d="M 7.2 314.064 
+L 231.092308 314.064 
+L 231.092308 196.486642 
+L 7.2 196.486642 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 27.350308 307.009358 
+L 210.942 307.009358 
+Q 224.375538 307.009358 224.375538 299.954717 
+L 224.375538 210.595925 
+Q 224.375538 203.541283 210.942 203.541283 
+L 27.350308 203.541283 
+Q 13.916769 203.541283 13.916769 210.595925 
+L 13.916769 299.954717 
+Q 13.916769 307.009358 27.350308 307.009358 
+z
+" clip-path="url(#pf4a5c94b09)" style="fill: #fbedcc"/>
+   </g>
+   <g id="matplotlib.axis_7"/>
+   <g id="matplotlib.axis_8"/>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="25.111385" y="234.343849" transform="rotate(-0 25.111385 234.343849)">0.00039</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="25.111385" y="262.698728" transform="rotate(-0 25.111385 262.698728)">density</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="25.111385" y="292.811216" transform="rotate(-0 25.111385 292.811216)">share of possible links present</text>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_10">
+    <path d="M 244.525846 314.064 
+L 468.418154 314.064 
+L 468.418154 196.486642 
+L 244.525846 196.486642 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 264.676154 307.009358 
+L 448.267846 307.009358 
+Q 461.701385 307.009358 461.701385 299.954717 
+L 461.701385 210.595925 
+Q 461.701385 203.541283 448.267846 203.541283 
+L 264.676154 203.541283 
+Q 251.242615 203.541283 251.242615 210.595925 
+L 251.242615 299.954717 
+Q 251.242615 307.009358 264.676154 307.009358 
+z
+" clip-path="url(#p6def82d37c)" style="fill: #dbe8f8"/>
+   </g>
+   <g id="matplotlib.axis_9"/>
+   <g id="matplotlib.axis_10"/>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="262.437231" y="234.343849" transform="rotate(-0 262.437231 234.343849)">105</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="262.437231" y="263.70654" transform="rotate(-0 262.437231 263.70654)">communities</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="262.437231" y="292.811216" transform="rotate(-0 262.437231 292.811216)">35 major (≥ 100 films)</text>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_12">
+    <path d="M 481.851692 314.064 
+L 705.744 314.064 
+L 705.744 196.486642 
+L 481.851692 196.486642 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 502.002 307.009358 
+L 685.593692 307.009358 
+Q 699.027231 307.009358 699.027231 299.954717 
+L 699.027231 210.595925 
+Q 699.027231 203.541283 685.593692 203.541283 
+L 502.002 203.541283 
+Q 488.568462 203.541283 488.568462 210.595925 
+L 488.568462 299.954717 
+Q 488.568462 307.009358 502.002 307.009358 
+z
+" clip-path="url(#pf2c1a68c6c)" style="fill: #fbe3d7"/>
+   </g>
+   <g id="matplotlib.axis_11"/>
+   <g id="matplotlib.axis_12"/>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="499.763077" y="234.343849" transform="rotate(-0 499.763077 234.343849)">0.65</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="499.763077" y="262.698728" transform="rotate(-0 499.763077 262.698728)">modularity</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="499.763077" y="293.605591" transform="rotate(-0 499.763077 293.605591)">consensus Louvain</text>
+   </g>
+  </g>
+  <g id="text_19">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="7.2" y="17.077969" transform="rotate(-0 7.2 17.077969)">The plot-similarity network at a glance</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">Notebook 03 v2</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4aab886d19">
+   <rect x="7.2" y="64.8" width="223.892308" height="117.577358"/>
+  </clipPath>
+  <clipPath id="p173c9aa811">
+   <rect x="244.525846" y="64.8" width="223.892308" height="117.577358"/>
+  </clipPath>
+  <clipPath id="pffdab6493d">
+   <rect x="481.851692" y="64.8" width="223.892308" height="117.577358"/>
+  </clipPath>
+  <clipPath id="pf4a5c94b09">
+   <rect x="7.2" y="196.486642" width="223.892308" height="117.577358"/>
+  </clipPath>
+  <clipPath id="p6def82d37c">
+   <rect x="244.525846" y="196.486642" width="223.892308" height="117.577358"/>
+  </clipPath>
+  <clipPath id="pf2c1a68c6c">
+   <rect x="481.851692" y="196.486642" width="223.892308" height="117.577358"/>
+  </clipPath>
+ </defs>
+</svg>
