@@ -1,0 +1,10 @@
+outcome,window,coef,ci_low,ci_high,p_value,n_obs
+revenue_percentile_year,1 year after,-0.013531,-0.022095,-0.004967,0.001957,5689
+revenue_percentile_year,1–2 years after,-0.008678,-0.016401,-0.000955,0.027644,5689
+revenue_percentile_year,3–5 years after,0.000207,-0.008593,0.009007,0.963175,5689
+vote_average,1 year after,0.003707,-0.012188,0.019602,0.64761,14262
+vote_average,1–2 years after,0.004277,-0.006783,0.015337,0.448494,14262
+vote_average,3–5 years after,0.005221,-0.002359,0.012801,0.177026,14262
+log_popularity,1 year after,0.002471,-0.001688,0.00663,0.244291,14262
+log_popularity,1–2 years after,0.003822,0.000346,0.007299,0.031174,14262
+log_popularity,3–5 years after,0.007987,0.004547,0.011427,5e-06,14262
