@@ -1,0 +1,91 @@
+pair_id,group,node_a,node_b,cosine_similarity,title_a,title_b
+1,same genre,13280,19651,0.3204496502876282,The Commander,Tankers
+2,random,10188,13287,0.09962357580661774,Justice League: Crisis on Two Earths,Unfinished Business
+3,same genre,7332,15530,0.11230330169200897,Invictus,Bokeh
+4,random,16310,12889,0.1991339921951294,"Good Guys Go to Heaven, Bad Guys Go to Pattaya",Azrael
+5,random,5698,9507,0.10987268388271332,Inuyasha the Movie 4: Fire on the Mystic Island,Dua Lipa: Studio 2054
+6,same genre,6917,3990,0.4470292627811432,In the Arms of an Assassin,Life Is a Miracle
+7,same genre,12074,11321,0.339141845703125,Famous Five,HOUBA! On the Trail of the Marsupilami
+8,random,5798,2743,0.19445675611495972,Impy's Island,Alone
+9,random,14461,13762,0.31025853753089905,Eastern Boys,The French Minister
+10,linked,10916,11526,0.49921703338623047,"Montevideo, God Bless You!",United
+11,random,9482,19488,0.39300858974456787,Endangered Species,The Seven Deadly Sins: Prisoners of the Sky
+12,random,2812,19205,0.22392088174819946,In Bed with Santa,The Wind
+13,same genre,12878,13689,0.2228078544139862,Yevadu,Holiday
+14,same genre,11101,12429,0.27930524945259094,Drunk Stoned Brilliant Dead,The Imitation Game
+15,linked,7038,9721,0.47851642966270447,Ghost in the Shell: S.A.C. 2nd GIG - Individual Eleven,Gurren Lagann the Movie: The Lights in the Sky Are Stars
+16,same genre,10463,17770,0.24464736878871918,Eismayer,The Rider
+17,random,120,13243,0.24543584883213043,Life Is Sweet,East Side Sushi
+18,same genre,4573,16945,0.1393369883298874,Kill Bill: Vol. 2,The Stronghold
+19,same genre,8575,2456,0.2559009790420532,Where Hands Touch,Cold Mountain
+20,linked,2491,12037,0.5786182284355164,Ghost World,Sunny
+21,random,3908,5172,0.14616942405700684,Philanthropy,The Darwin Awards
+22,linked,6286,16464,0.5659810304641724,World War Z,Range 15
+23,random,1186,11328,0.07186652719974518,Apollo 13,Ethel & Ernest
+24,random,1728,15636,0.11377931386232376,8 Heads in a Duffel Bag,Big Time Adolescence
+25,same genre,11641,16761,0.2850758731365204,Freelancers,Get Out
+26,random,8134,13408,0.2634773850440979,Wickie the Mighty Viking,Ain't Them Bodies Saints
+27,linked,12901,14251,0.6218721866607666,Red Rooms,The Diary
+28,linked,11416,17076,0.6075435876846313,When the Lights Went Out,The Black Room
+29,linked,5870,12767,0.5616090893745422,Save the Last Dance 2,Five Dances
+30,random,4621,6088,0.09200731664896011,Slipstream,Dororo
+31,same genre,10733,19544,0.11239977926015854,Leila,Lindenberg! Mach dein Ding
+32,linked,13887,18472,0.5856218338012695,Sunrise,Cingöz Recai
+33,random,428,12615,0.21322974562644958,Trancers II,Spellbound
+34,random,14965,12234,0.21092425286769867,Jailbait,A Tourist's Guide to Love
+35,same genre,15255,9552,0.22654615342617035,Time Out of Mind,Straight Outta Compton
+36,linked,5804,8017,0.6046494245529175,The Losers,The Librarian: The Curse of the Judas Chalice
+37,same genre,5561,10892,0.17412814497947693,Outlander,51
+38,linked,14564,18097,0.48797857761383057,Goebbels and the Führer,The Photographer of Mauthausen
+39,same genre,9759,6890,0.20105567574501038,Hansel & Gretel: Witch Hunters,Hansel & Gretel
+40,linked,6499,12781,0.4540090262889862,Monica's Gang in an Adventure in Time,Lost and Beautiful
+41,same genre,10259,5411,0.3853881061077118,Mad God,Barbie: Fairytopia
+42,random,12748,3948,0.36164504289627075,Earth to Echo,The Incredibles
+43,linked,16014,17760,0.6435568332672119,Adult Life Skills,The Hole in the Ground
+44,same genre,19516,18154,0.20145466923713684,DolceRoma,Champions
+45,same genre,6772,8913,0.1275118589401245,Back Roads,Nail Bomber: Manhunt
+46,same genre,5536,6733,0.19215837121009827,In the Name of the King: A Dungeon Siege Tale,A Monster in Paris
+47,random,11894,6302,0.23224866390228271,Night of the Living Dead: Re-Animation,Ghosts of Girlfriends Past
+48,linked,750,13438,0.6532431840896606,Strawberry and Chocolate,The Last Match
+49,random,9364,18311,0.2650092840194702,Night at the Museum: Kahmunrah Rises Again,Mandy
+50,same genre,19860,1115,0.18013660609722137,Long Distance,Scanner Cop
+51,random,19537,10460,0.11039851605892181,Man Up!,Corrective Measures
+52,same genre,2296,17968,0.20675134658813477,The Yards,Stockholm
+53,random,8437,18832,0.09355897456407547,Anything for Jackson,Raoul Taburin
+54,linked,14811,17351,0.5820217132568359,Utopia,You Were Never Really Here
+55,same genre,1773,3198,0.23079612851142883,Breakdown,American Nightmare
+56,same genre,2822,18958,0.3060774803161621,Rock Star,Ray Charles - Live in France 1961
+57,linked,14670,17326,0.5778162479400635,Girl Lost,Thumper
+58,same genre,5950,1598,0.2797341048717499,Boarding Gate,The Hunters
+59,same genre,4270,3079,0.25710612535476685,God Is Brazilian,Pokémon 3: The Movie
+60,linked,7262,13131,0.644020676612854,Séraphine,"Bonnard, Pierre and Marthe"
+61,linked,1740,6452,0.5161885023117065,Anastasia,Barbie in the 12 Dancing Princesses
+62,linked,3705,6963,0.526864767074585,Austin Powers in Goldmember,Shazam! Fury of the Gods
+63,linked,11109,15063,0.5783901214599609,Mean Girls 2,Bad Kids of Crestview Academy
+64,same genre,18474,9180,0.23027683794498444,Land of Hope,A Radiant Girl
+65,random,11018,10669,0.4343533515930176,Chebi: My Fluffy Friend,Xuxa and the Mystery of the Little Ugly Princess
+66,linked,5827,14292,0.5667681694030762,The Strangers,White Settlers
+67,random,4717,15839,0.18937180936336517,Innocent Voices,Robin Hood: The True Story
+68,same genre,9987,5003,0.18997174501419067,Indiana Jones and the Dial of Destiny,My Uncle Killed a Guy
+69,linked,11366,12768,0.5579820275306702,Barely Lethal,It Boy
+70,linked,9368,14674,0.6027932167053223,The Inhabitant,Lizzie Borden Took an Ax
+71,linked,2915,19360,0.5096151828765869,102 Dalmatians,100% Wolf
+72,linked,3961,17259,0.5551140308380127,Resident Evil: Apocalypse,Dead Trigger
+73,random,17307,10834,0.4719107747077942,Heartthrob,The Music Never Stopped
+74,same genre,2236,11141,0.20604082942008972,Run Lola Run,Flying Swords of Dragon Gate
+75,random,19508,16422,0.09669194370508194,The Eyes of Tammy Faye,The Warriors Gate
+76,linked,17308,17755,0.6448981165885925,Stasis,Ava
+77,random,5205,14097,0.17734205722808838,L'uomo perfetto,The Roundup 4: Punishment
+78,random,7145,14129,0.06153728440403938,Righteous Kill,The Time It Takes
+79,linked,13918,18047,0.6099661588668823,October Gale,Bluebeard
+80,linked,225,1021,0.5885014533996582,976-Evil II,Fist of Legend
+81,random,16359,7322,0.33180007338523865,Custody,Dreamkatcher
+82,same genre,16828,11954,0.2779746353626251,Super Dark Times,Nobody Walks
+83,random,7925,6151,0.18272322416305542,The Limits of Control,Sakuran
+84,random,3887,7599,0.4445675015449524,Try Seventeen,Adventureland
+85,random,1490,921,0.35060304403305054,Cannibal! The Musical,Asterix Conquers America
+86,linked,6159,16646,0.6682724952697754,Scary Movie 5,The Curse of La Llorona
+87,linked,7757,13567,0.5482667684555054,Blue Bayou,Man Down
+88,same genre,12837,4844,0.39565685391426086,You'll Never Find Me,The Dark Hours
+89,same genre,4730,2547,0.05563027039170265,Operation Valkyrie,Anna and the King
+90,linked,8293,12078,0.5142097473144531,Pandorum,Space Milkshake
