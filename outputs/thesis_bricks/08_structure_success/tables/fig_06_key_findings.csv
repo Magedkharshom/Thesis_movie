@@ -4,5 +4,6 @@ value,label,note
 0.12,Moran's I · revenue percentile,"chance level ≤ 0.015: similar plots, similar fates"
 +0.023,out-of-sample R² · rating,from earlier films' outcomes; genre prior +0.001
 +0.018,out-of-sample R² · revenue percentile,from earlier films' outcomes; genre prior -0.000
-4/4,"outcomes with a positive, significant foresight effect",stories that later films came to resemble
+2/4,outcomes with a foresight effect after FDR correction,"log popularity, rating; 0 significant against films only 1–2 years later"
 14/35,communities that differ in rating,"after year, genre, star power and plot position"
++3.4 pp,betweenness → revenue percentile (P10 → P90),≈ +26% revenue for a mid-market film; cast star power +2.8
