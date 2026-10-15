@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0363e1941cb60b43866cc9ece573dc59f0995e43ee3f0ed8a9812df0b8e190ab
-size 279
+stage,films,pct_of_previous
+Raw TMDB extract,1192309,
+"Thesis corpus (released feature films, 1990–2024)",98037,8.2
+"Semantic corpus (≥35-word plot, ≥25 votes)",20091,20.5
+Network corpus (recordings without a plot removed),19919,99.1
+Largest connected component,19084,95.8

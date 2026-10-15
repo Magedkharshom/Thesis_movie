@@ -1,0 +1,15 @@
+# Packages for the thesis pipeline (Notebooks 01–08).
+# Exact versions: the ones Notebooks 01, 02 and 04–08 were re-run and checked with (October 2026).
+# Google Colab preinstalls most of them; in Colab you only need the lines marked "not in Colab".
+pandas==2.3.3
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+scikit-learn==1.9.1
+statsmodels==0.15.0
+networkx==3.7
+python-igraph==1.0.0          # not in Colab (Notebooks 03 and 07 install it if missing)
+spacy==3.8.16                 # Notebooks 03–04; model: python -m spacy download en_core_web_sm
+# Notebook 03 (embeddings) — run in Colab; versions as preinstalled there:
+sentence-transformers>=3.0
+torch>=2.3

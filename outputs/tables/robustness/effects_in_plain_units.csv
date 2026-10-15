@@ -1,0 +1,33 @@
+source,outcome,term,claim,status,coef,p10_p90_sd,plain_coef,plain_ci_low,plain_ci_high,unit,revenue_equivalent_pct,p_value,q_value
+Notebook 05 (M4),log_popularity,z_star_index,cast star power → log popularity,benchmark,0.02456,2.98311,7.60066,4.73979,10.53967,% popularity,,0.0,
+Notebook 05 (M4),log_popularity,z_novelty,novelty → log popularity,not significant,0.0033,2.60279,0.863,-2.04798,3.86049,% popularity,,0.56523,0.72672
+Notebook 06 (T3),log_popularity,competition_z,same-year competition → log popularity,not significant,-0.00504,2.53006,-1.26705,-7.61363,5.51284,% popularity,,0.70661,0.85582
+Notebook 05 (M4),log_popularity,z_participation,participation → log popularity,not significant,0.00024,2.73993,0.06554,-2.40364,2.59719,% popularity,,0.95901,0.96793
+Notebook 06 (T3),log_popularity,crowding_z,crowding → log popularity,not significant,0.00059,2.53559,0.14971,-6.86057,7.6849,% popularity,,0.96793,0.96793
+Notebook 06 (T3),log_popularity,foresight_z,foresight → log popularity,survives FDR,0.01633,2.45736,4.09447,2.44751,5.77051,% popularity,,0.0,0.0
+Notebook 05 (M4),log_popularity,z_clustering,clustering → log popularity,tentative,0.01025,1.86994,1.9358,0.13986,3.76395,% popularity,,0.03451,0.11294
+Notebook 05 (M4),log_popularity,z_log_betweenness,betweenness → log popularity,tentative,0.00978,2.8049,2.78036,0.07402,5.55989,% popularity,,0.04398,0.12718
+Notebook 05 (M4),log_revenue,z_star_index,cast star power → log revenue,benchmark,0.09835,2.98311,34.09593,6.6332,68.63153,% revenue,,0.0121,
+Notebook 05 (M4),log_revenue,z_novelty,novelty → log revenue,not significant,0.09974,2.60279,29.64062,-3.52947,74.21579,% revenue,,0.08513,0.17026
+Notebook 05 (M4),log_revenue,z_log_betweenness,betweenness → log revenue,tentative,0.09303,2.8049,29.81431,3.62606,62.62082,% revenue,,0.02322,0.10449
+Notebook 05 (M4),log_revenue,z_clustering,clustering → log revenue,tentative,0.06767,1.86994,13.49041,1.3564,27.07705,% revenue,,0.02827,0.11294
+Notebook 05 (M4),log_revenue,z_participation,participation → log revenue,tentative,-0.06456,2.73993,-16.21233,-29.57128,-0.31945,% revenue,,0.04593,0.12718
+Notebook 06 (T3),log_roi,competition_z,same-year competition → log ROI,not significant,-0.12508,2.53006,-27.12755,-51.98301,10.59407,% return on investment,,0.13706,0.23496
+Notebook 06 (T3),log_roi,crowding_z,crowding → log ROI,not significant,0.08562,2.53559,24.24647,-22.37298,98.85852,% return on investment,,0.36567,0.5485
+Notebook 06 (T3),log_roi,foresight_z,foresight → log ROI,tentative,0.07009,2.45736,18.79586,3.0459,36.95311,% return on investment,,0.01763,0.09067
+Notebook 05 (M4),revenue_percentile_year,z_star_index,cast star power → revenue percentile,benchmark,0.00927,2.98311,2.76401,0.50877,5.01924,percentile points,22.27337,0.0163,
+Notebook 05 (M4),revenue_percentile_year,z_novelty,novelty → revenue percentile,not significant,0.01104,2.60279,2.87254,-0.06345,5.80852,percentile points,23.09607,0.05516,0.13214
+Notebook 06 (T3),revenue_percentile_year,crowding_z,crowding → revenue percentile,not significant,0.02799,2.53559,7.09711,-0.36766,14.56189,percentile points,57.9018,0.0624,0.13214
+Notebook 05 (M4),revenue_percentile_year,z_log_betweenness,betweenness → revenue percentile,survives FDR,0.01196,2.8049,3.35409,1.34561,5.36258,percentile points,26.42501,0.00106,0.01277
+Notebook 05 (M4),revenue_percentile_year,z_participation,participation → revenue percentile,survives FDR,-0.00817,2.73993,-2.23762,-3.81028,-0.66496,percentile points,-15.21667,0.00529,0.04763
+Notebook 06 (T3),revenue_percentile_year,competition_z,same-year competition → revenue percentile,tentative,-0.0389,2.53006,-9.84192,-17.34354,-2.3403,percentile points,-49.27913,0.01012,0.07116
+Notebook 06 (T3),revenue_percentile_year,foresight_z,foresight → revenue percentile,tentative,0.00761,2.45736,1.87005,0.41284,3.32481,percentile points,14.81771,0.01186,0.07116
+Notebook 05 (M4),revenue_percentile_year,z_clustering,clustering → revenue percentile,tentative,0.00677,1.86994,1.26647,0.11258,2.42036,percentile points,8.2784,0.03146,0.11294
+Notebook 05 (M4),vote_average,z_star_index,cast star power → rating,benchmark,-0.03117,2.98311,-0.093,-0.17425,-0.01174,rating points (0–10),,0.02488,
+Notebook 05 (M4),vote_average,z_clustering,clustering → rating,not significant,0.01676,1.86994,0.03134,-0.0005,0.06318,rating points (0–10),,0.0537,0.13214
+Notebook 05 (M4),vote_average,z_participation,participation → rating,not significant,0.00894,2.73993,0.02449,-0.02053,0.0695,rating points (0–10),,0.28641,0.44829
+Notebook 05 (M4),vote_average,z_log_betweenness,betweenness → rating,not significant,-0.00954,2.8049,-0.02675,-0.08663,0.03313,rating points (0–10),,0.38131,0.54909
+Notebook 06 (T3),vote_average,competition_z,same-year competition → rating,not significant,-0.04248,2.53006,-0.10748,-0.41268,0.19772,rating points (0–10),,0.49009,0.65345
+Notebook 06 (T3),vote_average,crowding_z,crowding → rating,not significant,0.01878,2.53559,0.04762,-0.2474,0.34263,rating points (0–10),,0.75172,0.87297
+Notebook 05 (M4),vote_average,z_novelty,novelty → rating,not significant,0.00402,2.60279,0.01047,-0.07927,0.10021,rating points (0–10),,0.81914,0.92153
+Notebook 06 (T3),vote_average,foresight_z,foresight → rating,survives FDR,0.02598,2.45736,0.06384,0.02647,0.10119,rating points (0–10),,0.00081,0.01277
