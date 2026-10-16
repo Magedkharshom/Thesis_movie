@@ -59,7 +59,7 @@ Every figure is saved together with a CSV of the numbers it shows. Each notebook
 | 5 · Central positions | What does centrality mean here? | `fig_01_centrality_is_typicality`, `fig_03_central_films_table`, `fig_04_ego_network` |
 | 6 · Bridging positions | Which films sit between narratives? | `fig_01_bridge_typology`, `fig_03_top_bridges`, `fig_04_bridge_pathway` |
 | 7 · Success dimensions | Is success one thing? | `fig_01_outcome_correlations`, `fig_02_success_map` |
-| 8 · Structure and success | How is plot position associated with success? | `fig_01_r2_by_block`, `fig_02_signal_grid`, `fig_03_similar_stories_similar_fates`, `fig_04_which_narratives_pay` |
+| 8 · Structure and success | How is plot position associated with success? | `fig_01_r2_by_block`, `fig_02_signal_grid`, `fig_03_similar_stories_similar_fates`, `fig_04_which_narratives_pay`, `fig_07_effects_in_plain_units` |
 
 The remaining figures of each brick are listed as appendix material in its `text/brick_NN_notes.txt`.
 
