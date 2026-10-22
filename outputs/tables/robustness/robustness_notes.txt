@@ -29,5 +29,6 @@ Effects in plain units (film at the 90th vs the 10th percentile of the measure, 
 Human similarity check: not yet rated (outputs/tables/robustness/similarity_rating_sheet.csv).
 Story vs stars (plot measure × has-a-star, fixed in advance; 8 tests, own FDR family): 1 of 8 interactions have p < 0.05, 1 survive the correction. Joint test per outcome: revenue percentile p 0.75; rating p 0.026.
   clustering → rating: no star +0.0071 (p 0.38), with star +0.0851 (p 0.001), difference p 0.0013, q 0.01 — stronger with a star, against the hypothesis.
+Few clusters (36 communities; wild cluster bootstrap-t, Webb weights, 9,999 draws): 5 of 5 results that survive the FDR correction keep p < 0.05. foresight → log popularity: p < 0.0001 (clustered) → 0.0002 (bootstrap); foresight → rating: p 0.00081 (clustered) → 0.0021 (bootstrap); betweenness → revenue percentile: p 0.0011 (clustered) → 0.0026 (bootstrap); participation → revenue percentile: p 0.0053 (clustered) → 0.0067 (bootstrap); clustering × has-a-star → rating: p 0.0013 (clustered) → 0.012 (bootstrap).
 
 Communities in rebuilt networks come from the best of several Louvain runs, not the consensus of Notebook 03; the community control in all models is the 35 labelled communities of the main network. All results are associations, not causal effects.
