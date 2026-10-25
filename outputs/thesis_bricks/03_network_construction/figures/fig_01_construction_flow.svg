@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-13T16:18:33.688554</dc:date>
+    <dc:date>2026-10-25T17:55:40.971738</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -48,7 +48,7 @@ Q 19.6128 69.984 19.6128 76.644
 L 19.6128 164.556 
 Q 19.6128 171.216 28.7568 171.216 
 z
-" clip-path="url(#pd4f6b9db8b)" style="fill: #dbe8f8"/>
+" clip-path="url(#pd0f56c8f60)" style="fill: #dbe8f8"/>
    </g>
    <g id="patch_4">
     <path d="M 211.6368 171.216 
@@ -61,7 +61,7 @@ Q 202.4928 69.984 202.4928 76.644
 L 202.4928 164.556 
 Q 202.4928 171.216 211.6368 171.216 
 z
-" clip-path="url(#pd4f6b9db8b)" style="fill: #fbe3d7"/>
+" clip-path="url(#pd0f56c8f60)" style="fill: #fbe3d7"/>
    </g>
    <g id="patch_5">
     <path d="M 394.5168 171.216 
@@ -74,7 +74,7 @@ Q 385.3728 69.984 385.3728 76.644
 L 385.3728 164.556 
 Q 385.3728 171.216 394.5168 171.216 
 z
-" clip-path="url(#pd4f6b9db8b)" style="fill: #d5f0e5"/>
+" clip-path="url(#pd0f56c8f60)" style="fill: #d5f0e5"/>
    </g>
    <g id="patch_6">
     <path d="M 577.3968 171.216 
@@ -87,7 +87,7 @@ Q 568.2528 69.984 568.2528 76.644
 L 568.2528 164.556 
 Q 568.2528 171.216 577.3968 171.216 
 z
-" clip-path="url(#pd4f6b9db8b)" style="fill: #fbedcc"/>
+" clip-path="url(#pd0f56c8f60)" style="fill: #fbedcc"/>
    </g>
    <g id="patch_7">
     <path d="M 760.2768 171.216 
@@ -100,7 +100,7 @@ Q 751.1328 69.984 751.1328 76.644
 L 751.1328 164.556 
 Q 751.1328 171.216 760.2768 171.216 
 z
-" clip-path="url(#pd4f6b9db8b)" style="fill: #dbe8f8"/>
+" clip-path="url(#pd0f56c8f60)" style="fill: #dbe8f8"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
@@ -197,11 +197,11 @@ z
    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="7.2" y="17.077969" transform="rotate(-0 7.2 17.077969)">From plot similarities to an analysable network</text>
   </g>
   <g id="text_17">
-   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">Notebook 03 v2 · films outside the largest component sit in 771 small separate groups and are left out</text>
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">Notebook 03 · films outside the largest component sit in 771 small separate groups and are left out</text>
   </g>
  </g>
  <defs>
-  <clipPath id="pd4f6b9db8b">
+  <clipPath id="pd0f56c8f60">
    <rect x="8.64" y="54" width="914.4" height="133.2"/>
   </clipPath>
  </defs>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-15T16:45:07.770095</dc:date>
+    <dc:date>2026-10-25T17:56:04.186124</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -48,7 +48,7 @@ Q 13.916769 71.702667 13.916769 78.605333
 L 13.916769 166.039111 
 Q 13.916769 172.941778 27.350308 172.941778 
 z
-" clip-path="url(#p5676b51b94)" style="fill: #dbe8f8"/>
+" clip-path="url(#pb9d8695628)" style="fill: #dbe8f8"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
@@ -83,7 +83,7 @@ Q 251.242615 71.702667 251.242615 78.605333
 L 251.242615 166.039111 
 Q 251.242615 172.941778 264.676154 172.941778 
 z
-" clip-path="url(#p50e1e19877)" style="fill: #fbe3d7"/>
+" clip-path="url(#pb8b64cd213)" style="fill: #fbe3d7"/>
    </g>
    <g id="matplotlib.axis_3"/>
    <g id="matplotlib.axis_4"/>
@@ -117,7 +117,7 @@ Q 488.568462 71.702667 488.568462 78.605333
 L 488.568462 166.039111 
 Q 488.568462 172.941778 502.002 172.941778 
 z
-" clip-path="url(#pa04887ee80)" style="fill: #d5f0e5"/>
+" clip-path="url(#p9f7d936332)" style="fill: #d5f0e5"/>
    </g>
    <g id="matplotlib.axis_5"/>
    <g id="matplotlib.axis_6"/>
@@ -152,7 +152,7 @@ Q 13.916769 200.552444 13.916769 207.455111
 L 13.916769 294.888889 
 Q 13.916769 301.791556 27.350308 301.791556 
 z
-" clip-path="url(#pa808701b89)" style="fill: #fbedcc"/>
+" clip-path="url(#paec5454037)" style="fill: #fbedcc"/>
    </g>
    <g id="matplotlib.axis_7"/>
    <g id="matplotlib.axis_8"/>
@@ -187,7 +187,7 @@ Q 251.242615 200.552444 251.242615 207.455111
 L 251.242615 294.888889 
 Q 251.242615 301.791556 264.676154 301.791556 
 z
-" clip-path="url(#p38c0955fef)" style="fill: #dbe8f8"/>
+" clip-path="url(#p19203b2a31)" style="fill: #dbe8f8"/>
    </g>
    <g id="matplotlib.axis_9"/>
    <g id="matplotlib.axis_10"/>
@@ -223,7 +223,7 @@ Q 488.568462 200.552444 488.568462 207.455111
 L 488.568462 294.888889 
 Q 488.568462 301.791556 502.002 301.791556 
 z
-" clip-path="url(#pb82a60d985)" style="fill: #fbe3d7"/>
+" clip-path="url(#p7649dd454e)" style="fill: #fbe3d7"/>
    </g>
    <g id="matplotlib.axis_11"/>
    <g id="matplotlib.axis_12"/>
@@ -259,7 +259,7 @@ Q 13.916769 329.402222 13.916769 336.304889
 L 13.916769 423.738667 
 Q 13.916769 430.641333 27.350308 430.641333 
 z
-" clip-path="url(#pc4117ca2ee)" style="fill: #d5f0e5"/>
+" clip-path="url(#pa3bfc4029a)" style="fill: #d5f0e5"/>
    </g>
    <g id="matplotlib.axis_13"/>
    <g id="matplotlib.axis_14"/>
@@ -294,7 +294,7 @@ Q 251.242615 329.402222 251.242615 336.304889
 L 251.242615 423.738667 
 Q 251.242615 430.641333 264.676154 430.641333 
 z
-" clip-path="url(#p55d608051b)" style="fill: #fbedcc"/>
+" clip-path="url(#p3d96cb0d1d)" style="fill: #fbedcc"/>
    </g>
    <g id="matplotlib.axis_15"/>
    <g id="matplotlib.axis_16"/>
@@ -326,32 +326,32 @@ z
    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="7.2" y="17.077969" transform="rotate(-0 7.2 17.077969)">Narrative structure and success: the key numbers</text>
   </g>
   <g id="text_26">
-   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">From Notebooks 05–07 (v2) · associations, not causal effects</text>
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">From Notebooks 05–07 · associations, not causal effects</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p5676b51b94">
+  <clipPath id="pb9d8695628">
    <rect x="7.2" y="64.8" width="223.892308" height="115.044444"/>
   </clipPath>
-  <clipPath id="p50e1e19877">
+  <clipPath id="pb8b64cd213">
    <rect x="244.525846" y="64.8" width="223.892308" height="115.044444"/>
   </clipPath>
-  <clipPath id="pa04887ee80">
+  <clipPath id="p9f7d936332">
    <rect x="481.851692" y="64.8" width="223.892308" height="115.044444"/>
   </clipPath>
-  <clipPath id="pa808701b89">
+  <clipPath id="paec5454037">
    <rect x="7.2" y="193.649778" width="223.892308" height="115.044444"/>
   </clipPath>
-  <clipPath id="p38c0955fef">
+  <clipPath id="p19203b2a31">
    <rect x="244.525846" y="193.649778" width="223.892308" height="115.044444"/>
   </clipPath>
-  <clipPath id="pb82a60d985">
+  <clipPath id="p7649dd454e">
    <rect x="481.851692" y="193.649778" width="223.892308" height="115.044444"/>
   </clipPath>
-  <clipPath id="pc4117ca2ee">
+  <clipPath id="pa3bfc4029a">
    <rect x="7.2" y="322.499556" width="223.892308" height="115.044444"/>
   </clipPath>
-  <clipPath id="p55d608051b">
+  <clipPath id="p3d96cb0d1d">
    <rect x="244.525846" y="322.499556" width="223.892308" height="115.044444"/>
   </clipPath>
  </defs>

@@ -72,6 +72,7 @@ The remaining figures of each brick are listed as appendix material in its `text
 1. Put the project folder on Google Drive as `MyDrive/thesis_movie_project` (or change `CFG["project_dir"]` in the first cell of each notebook).
 2. Open a notebook in Colab and run all cells. Drive is mounted automatically.
 3. Notebook 03 downloads the sentence-BERT model and the spaCy model `en_core_web_sm` on first use. A GPU speeds up the embedding step but is not required.
+4. Notebook 03 keeps an existing network: when `network_manifest.json` matches the corpus, it stops after its third cell and the run continues with Notebook 04. A rebuild on another machine reproduces the network only approximately (in a test from the same embeddings, one edge of 70,252 differed, and the communities came out almost the same, ARI 0.995, but with different sizes: 106 instead of 105, community 0 with 1,713 instead of 1,700 films), and the manual community labels belong to the saved communities. `CFG["rebuild_network"] = True` builds a new network, whose communities then need new labels.
 
 **Packages** (all preinstalled in Colab except where noted): pandas, numpy, matplotlib, scipy, scikit-learn, statsmodels, networkx, python-igraph, sentence-transformers, spacy. Notebooks 07 and 08 were tested with pandas 2.3, numpy 2.5, matplotlib 3.11, scipy 1.18, scikit-learn 1.9, statsmodels 0.15, networkx 3.7. `requirements.txt` lists the exact versions the pipeline was checked with.
 

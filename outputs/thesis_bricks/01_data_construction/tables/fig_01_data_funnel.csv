@@ -2,13 +2,13 @@ stage,films,kind,pct_of_previous
 Raw TMDB extract,1192309,filter,
 Released status only,1170497,filter,98.2
 Release date on or before 2024-12-31,994213,filter,84.9
-Year window 1990 2024,727301,filter,73.2
+Year window 1990–2024,727301,filter,73.2
 Usable title,727281,filter,100.0
 Runtime recorded,584665,filter,80.4
-Runtime 70 240 minutes,258798,filter,44.3
+Runtime 70–240 minutes,258798,filter,44.3
 Overview at least 25 words,200002,filter,77.3
 Has genre,180239,filter,90.1
-Exclude tv movie genre,170025,filter,94.3
+Exclude TV movie genre,170025,filter,94.3
 Exclude documentary primary genre,134792,filter,79.3
 Minimum vote count 1,98038,filter,72.7
 Thesis corpus,98037,corpus,100.0
