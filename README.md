@@ -18,7 +18,7 @@ Run the notebooks in order in Google Colab. Each one reads only what the earlier
 | 04 | `04_network_interpretation_v2.ipynb` | Interprets the network: distinctive words, labels for the 35 major communities, central, bridge and boundary films, communities vs genres. | `outputs/{tables,figures}/interpretation/`, labelled community file |
 | 05 | `05_success_and_star_power_v2.ipynb` | Nested regressions (controls → plot network → star power → community) for revenue, rating and popularity; novelty sweet spot; community effects; robustness. | `outputs/{tables,figures}/success/`, `processed/features/modeling_table_success_star_power.csv` |
 | 06 | `06_narrative_dynamics.ipynb` | Timing: crowding, foresight and competition; rising and fading narratives; Moran's *I*; out-of-sample prediction from plot neighbours. | `outputs/{tables,figures}/narrative_dynamics/` |
-| 07 | `07_robustness_checks.ipynb` | Robustness: Benjamini–Hochberg correction of the plot, timing and community tests; foresight vs imitation (shorter foresight windows, does success attract similar stories?); the network rebuilt with k = 10/20/30 and from TF-IDF word vectors, with the Notebook 05 models and Moran's *I* re-run on each; effects in plain units (10th vs 90th percentile, next to star power); a blind human check that linked films tell similar stories; story vs stars (does plot position matter more for films without a star? one test fixed in advance); a wild cluster bootstrap for the results that survive the correction (only 36 clusters). | `outputs/{tables,figures}/robustness/` |
+| 07 | `07_robustness_checks.ipynb` | Robustness: Benjamini–Hochberg correction of the plot, timing and community tests; foresight vs imitation (shorter foresight windows, does success attract similar stories?); the network rebuilt with k = 10/20/30 and from TF-IDF word vectors, with the Notebook 05 models and Moran's *I* re-run on each; effects in plain units (10th vs 90th percentile, next to star power); a blind rating check of whether linked films tell similar stories (rated by an AI rater and reported as such); story vs stars (does plot position matter more for films without a star? one test fixed in advance); a wild cluster bootstrap for the results that survive the correction (only 36 clusters). | `outputs/{tables,figures}/robustness/` |
 | 08 | `08_thesis_bricks.ipynb` | The thesis figures: eight presentation bricks built from the outputs above. It re-estimates nothing. | `outputs/thesis_bricks/` |
 
 `tools/tidy_project.ipynb` moves files the pipeline no longer uses into an archive folder (see *Archive* below).
@@ -44,7 +44,7 @@ tools/                    housekeeping notebooks
 _archive_2026-10/         earlier versions (v1 notebooks, old tables and figures), kept for reference
 ```
 
-Every figure is saved together with a CSV of the numbers it shows. Each notebook also writes a short notes file with the key numbers, worded for the thesis text (e.g. `outputs/tables/success_star_power_notes.txt`, `outputs/thesis_bricks/08_structure_success/text/brick_08_notes.txt`).
+Every figure is saved together with a CSV of the numbers it shows. Each notebook also writes a short notes file that states the key numbers in plain sentences (e.g. `outputs/tables/success_star_power_notes.txt`, `outputs/thesis_bricks/08_structure_success/text/brick_08_notes.txt`).
 
 ---
 
@@ -73,9 +73,7 @@ The remaining figures of each brick are listed as appendix material in its `text
 2. Open a notebook in Colab and run all cells. Drive is mounted automatically.
 3. Notebook 03 downloads the sentence-BERT model and the spaCy model `en_core_web_sm` on first use. A GPU speeds up the embedding step but is not required.
 
-**Packages** (all preinstalled in Colab except where noted): pandas, numpy, matplotlib, scipy, scikit-learn, statsmodels, networkx, python-igraph, sentence-transformers, spacy. Notebooks 07 and 08 were tested with pandas 2.3, numpy 2.5, matplotlib 3.11, scipy 1.18, scikit-learn 1.9, statsmodels 0.15, networkx 3.7.
-
-**Packages.** `requirements.txt` lists the exact versions the pipeline was checked with.
+**Packages** (all preinstalled in Colab except where noted): pandas, numpy, matplotlib, scipy, scikit-learn, statsmodels, networkx, python-igraph, sentence-transformers, spacy. Notebooks 07 and 08 were tested with pandas 2.3, numpy 2.5, matplotlib 3.11, scipy 1.18, scikit-learn 1.9, statsmodels 0.15, networkx 3.7. `requirements.txt` lists the exact versions the pipeline was checked with.
 
 **Reproducibility.** Random steps use fixed seeds (`random_state = 42`). Each run writes manifests (`corpus_manifest.json`, `network_manifest.json`) with row counts and fingerprints, and later notebooks check them, so a stale input stops the run instead of silently changing results. One figure differs between machines: the t-SNE map in Brick 2 (`fig_05_embedding_map`) is laid out slightly differently by each scikit-learn version. Which communities sit together is stable; their position on the page is not.
 
