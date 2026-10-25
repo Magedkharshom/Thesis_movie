@@ -2,5 +2,5 @@ Brick 1 — Data construction
 
 The thesis corpus holds 98,037 released feature films (1990–2024). 20,091 have a plot overview of at least 35 words and at least 25 votes; after removing recordings without a plot, 19,919 films are embedded, and the largest connected component of the plot-similarity network holds 19,084 films.
 Revenue is reported for 7,547 network films (40%); revenue and budget (ROI) for 4,910.
-Wording: the revenue and ROI subsets are data-availability constraints, not filtering decisions; the revenue models describe the reported-revenue market.
+Interpretation: the revenue and ROI subsets are data-availability constraints, not filtering decisions; the revenue models describe the reported-revenue market.
 Main text: fig_01_data_funnel, fig_02_year_coverage. Appendix: fig_03_genre_representativeness, fig_04_variable_availability, fig_05_summary_cards.

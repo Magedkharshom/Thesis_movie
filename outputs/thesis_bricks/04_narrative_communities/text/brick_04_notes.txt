@@ -3,5 +3,5 @@ Brick 4 — Narrative communities
 105 communities (consensus Louvain, modularity 0.65); the 35 major ones (≥ 100 films) hold 93% of films and carry reviewed labels. 4 are tentative (robustness < 0.5).
 Largest: Crime, policing and the criminal underworld (1,700 films), Romance, marriage and relationship drama-comedy (1,360), Family secrets, siblings and domestic threat (1,346).
 Communities are not genres: normalised mutual information between community and primary genre is 0.11.
-Wording: 'narrative community' = a region of plot space whose films have similar overviews; tentative communities should be described as broad neighbourhoods, not sharply bounded story types.
+Interpretation: 'narrative community' = a region of plot space whose films have similar overviews; tentative communities should be described as broad neighbourhoods, not sharply bounded story types.
 Main text: fig_01_major_communities, fig_02_community_index_table, fig_04_community_map. Appendix: fig_03_genre_mix, fig_05_profile_cards.

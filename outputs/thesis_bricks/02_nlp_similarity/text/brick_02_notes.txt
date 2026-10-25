@@ -3,5 +3,5 @@ Brick 2 — From plot text to similarity
 Anchor film: Toy Story (1995), community C6 · Fairy tale & fantasy.
 Each overview is embedded with sentence-transformers/all-MiniLM-L6-v2 after person names are masked; similarity is the cosine of two embeddings. Each film lists its 20 most similar plots and a link is kept only when both films list each other (mutual k-nearest neighbours).
 Median cosine similarity of network edges: 0.57. Figure 3 compares it with random pairs of films (chance level).
-Wording: 'two films are linked when their plot overviews describe similar stories', not 'similar films'. The network uses the plot overview only: no genre labels, cast or outcomes.
+Interpretation: 'two films are linked when their plot overviews describe similar stories', not 'similar films'. The network uses the plot overview only: no genre labels, cast or outcomes.
 Main text: fig_01_neighbour_cards, fig_02_mutual_handshake, fig_03_similarity_scale. Appendix: fig_04_example_pairs, fig_05_embedding_map, fig_06_summary_cards.

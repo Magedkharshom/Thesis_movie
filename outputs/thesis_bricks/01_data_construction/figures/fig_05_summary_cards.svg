@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-13T16:18:18.089611</dc:date>
+    <dc:date>2026-10-25T17:55:27.888084</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -48,7 +48,7 @@ Q 13.916769 71.854642 13.916769 78.909283
 L 13.916769 168.268075 
 Q 13.916769 175.322717 27.350308 175.322717 
 z
-" clip-path="url(#p0083af9dcb)" style="fill: #dbe8f8"/>
+" clip-path="url(#p402d21e2d8)" style="fill: #dbe8f8"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
@@ -82,7 +82,7 @@ Q 251.242615 71.854642 251.242615 78.909283
 L 251.242615 168.268075 
 Q 251.242615 175.322717 264.676154 175.322717 
 z
-" clip-path="url(#p8743ff06f8)" style="fill: #fbe3d7"/>
+" clip-path="url(#pc58b964846)" style="fill: #fbe3d7"/>
    </g>
    <g id="matplotlib.axis_3"/>
    <g id="matplotlib.axis_4"/>
@@ -116,7 +116,7 @@ Q 488.568462 71.854642 488.568462 78.909283
 L 488.568462 168.268075 
 Q 488.568462 175.322717 502.002 175.322717 
 z
-" clip-path="url(#p62fb8ac676)" style="fill: #d5f0e5"/>
+" clip-path="url(#pfc6d4af1e7)" style="fill: #d5f0e5"/>
    </g>
    <g id="matplotlib.axis_5"/>
    <g id="matplotlib.axis_6"/>
@@ -150,7 +150,7 @@ Q 13.916769 203.541283 13.916769 210.595925
 L 13.916769 299.954717 
 Q 13.916769 307.009358 27.350308 307.009358 
 z
-" clip-path="url(#pbf4b4354b4)" style="fill: #fbedcc"/>
+" clip-path="url(#p40be2f2354)" style="fill: #fbedcc"/>
    </g>
    <g id="matplotlib.axis_7"/>
    <g id="matplotlib.axis_8"/>
@@ -184,7 +184,7 @@ Q 251.242615 203.541283 251.242615 210.595925
 L 251.242615 299.954717 
 Q 251.242615 307.009358 264.676154 307.009358 
 z
-" clip-path="url(#p983370ab65)" style="fill: #dbe8f8"/>
+" clip-path="url(#p534eecedd9)" style="fill: #dbe8f8"/>
    </g>
    <g id="matplotlib.axis_9"/>
    <g id="matplotlib.axis_10"/>
@@ -218,7 +218,7 @@ Q 488.568462 203.541283 488.568462 210.595925
 L 488.568462 299.954717 
 Q 488.568462 307.009358 502.002 307.009358 
 z
-" clip-path="url(#pcd0d3e45c6)" style="fill: #fbe3d7"/>
+" clip-path="url(#p91c60dd9e4)" style="fill: #fbe3d7"/>
    </g>
    <g id="matplotlib.axis_11"/>
    <g id="matplotlib.axis_12"/>
@@ -236,26 +236,26 @@ z
    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="7.2" y="17.077969" transform="rotate(-0 7.2 17.077969)">Data construction at a glance</text>
   </g>
   <g id="text_20">
-   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">Counts from Notebooks 01, 03 and 05 (v2)</text>
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">Counts from Notebooks 01, 03 and 05</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p0083af9dcb">
+  <clipPath id="p402d21e2d8">
    <rect x="7.2" y="64.8" width="223.892308" height="117.577358"/>
   </clipPath>
-  <clipPath id="p8743ff06f8">
+  <clipPath id="pc58b964846">
    <rect x="244.525846" y="64.8" width="223.892308" height="117.577358"/>
   </clipPath>
-  <clipPath id="p62fb8ac676">
+  <clipPath id="pfc6d4af1e7">
    <rect x="481.851692" y="64.8" width="223.892308" height="117.577358"/>
   </clipPath>
-  <clipPath id="pbf4b4354b4">
+  <clipPath id="p40be2f2354">
    <rect x="7.2" y="196.486642" width="223.892308" height="117.577358"/>
   </clipPath>
-  <clipPath id="p983370ab65">
+  <clipPath id="p534eecedd9">
    <rect x="244.525846" y="196.486642" width="223.892308" height="117.577358"/>
   </clipPath>
-  <clipPath id="pcd0d3e45c6">
+  <clipPath id="p91c60dd9e4">
    <rect x="481.851692" y="196.486642" width="223.892308" height="117.577358"/>
   </clipPath>
  </defs>

@@ -2,5 +2,5 @@ Brick 7 — Success dimensions
 
 Outcomes: revenue percentile within the release year's market (all thesis films with revenue), log return on investment (revenue and budget ≥ $10k), rating (TMDB vote average), log popularity; log votes shown as a second attention measure.
 ρ(revenue percentile, rating) = 0.27; ρ(revenue percentile, log popularity) = 0.60; ρ(rating, log popularity) = 0.25; ρ(log ROI, revenue percentile) = 0.70.
-Wording: commercial success, audience evaluation and attention are related but distinct, so the thesis reports the plot-network results per outcome rather than for one success index.
+Interpretation: commercial success, audience evaluation and attention are related but distinct, so the thesis reports the plot-network results per outcome rather than for one success index.
 Main text: fig_01_outcome_correlations, fig_02_success_map. Appendix: fig_03_community_success_profile, fig_04_concentration.
