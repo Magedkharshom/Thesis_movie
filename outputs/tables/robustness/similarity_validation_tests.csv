@@ -1,4 +1,0 @@
-test,statistic,p_value
-"linked > same genre (Mann–Whitney, one-sided)",649.0,0.000115
-"linked > random (Mann–Whitney, one-sided)",751.0,0.0
-rating vs cosine similarity (Spearman ρ),0.639207,0.0
