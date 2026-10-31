@@ -1,0 +1,9 @@
+outcome,sample,n,excluded_in_sample,novelty,p_novelty,novelty_sq,p_novelty_sq,vertex_sd,range_sd_p1_p99
+Revenue percentile,network films,7547,0,0.00681,0.01695,-0.00201,0.33747,1.69126,-2.21 to 2.28
+Revenue percentile,all network-corpus films,7876,329,0.00655,0.01591,-0.00221,0.23599,1.482,-2.21 to 2.54
+Log revenue,network films,7547,0,0.0769,0.01014,-0.02213,0.30717,1.73728,-2.21 to 2.28
+Log revenue,all network-corpus films,7876,329,0.0749,0.00872,-0.02717,0.18857,1.37835,-2.21 to 2.54
+Rating,network films,19084,0,0.00599,0.34296,0.0072,0.13395,,-2.22 to 2.30
+Rating,all network-corpus films,19919,835,0.00648,0.2748,0.00728,0.08715,,-2.21 to 2.50
+Log popularity,network films,19084,0,-0.00391,0.29905,0.0001,0.97192,,-2.22 to 2.30
+Log popularity,all network-corpus films,19919,835,-0.00342,0.34038,0.00114,0.6517,,-2.21 to 2.50
