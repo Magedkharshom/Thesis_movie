@@ -1,0 +1,19 @@
+outcome,specification,n,term,coef,p_value
+Revenue percentile,"all films, no budget (published main)",7547,z_log_betweenness,0.01196,0.00106
+Revenue percentile,"all films, no budget (published main)",7547,z_participation,-0.00817,0.00529
+Revenue percentile,"all films, no budget (published main)",7547,z_clustering,0.00677,0.03146
+Revenue percentile,"budget sample, no budget control",4972,z_log_betweenness,0.00728,0.08052
+Revenue percentile,"budget sample, no budget control",4972,z_participation,-0.00658,0.02303
+Revenue percentile,"budget sample, no budget control",4972,z_clustering,0.00782,0.04534
+Revenue percentile,"budget sample, + log budget (published check)",4972,z_log_betweenness,0.00564,0.10056
+Revenue percentile,"budget sample, + log budget (published check)",4972,z_participation,-0.00609,0.04318
+Revenue percentile,"budget sample, + log budget (published check)",4972,z_clustering,0.00639,0.10459
+Rating,"all films, no budget (published main)",19084,z_log_betweenness,-0.00954,0.38131
+Rating,"all films, no budget (published main)",19084,z_participation,0.00894,0.28641
+Rating,"all films, no budget (published main)",19084,z_clustering,0.01676,0.0537
+Rating,"budget sample, no budget control",6641,z_log_betweenness,0.00348,0.80996
+Rating,"budget sample, no budget control",6641,z_participation,0.01302,0.23413
+Rating,"budget sample, no budget control",6641,z_clustering,0.01639,0.11952
+Rating,"budget sample, + log budget (published check)",6641,z_log_betweenness,-0.00049,0.97432
+Rating,"budget sample, + log budget (published check)",6641,z_participation,0.01464,0.19388
+Rating,"budget sample, + log budget (published check)",6641,z_clustering,0.01717,0.11748

@@ -1,0 +1,5 @@
+term,coef,p_value,n
+crowding_z,0.27508,0.05746,5689
+I(crowding_z ** 2),-0.04249,0.10459,5689
+foresight_z,0.08332,0.00901,5689
+competition_z,-0.36723,0.00786,5689

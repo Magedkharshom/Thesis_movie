@@ -1,0 +1,9 @@
+term,coef,p_value
+z_novelty,0.03457,0.5254
+z_novelty_sq,-0.04419,0.02519
+z_log_betweenness,0.02031,0.52804
+z_participation,-0.03238,0.17777
+z_clustering,0.04877,0.14335
+z_star_index,-0.11309,0.0
+z_director_index,0.10133,1e-05
+has_star,0.24611,0.00014
