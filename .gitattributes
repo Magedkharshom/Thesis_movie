@@ -5,3 +5,4 @@ _archive_2026-10/ARCHIVE_INDEX.csv -filter -diff -merge text
 outputs/thesis_bricks/**/*.csv -filter -diff -merge text
 outputs/tables/robustness/*.csv -filter -diff -merge text
 outputs/tables/eda/02_full_funnel.csv -filter -diff -merge text
+outputs/tables/revisions/*.csv -filter -diff -merge text
