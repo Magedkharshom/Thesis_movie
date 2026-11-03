@@ -1,0 +1,37 @@
+source,outcome,term,coef,ci_low,ci_high,p_value,n_obs,q_value,significant_raw,survives_fdr,claim
+Notebook 06 (T3),log_popularity,foresight_z,0.01633,0.00984,0.02283,0.0,14262,0.0,True,True,foresight → log popularity
+Notebook 06 (T3),vote_average,foresight_z,0.02598,0.01077,0.04118,0.00081,14262,0.012767,True,True,foresight → rating
+Notebook 05 (M4),revenue_percentile_year,z_log_betweenness,0.011958,0.004797,0.019119,0.001064,7547,0.012767,True,True,betweenness → revenue percentile
+Notebook 05 (M4),revenue_percentile_year,z_participation,-0.008167,-0.013906,-0.002427,0.005292,7547,0.04763,True,True,participation → revenue percentile
+Notebook 06 (T3),revenue_percentile_year,competition_z,-0.0389,-0.06855,-0.00925,0.01012,5689,0.07116,True,False,same-year competition → revenue percentile
+Notebook 06 (T3),revenue_percentile_year,foresight_z,0.00761,0.00168,0.01353,0.01186,5689,0.07116,True,False,foresight → revenue percentile
+Notebook 06 (T3),log_roi,foresight_z,0.07009,0.01221,0.12797,0.01763,3876,0.090669,True,False,foresight → log ROI
+Notebook 05 (M4),log_revenue,z_log_betweenness,0.093028,0.012699,0.173358,0.02322,7547,0.104489,True,False,betweenness → log revenue
+Notebook 05 (M4),log_revenue,z_clustering,0.067675,0.007205,0.128145,0.028272,7547,0.112939,True,False,clustering → log revenue
+Notebook 05 (M4),revenue_percentile_year,z_clustering,0.006773,0.000602,0.012944,0.031461,7547,0.112939,True,False,clustering → revenue percentile
+Notebook 05 (M4),log_popularity,z_clustering,0.010253,0.000747,0.019759,0.034509,19084,0.112939,True,False,clustering → log popularity
+Notebook 05 (M4),log_popularity,z_log_betweenness,0.009777,0.000264,0.019291,0.043977,19084,0.12718,True,False,betweenness → log popularity
+Notebook 05 (M4),log_revenue,z_participation,-0.064558,-0.127948,-0.001168,0.045926,7547,0.12718,True,False,participation → log revenue
+Notebook 05 (M4),vote_average,z_clustering,0.01676,-0.000267,0.033787,0.053699,19084,0.132141,False,False,clustering → rating
+Notebook 05 (M4),revenue_percentile_year,z_novelty,0.011036,-0.000244,0.022316,0.055161,7547,0.132141,False,False,novelty → revenue percentile
+Notebook 06 (T3),revenue_percentile_year,I(crowding_z ** 2),-0.0044,-0.00896,0.00017,0.05892,5689,0.132141,False,False,crowding² → revenue percentile
+Notebook 06 (T3),revenue_percentile_year,crowding_z,0.02799,-0.00145,0.05743,0.0624,5689,0.132141,False,False,crowding → revenue percentile
+Notebook 05 (M4),log_revenue,z_novelty,0.099737,-0.013805,0.21328,0.085132,7547,0.170263,False,False,novelty → log revenue
+Notebook 05 (M4),revenue_percentile_year,z_novelty_sq,-0.002895,-0.00647,0.000681,0.112586,7547,0.213321,False,False,novelty² → revenue percentile
+Notebook 05 (M4),log_revenue,z_novelty_sq,-0.030299,-0.070101,0.009503,0.135701,7547,0.23496,False,False,novelty² → log revenue
+Notebook 06 (T3),log_roi,competition_z,-0.12508,-0.28996,0.0398,0.13706,3876,0.23496,False,False,same-year competition → log ROI
+Notebook 06 (T3),log_roi,I(crowding_z ** 2),-0.03557,-0.08325,0.0121,0.14359,3876,0.234965,False,False,crowding² → log ROI
+Notebook 05 (M4),vote_average,z_participation,0.008936,-0.007494,0.025367,0.286409,19084,0.448292,False,False,participation → rating
+Notebook 06 (T3),log_roi,crowding_z,0.08562,-0.09988,0.27111,0.36567,3876,0.548505,False,False,crowding → log ROI
+Notebook 05 (M4),vote_average,z_log_betweenness,-0.009536,-0.030884,0.011813,0.381315,19084,0.549093,False,False,betweenness → rating
+Notebook 05 (M4),vote_average,z_novelty_sq,0.006049,-0.009828,0.021925,0.455254,19084,0.630352,False,False,novelty² → rating
+Notebook 06 (T3),vote_average,competition_z,-0.04248,-0.16311,0.07815,0.49009,14262,0.653453,False,False,same-year competition → rating
+Notebook 05 (M4),log_popularity,z_novelty,0.003301,-0.00795,0.014553,0.565227,19084,0.726721,False,False,novelty → log popularity
+Notebook 06 (T3),log_popularity,competition_z,-0.00504,-0.0313,0.02121,0.70661,14262,0.855816,False,False,same-year competition → log popularity
+Notebook 06 (T3),vote_average,I(crowding_z ** 2),0.00351,-0.01519,0.02221,0.71318,14262,0.855816,False,False,crowding² → rating
+Notebook 06 (T3),vote_average,crowding_z,0.01878,-0.09757,0.13513,0.75172,14262,0.872965,False,False,crowding → rating
+Notebook 05 (M4),vote_average,z_novelty,0.004022,-0.030455,0.038499,0.819138,19084,0.92153,False,False,novelty → rating
+Notebook 05 (M4),log_popularity,z_novelty_sq,0.000417,-0.003861,0.004695,0.848493,19084,0.925629,False,False,novelty² → log popularity
+Notebook 06 (T3),log_popularity,I(crowding_z ** 2),-0.00025,-0.00466,0.00416,0.91254,14262,0.966219,False,False,crowding² → log popularity
+Notebook 05 (M4),log_popularity,z_participation,0.000239,-0.00888,0.009358,0.95901,19084,0.96793,False,False,participation → log popularity
+Notebook 06 (T3),log_popularity,crowding_z,0.00059,-0.02803,0.0292,0.96793,14262,0.96793,False,False,crowding → log popularity

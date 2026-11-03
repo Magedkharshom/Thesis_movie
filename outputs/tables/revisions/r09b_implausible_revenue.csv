@@ -1,0 +1,21 @@
+outcome,sample,n,term,coef,p_value
+revenue_percentile_year,all films with revenue (published),7547,z_novelty,0.01104,0.05516
+revenue_percentile_year,all films with revenue (published),7547,z_novelty_sq,-0.00289,0.11259
+revenue_percentile_year,all films with revenue (published),7547,z_log_betweenness,0.01196,0.00106
+revenue_percentile_year,all films with revenue (published),7547,z_participation,-0.00817,0.00529
+revenue_percentile_year,all films with revenue (published),7547,z_clustering,0.00677,0.03146
+revenue_percentile_year,"revenue at least US$10,000",7378,z_novelty,0.01149,0.04047
+revenue_percentile_year,"revenue at least US$10,000",7378,z_novelty_sq,-0.00222,0.20976
+revenue_percentile_year,"revenue at least US$10,000",7378,z_log_betweenness,0.01201,0.00107
+revenue_percentile_year,"revenue at least US$10,000",7378,z_participation,-0.0082,0.00401
+revenue_percentile_year,"revenue at least US$10,000",7378,z_clustering,0.00663,0.02966
+log_revenue,all films with revenue (published),7547,z_novelty,0.09974,0.08513
+log_revenue,all films with revenue (published),7547,z_novelty_sq,-0.0303,0.1357
+log_revenue,all films with revenue (published),7547,z_log_betweenness,0.09303,0.02322
+log_revenue,all films with revenue (published),7547,z_participation,-0.06456,0.04593
+log_revenue,all films with revenue (published),7547,z_clustering,0.06767,0.02827
+log_revenue,"revenue at least US$10,000",7378,z_novelty,0.09813,0.06085
+log_revenue,"revenue at least US$10,000",7378,z_novelty_sq,-0.02026,0.20408
+log_revenue,"revenue at least US$10,000",7378,z_log_betweenness,0.09948,0.00914
+log_revenue,"revenue at least US$10,000",7378,z_participation,-0.06748,0.01587
+log_revenue,"revenue at least US$10,000",7378,z_clustering,0.05433,0.04099

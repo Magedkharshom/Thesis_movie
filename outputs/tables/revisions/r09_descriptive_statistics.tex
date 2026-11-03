@@ -1,0 +1,36 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption[Descriptive statistics]{Descriptive statistics of the variables used in the models, for the 19,084 network films. Revenue and return on investment are available only for films that report them.}
+\label{tab:descriptives}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrrrr}
+\hline
+Variable & Films & Mean & SD & Min & Median & Max \\
+\hline
+\multicolumn{7}{l}{\textit{Outcomes}} \\
+Revenue percentile within the year & 7,547 & 0.565 & 0.276 & 0.002 & 0.588 & 1.000 \\
+Log revenue & 7,547 & 15.6 & 2.855 & 0.693 & 16.1 & 21.8 \\
+Log return on investment & 4,910 & 0.169 & 1.654 & -7.244 & 0.460 & 9.464 \\
+Rating (0--10) & 19,084 & 6.109 & 0.953 & 1.500 & 6.200 & 10.0 \\
+Log popularity & 19,084 & 1.060 & 0.562 & 0.004 & 0.972 & 5.673 \\
+\multicolumn{7}{l}{\textit{Network position}} \\
+Novelty & 19,084 & 0.471 & 0.056 & 0.287 & 0.471 & 0.708 \\
+Log betweenness, $\log(1 + N b)$ & 19,084 & 1.465 & 0.851 & 0.000 & 1.523 & 3.762 \\
+Participation coefficient & 19,084 & 0.385 & 0.261 & 0.000 & 0.437 & 0.903 \\
+Weighted clustering coefficient & 19,084 & 0.069 & 0.091 & 0.000 & 0.048 & 0.725 \\
+\multicolumn{7}{l}{\textit{Position in time (before standardization)}} \\
+Crowding & 17,923 & 0.472 & 0.059 & 0.225 & 0.472 & 0.654 \\
+Same-year competition & 19,084 & 0.418 & 0.060 & 0.149 & 0.419 & 0.611 \\
+Foresight & 14,262 & 0.007 & 0.017 & -0.082 & 0.007 & 0.162 \\
+\multicolumn{7}{l}{\textit{Star power and controls}} \\
+Cast star index, $\log(1 + \text{prior votes})$ & 19,084 & 5.227 & 2.949 & 0.000 & 5.684 & 11.8 \\
+Director index, $\log(1 + \text{prior votes})$ & 19,084 & 3.482 & 3.247 & 0.000 & 3.526 & 12.3 \\
+Has star (share) & 19,084 & 0.111 & 0.314 & 0.000 & 0.000 & 1.000 \\
+Runtime (minutes) & 19,084 & 102.9 & 18.5 & 70.0 & 99.0 & 240.0 \\
+English-language original (share) & 19,084 & 0.531 & 0.499 & 0.000 & 1.000 & 1.000 \\
+Release year & 19,084 & 2011.0 & 9.0 & 1990 & 2013 & 2024 \\
+Number of votes & 19,084 & 681.0 & 2,107 & 25.0 & 96.0 & 37,602 \\
+\hline
+\end{tabular}
+\end{table}

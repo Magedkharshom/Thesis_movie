@@ -1,0 +1,36 @@
+community_id,label,trend_pp_per_decade,p_hc3,p_hac,lag1_autocorrelation,q_hc3,q_hac
+0,"Crime, policing and the criminal underworld",-2.06496,0.0,0.0,0.01016,0.0,0.0
+1,"Romance, marriage and relationship drama-comedy",-0.4894,0.04525,0.01517,-0.27702,0.11313,0.03539
+18,"Espionage, secret agents, terrorism and hackers",-0.42127,0.01222,0.00884,-0.12648,0.05333,0.02381
+13,"Film-making, acting and show business",-0.34274,0.03826,0.00058,-0.28915,0.10302,0.00289
+22,Boxing and martial-arts fighters,-0.33796,0.0149,0.02912,0.21331,0.05333,0.05996
+6,"Fairy tales, royalty and mythic fantasy",-0.32183,0.125,0.10889,0.01471,0.19022,0.16571
+4,"Science fiction, space, robots and superhero worlds",-0.28294,0.3294,0.30653,0.16823,0.41844,0.35762
+11,Animals and pets: family animal adventures,-0.24125,0.07111,0.00096,-0.16952,0.14641,0.00422
+30,"Gambling, poker, lotteries and money",-0.17996,0.03797,0.00044,-0.17916,0.10302,0.00256
+20,"Cars, racing and road journeys",-0.1625,0.27922,0.15345,-0.25542,0.3909,0.21483
+17,"Sports teams, coaches and competition",-0.14847,0.40555,0.23219,-0.30464,0.47314,0.30098
+16,"Hospitals, illness, memory and the mind",-0.14173,0.33048,0.14237,0.10375,0.41844,0.20762
+34,Treasure hunts and gold,-0.12902,0.1042,0.09117,0.28542,0.17366,0.14504
+26,Vampires and werewolves,-0.12772,0.11817,0.17896,0.17471,0.18799,0.24091
+28,Nordic and arthouse family drama (mixed),-0.055,0.33475,0.36,0.21402,0.41844,0.40645
+24,"Zombies, viruses and outbreaks",0.00636,0.9523,0.95696,0.42722,0.9523,0.95696
+15,"Italian comedy, family and the mafia",0.03011,0.8214,0.76686,0.15037,0.84556,0.78942
+33,"Turkey, Iran and the Middle East: history and village life",0.04855,0.37927,0.48035,0.33165,0.45774,0.52538
+23,"Religion, faith, angels and the clergy",0.05865,0.47577,0.28178,-0.29633,0.52037,0.34007
+9,"School, campus and dance coming-of-age",0.11693,0.60819,0.65402,0.34755,0.64505,0.69365
+32,Mixed residual community (no clear theme),0.12739,0.10278,0.01458,-0.0144,0.17366,0.03539
+19,"Indian romance, marriage and family",0.12929,0.22171,0.03304,-0.18634,0.32333,0.06425
+12,"Music, bands and performers' careers",0.13215,0.41939,0.27665,0.1129,0.47351,0.34007
+27,"Friend groups, reunions and getaways",0.1617,0.06075,0.0482,0.06908,0.14176,0.0888
+31,"Fashion, beauty trades and small businesses (mixed)",0.18596,0.00068,2e-05,-0.09313,0.00592,0.00017
+29,"Forests, cabins and remote wilderness",0.19566,0.01708,0.00169,-0.21584,0.05436,0.00605
+21,"Christmas, holiday comedy and seasonal family fantasy",0.19617,0.00645,0.00173,-0.05919,0.03223,0.00605
+25,"Twins, sisters and family identity (mixed)",0.20354,0.00609,0.0,-0.3688,0.03223,0.0
+14,"The sea: ships, sharks, pirates and island survival",0.23666,0.06506,0.01671,-0.1542,0.14232,0.03655
+8,"Japanese and Korean cinema: samurai, yakuza, school life and anime",0.29145,0.10234,0.06762,-0.33098,0.17366,0.11833
+10,Latin American and Spanish-language drama,0.36467,0.01524,0.00235,-0.05098,0.05333,0.00748
+3,"War, historical conflict and military action",0.40427,0.09158,0.07126,0.22293,0.17366,0.11876
+5,"Supernatural horror: hauntings, demons and possession",0.67828,0.00495,0.00684,0.01229,0.03223,0.01994
+7,French relationship and family drama-comedy,0.83565,0.0,0.0,-0.32178,0.0,0.0
+2,"Family secrets, siblings and domestic threat",1.04331,2e-05,0.0,-0.0307,0.00025,2e-05

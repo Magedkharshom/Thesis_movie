@@ -1,0 +1,4 @@
+kind,geo_cue_share,confidence_with_cue,confidence_no_cue,inside_share_with_cue,inside_share_no_cue,chance_share,knn_same_sbert,knn_same_tfidf_with_cues,knn_same_tfidf_no_cues,knn_same_tfidf_no_proper
+C28 (mixed),0.6577,0.4901,0.5584,0.5412,0.597,0.0078,0.2641,0.0332,0.0292,0.0208
+cultural (6),0.7252,0.6623,0.6537,0.6889,0.7114,0.0309,0.3717,0.1383,0.0991,0.0676
+other major,0.5183,0.6301,0.6398,0.694,0.7048,0.0481,0.4925,0.2267,0.2136,0.1912

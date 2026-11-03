@@ -1,0 +1,7 @@
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+outputs/thesis_bricks/**/*.csv -filter -diff -merge text
+outputs/tables/robustness/*.csv -filter -diff -merge text
+outputs/tables/eda/02_full_funnel.csv -filter -diff -merge text
+outputs/tables/revisions/*.csv -filter -diff -merge text

@@ -1,0 +1,28 @@
+Brick 8 — Narrative structure and success
+
+log revenue: R² 0.238 with controls; plot network +0.004, star power +0.051, community +0.012; plot-network block p = 0.0016.
+revenue percentile: R² 0.233 with controls; plot network +0.005, star power +0.059, community +0.013; plot-network block p = 0.00023.
+rating: R² 0.259 with controls; plot network +0.000, star power +0.006, community +0.010; plot-network block p = 0.1.
+log popularity: R² 0.158 with controls; plot network +0.001, star power +0.045, community +0.007; plot-network block p = 0.016.
+Novelty (optimal distinctiveness test): log revenue flat, revenue percentile flat, rating flat, log popularity flat.
+R² from plot position · revenue percentile: +0.005 (star power adds 0.059; plot block p = 0.00023).
+R² from plot position · rating: +0.000 (star power adds 0.006; plot block p = 0.1).
+Moran's I · revenue percentile: 0.12 (chance level ≤ 0.015: similar plots, similar fates).
+out-of-sample R² · rating: +0.023 (from earlier films' outcomes; genre prior +0.001).
+out-of-sample R² · revenue percentile: +0.018 (from earlier films' outcomes; genre prior -0.000).
+outcomes with a foresight effect after FDR correction: 2/4 (log popularity, rating; 0 significant against films only 1–2 years later).
+communities that differ in rating: 14/35 (after year, genre, star power and plot position).
+betweenness → revenue percentile (P10 → P90): +3.4 pp (≈ +26% revenue for a mid-market film; cast star power +2.8).
+
+Storyline for the Results chapter (each sentence follows from the numbers above):
+1. Static position in plot space adds at most 0.005 R² to year, genre, runtime and language (star power adds up to 0.059); the plot-network block is jointly significant for 3 of 4 outcomes (fig_01).
+2. In plain units, a film at the 90th rather than the 10th percentile of the measure (Notebook 07): foresight → log popularity +4.09 % popularity; betweenness → revenue percentile +3.35 percentile points (≈ +26% revenue); participation → revenue percentile -2.24 percentile points (≈ -15% revenue); foresight → rating +0.06 rating points (0–10). Yardstick, cast star power: cast star power → log popularity +7.60 % popularity; cast star power → log revenue +34.10 % revenue; cast star power → revenue percentile +2.76 percentile points (≈ +22% revenue); cast star power → rating -0.09 rating points (0–10) (fig_07).
+3. Of 36 plot and timing tests, 13 have p < 0.05 and 4 survive a Benjamini–Hochberg correction (FDR 5%, Notebook 07; fig_02): foresight → log popularity (+0.016); foresight → rating (+0.026); betweenness → revenue percentile (+0.012); participation → revenue percentile (-0.008). Tentative (p < 0.05, not after correction): same-year competition → revenue percentile (-0.039); foresight → revenue percentile (+0.008); foresight → log ROI (+0.070); betweenness → log revenue (+0.093); clustering → log revenue (+0.068); clustering → revenue percentile (+0.007); clustering → log popularity (+0.010); betweenness → log popularity (+0.010); participation → log revenue (-0.065).
+4. Outcomes cluster on the plot network for 4 of 4 outcomes (Moran's I 0.053–0.121); the plot prior beats the genre prior out of sample for 4 of 4 outcomes (fig_03).
+5. After controls, 14 of 35 labelled communities differ from the average film in rating, 11 in revenue percentile and 5 in both; after a Benjamini–Hochberg correction 13 in rating and 10 in revenue percentile (Notebook 07) (fig_04).
+6. 8 communities grew and 6 shrank significantly as a share of each year's films, 1990–2024 (fig_05).
+7. Foresight or imitation (Notebook 07): measured only against films released 1–2 years later — too soon to be copies — foresight is significant for none; against films 3–5 years later for rating, log popularity. A film's own success predicts more similar stories 3–5 years later for log popularity, so imitation cannot be ruled out there.
+8. Rebuilt networks (Notebook 07): across MiniLM k=10, MiniLM k=20, MiniLM k=30, TF-IDF k=20, plot position adds 0.000–0.005 R² over the controls; the plot block is jointly significant (p < 0.05) for 2 of 4 outcomes with MiniLM k=10, 3 of 4 outcomes with MiniLM k=20, 4 of 4 outcomes with MiniLM k=30, 2 of 4 outcomes with TF-IDF k=20. Individual coefficients are less stable — see outputs/tables/robustness/robustness_notes.txt.
+9. Story vs stars (Notebook 07): of 8 tests of whether plot position matters more for films without a star, 1 have p < 0.05 and 1 survive a Benjamini–Hochberg correction: clustering → rating (no star +0.007, with star +0.085; stronger with a star, against the hypothesis).
+10. Few clusters (Notebook 07): with standard errors clustered by only 36 communities, a wild cluster bootstrap keeps p < 0.05 for 5 of 5 results that survive the correction (largest bootstrap p = 0.012).
+All results are associations, not causal effects.

@@ -1,0 +1,20 @@
+variable,column,n,mean,sd,min,median,max
+Revenue percentile within the year,revenue_percentile_year,7547,0.56546,0.27599,0.00202,0.58791,1.0
+Log revenue,log_revenue,7547,15.62944,2.85471,0.69315,16.05396,21.75268
+Log return on investment,log_roi,4910,0.16949,1.65425,-7.24356,0.45977,9.46424
+Rating (0--10),vote_average,19084,6.10881,0.95303,1.5,6.2,10.0
+Log popularity,log_popularity,19084,1.05979,0.56216,0.00439,0.9719,5.67326
+Novelty,novelty,19084,0.47138,0.05567,0.28651,0.47132,0.70815
+"Log betweenness, $\log(1 + N b)$",log_betweenness,19084,1.46475,0.85086,0.0,1.52331,3.76221
+Participation coefficient,participation,19084,0.38472,0.26094,0.0,0.43737,0.90263
+Weighted clustering coefficient,clustering,19084,0.06902,0.09058,0.0,0.0481,0.72517
+Crowding,crowding_raw,17923,0.47222,0.05886,0.22475,0.4725,0.65441
+Same-year competition,competition_raw,19084,0.418,0.06044,0.14928,0.41913,0.61144
+Foresight,foresight_raw,14262,0.00689,0.01713,-0.08166,0.00652,0.16217
+"Cast star index, $\log(1 + \text{prior votes})$",star_index,19084,5.2272,2.94932,0.0,5.68358,11.8432
+"Director index, $\log(1 + \text{prior votes})$",director_index,19084,3.48155,3.24666,0.0,3.52636,12.28977
+Has star (share),has_star,19084,0.11104,0.31418,0.0,0.0,1.0
+Runtime (minutes),runtime,19084,102.94991,18.49592,70.0,99.0,240.0
+English-language original (share),is_english,19084,0.53144,0.49902,0.0,1.0,1.0
+Release year,release_year,19084,2010.98978,8.96324,1990.0,2013.0,2024.0
+Number of votes,vote_count,19084,680.95116,2107.22427,25.0,96.0,37602.0

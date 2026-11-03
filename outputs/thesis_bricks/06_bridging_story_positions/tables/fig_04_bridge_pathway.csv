@@ -1,0 +1,10 @@
+step,node_id,title,community_id,similarity_to_next,betweenness
+0,5628,The Dark Knight (2008),4,0.6411,0.0003
+1,687,Batman: Mask of the Phantasm (1993),4,0.6494,0.0004
+2,7776,Beyond the Law (2019),0,0.6515,0.0006
+3,8510,Driven to Kill (2009),0,0.6301,0.0004
+4,11497,Legatee (2012),3,0.6358,0.001
+5,202,Taxi Blues (1990),3,0.6298,0.0011
+6,14224,Frenchmen 3 (2013),9,0.5666,0.0006
+7,7205,"Someone, Somewhere (2019)",7,0.6124,0.0002
+8,4645,Ratatouille (2007),7,,0.0001

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="917.18775pt" height="518.4pt" viewBox="0 0 917.18775 518.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T16:18:46.268032</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 518.4 
+L 917.18775 518.4 
+L 917.18775 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 8.64 511.2 
+L 909.98775 511.2 
+L 909.98775 57.6 
+L 8.64 57.6 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 8.64 77.4 
+L 909.98775 77.4 
+L 909.98775 109.8 
+L 8.64 109.8 
+z
+" clip-path="url(#pbaa3ff8325)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 8.64 149.4 
+L 909.98775 149.4 
+L 909.98775 181.8 
+L 8.64 181.8 
+z
+" clip-path="url(#pbaa3ff8325)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 8.64 221.4 
+L 909.98775 221.4 
+L 909.98775 253.8 
+L 8.64 253.8 
+z
+" clip-path="url(#pbaa3ff8325)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 8.64 293.4 
+L 909.98775 293.4 
+L 909.98775 325.8 
+L 8.64 325.8 
+z
+" clip-path="url(#pbaa3ff8325)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 8.64 365.4 
+L 909.98775 365.4 
+L 909.98775 397.8 
+L 8.64 397.8 
+z
+" clip-path="url(#pbaa3ff8325)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 8.64 437.4 
+L 909.98775 437.4 
+L 909.98775 469.8 
+L 8.64 469.8 
+z
+" clip-path="url(#pbaa3ff8325)" style="fill: #f1f0ec; stroke: #f1f0ec; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="13.146739" y="72" transform="rotate(-0 13.146739 72)">community</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="333.12519" y="72" transform="rotate(-0 333.12519 72)">most central films (≥ 50 votes, core films first, one per title family)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="95.80834" transform="rotate(-0 13.146739 95.80834)">C0 · Crime &amp; policing</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="95.756379" transform="rotate(-0 333.12519 95.756379)">1. The Postcard Killings (2020)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="95.756379" transform="rotate(-0 526.914956 95.756379)">2. Alex Cross (2012)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="95.756379" transform="rotate(-0 720.704723 95.756379)">3. Only the River Flows (2023)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="131.80834" transform="rotate(-0 13.146739 131.80834)">C1 · Love &amp; relationships</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="131.756379" transform="rotate(-0 333.12519 131.756379)">1. The Other Woman (2010)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="131.756379" transform="rotate(-0 526.914956 131.756379)">2. Made of Honor (2008)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="131.756379" transform="rotate(-0 720.704723 131.756379)">3. Last Night (2010)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="167.80834" transform="rotate(-0 13.146739 167.80834)">C2 · Family &amp; domestic threat</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="167.756379" transform="rotate(-0 333.12519 167.756379)">1. The Boogeyman (2023)</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="167.756379" transform="rotate(-0 526.914956 167.756379)">2. Ghostland (2018)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="167.756379" transform="rotate(-0 720.704723 167.756379)">3. The Book of Henry (2017)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="203.80834" transform="rotate(-0 13.146739 203.80834)">C3 · War &amp; military</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="203.756379" transform="rotate(-0 333.12519 203.756379)">1. Sobibor (2018)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="203.756379" transform="rotate(-0 526.914956 203.756379)">2. The Auschwitz Report (2021)</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="203.922379" transform="rotate(-0 720.704723 203.922379)">3. Aimée &amp; Jaguar (1999)</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="239.80834" transform="rotate(-0 13.146739 239.80834)">C4 · Sci-fi &amp; superheroes</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="239.756379" transform="rotate(-0 333.12519 239.756379)">1. Assassin 33 A.D. (2020)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="239.756379" transform="rotate(-0 526.914956 239.756379)">2. The Visitor from the Future (2022)</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="239.756379" transform="rotate(-0 720.704723 239.756379)">3. The Tomorrow War (2021)</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="275.80834" transform="rotate(-0 13.146739 275.80834)">C5 · Supernatural horror</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="275.756379" transform="rotate(-0 333.12519 275.756379)">1. The Seventh Day (2021)</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="275.756055" transform="rotate(-0 526.914956 275.756055)">2. Haunt (2019)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="275.756379" transform="rotate(-0 720.704723 275.756379)">3. Talon Falls (2017)</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="311.80834" transform="rotate(-0 13.146739 311.80834)">C6 · Fairy tale &amp; fantasy</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="311.756379" transform="rotate(-0 333.12519 311.756379)">1. Cinderella II: Dreams Come… (2002)</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="311.756379" transform="rotate(-0 526.914956 311.756379)">2. The Princess Diaries 2: Royal……</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="311.756379" transform="rotate(-0 720.704723 311.756379)">3. Godmothered (2020)</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="347.80834" transform="rotate(-0 13.146739 347.80834)">C7 · French drama-comedy</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="347.756379" transform="rotate(-0 333.12519 347.756379)">1. Love Affair(s) (2020)</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="347.756379" transform="rotate(-0 526.914956 347.756379)">2. The Past (2013)</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="347.756379" transform="rotate(-0 720.704723 347.756379)">3. Mektoub, My Love: Canto Uno (2018)</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="383.808008" transform="rotate(-0 13.146739 383.808008)">C8 · Japan &amp; Korea</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="383.756379" transform="rotate(-0 333.12519 383.756379)">1. Into the Sun (2005)</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="383.756379" transform="rotate(-0 526.914956 383.756379)">2. Samurai Cop (1991)</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="383.756379" transform="rotate(-0 720.704723 383.756379)">3. Demon Slayer: Kimetsu no… (2019)</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="419.80834" transform="rotate(-0 13.146739 419.80834)">C9 · School &amp; dance</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="419.756379" transform="rotate(-0 333.12519 419.756379)">1. Ma che bella sorpresa (2015)</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="419.756379" transform="rotate(-0 526.914956 419.756379)">2. Step Sisters (2018)</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="419.756379" transform="rotate(-0 720.704723 419.756379)">3. The Red and the Blue (2012)</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="455.80834" transform="rotate(-0 13.146739 455.80834)">C10 · Latin America &amp; Spain</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="455.756379" transform="rotate(-0 333.12519 455.756379)">1. Miles and Lies (2023)</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="455.756379" transform="rotate(-0 526.914956 455.756379)">2. While at War (2019)</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="455.756379" transform="rotate(-0 720.704723 455.756379)">3. Dirty Dancing: Havana Nights…</text>
+   </g>
+   <g id="text_47">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="13.146739" y="491.80834" transform="rotate(-0 13.146739 491.80834)">C11 · Animals &amp; pets</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="333.12519" y="491.756379" transform="rotate(-0 333.12519 491.756379)">1. The Secret Life of Pets 2 (2019)</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="526.914956" y="491.756379" transform="rotate(-0 526.914956 491.756379)">2. Revenge for Jolly! (2012)</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="720.704723" y="491.756379" transform="rotate(-0 720.704723 491.756379)">3. Snow Buddies (2008)</text>
+   </g>
+  </g>
+  <g id="text_51">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="7.2" y="17.077969" transform="rotate(-0 7.2 17.077969)">The most typical film of each narrative</text>
+  </g>
+  <g id="text_52">
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="7.2" y="37.458516" transform="rotate(-0 7.2 37.458516)">Ranked by within community strength · the 12 largest communities</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbaa3ff8325">
+   <rect x="8.64" y="57.6" width="901.34775" height="453.6"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,11 @@
+measure,value
+"single runs: modularity, mean",0.6433
+"single runs: modularity, min",0.6398
+"single runs: modularity, max",0.6492
+"single runs: communities, mean",28.8
+"single runs vs each other: ARI, mean",0.4223
+"single runs vs each other: ARI, min",0.3533
+"single runs vs each other: ARI, max",0.526
+"single runs vs consensus: ARI, mean",0.5192
+consensus partition: modularity,0.6509
+consensus partition: communities,105.0

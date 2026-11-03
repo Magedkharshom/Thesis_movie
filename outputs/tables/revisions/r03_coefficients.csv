@@ -1,0 +1,65 @@
+outcome,star_measure,term,coef,ci_low,ci_high,p_value
+Log revenue,published (prior votes),z_novelty,0.09974,-0.01381,0.21328,0.08513
+Log revenue,published (prior votes),z_novelty_sq,-0.0303,-0.0701,0.0095,0.1357
+Log revenue,published (prior votes),z_log_betweenness,0.09303,0.0127,0.17336,0.02322
+Log revenue,published (prior votes),z_participation,-0.06456,-0.12795,-0.00117,0.04593
+Log revenue,published (prior votes),z_clustering,0.06767,0.0072,0.12814,0.02827
+Log revenue,published (prior votes),z_star_index,0.09835,0.02153,0.17517,0.0121
+Log revenue,published (prior votes),z_director_index,0.59791,0.53394,0.66188,0.0
+Log revenue,published (prior votes),has_star,0.25921,0.07364,0.44477,0.00618
+Log revenue,experience (prior film counts),z_novelty,0.09494,-0.0253,0.21518,0.12173
+Log revenue,experience (prior film counts),z_novelty_sq,-0.02851,-0.06961,0.01258,0.17383
+Log revenue,experience (prior film counts),z_log_betweenness,0.09429,0.00922,0.17936,0.02982
+Log revenue,experience (prior film counts),z_participation,-0.07576,-0.14405,-0.00746,0.02969
+Log revenue,experience (prior film counts),z_clustering,0.07373,0.01265,0.13481,0.01798
+Log revenue,experience (prior film counts),z_star_exp,0.02247,-0.07586,0.12081,0.65421
+Log revenue,experience (prior film counts),z_director_exp,0.40589,0.33619,0.47559,0.0
+Log revenue,experience (prior film counts),has_star_exp,-0.34191,-0.51799,-0.16584,0.00014
+Revenue percentile,published (prior votes),z_novelty,0.01104,-0.00024,0.02232,0.05516
+Revenue percentile,published (prior votes),z_novelty_sq,-0.00289,-0.00647,0.00068,0.11259
+Revenue percentile,published (prior votes),z_log_betweenness,0.01196,0.0048,0.01912,0.00106
+Revenue percentile,published (prior votes),z_participation,-0.00817,-0.01391,-0.00243,0.00529
+Revenue percentile,published (prior votes),z_clustering,0.00677,0.0006,0.01294,0.03146
+Revenue percentile,published (prior votes),z_star_index,0.00927,0.00171,0.01683,0.0163
+Revenue percentile,published (prior votes),z_director_index,0.06305,0.05623,0.06987,0.0
+Revenue percentile,published (prior votes),has_star,0.0237,0.00272,0.04469,0.02686
+Revenue percentile,experience (prior film counts),z_novelty,0.01057,-0.00146,0.0226,0.08501
+Revenue percentile,experience (prior film counts),z_novelty_sq,-0.00274,-0.00641,0.00094,0.14408
+Revenue percentile,experience (prior film counts),z_log_betweenness,0.01216,0.00444,0.01987,0.00201
+Revenue percentile,experience (prior film counts),z_participation,-0.00937,-0.01551,-0.00323,0.00277
+Revenue percentile,experience (prior film counts),z_clustering,0.00736,0.00117,0.01355,0.01982
+Revenue percentile,experience (prior film counts),z_star_exp,0.00334,-0.00569,0.01237,0.46868
+Revenue percentile,experience (prior film counts),z_director_exp,0.04266,0.03492,0.05039,0.0
+Revenue percentile,experience (prior film counts),has_star_exp,-0.03878,-0.05615,-0.02142,1e-05
+Rating,published (prior votes),z_novelty,0.00402,-0.03045,0.0385,0.81914
+Rating,published (prior votes),z_novelty_sq,0.00605,-0.00983,0.02193,0.45525
+Rating,published (prior votes),z_log_betweenness,-0.00954,-0.03088,0.01181,0.38131
+Rating,published (prior votes),z_participation,0.00894,-0.00749,0.02537,0.28641
+Rating,published (prior votes),z_clustering,0.01676,-0.00027,0.03379,0.0537
+Rating,published (prior votes),z_star_index,-0.03117,-0.05841,-0.00394,0.02488
+Rating,published (prior votes),z_director_index,0.06343,0.04845,0.07842,0.0
+Rating,published (prior votes),has_star,0.1744,0.13528,0.21352,0.0
+Rating,experience (prior film counts),z_novelty,0.00253,-0.03259,0.03766,0.88751
+Rating,experience (prior film counts),z_novelty_sq,0.00581,-0.00969,0.02131,0.46276
+Rating,experience (prior film counts),z_log_betweenness,-0.01003,-0.03098,0.01093,0.34843
+Rating,experience (prior film counts),z_participation,0.00695,-0.00981,0.02372,0.41621
+Rating,experience (prior film counts),z_clustering,0.01741,0.00034,0.03447,0.0456
+Rating,experience (prior film counts),z_star_exp,-0.02852,-0.05182,-0.00522,0.01645
+Rating,experience (prior film counts),z_director_exp,-0.00762,-0.02455,0.00932,0.37806
+Rating,experience (prior film counts),has_star_exp,-0.07947,-0.13597,-0.02297,0.00584
+Log popularity,published (prior votes),z_novelty,0.0033,-0.00795,0.01455,0.56523
+Log popularity,published (prior votes),z_novelty_sq,0.00042,-0.00386,0.0047,0.84849
+Log popularity,published (prior votes),z_log_betweenness,0.00978,0.00026,0.01929,0.04398
+Log popularity,published (prior votes),z_participation,0.00024,-0.00888,0.00936,0.95901
+Log popularity,published (prior votes),z_clustering,0.01025,0.00075,0.01976,0.03451
+Log popularity,published (prior votes),z_star_index,0.02456,0.01552,0.03359,0.0
+Log popularity,published (prior votes),z_director_index,0.10773,0.09754,0.11791,0.0
+Log popularity,published (prior votes),has_star,0.12885,0.09491,0.16279,0.0
+Log popularity,experience (prior film counts),z_novelty,0.00196,-0.00937,0.0133,0.73407
+Log popularity,experience (prior film counts),z_novelty_sq,5e-05,-0.00472,0.00481,0.98512
+Log popularity,experience (prior film counts),z_log_betweenness,0.00969,7e-05,0.01932,0.04843
+Log popularity,experience (prior film counts),z_participation,-0.00088,-0.01024,0.00848,0.85337
+Log popularity,experience (prior film counts),z_clustering,0.01089,0.00132,0.02046,0.02575
+Log popularity,experience (prior film counts),z_star_exp,0.02554,0.01591,0.03518,0.0
+Log popularity,experience (prior film counts),z_director_exp,0.04563,0.03843,0.05283,0.0
+Log popularity,experience (prior film counts),has_star_exp,-0.07728,-0.11894,-0.03563,0.00028

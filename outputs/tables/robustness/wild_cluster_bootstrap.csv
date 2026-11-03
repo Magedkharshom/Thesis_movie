@@ -1,0 +1,6 @@
+claim,source,outcome,term,coef,p_cluster,q_value,t_cluster,p_wild_bootstrap,clusters,n_obs,holds
+foresight → log popularity,Notebook 06 (T3),log_popularity,foresight_z,0.01633,0.0,0.0,4.928689,0.0002,36,14262,True
+foresight → rating,Notebook 06 (T3),vote_average,foresight_z,0.02598,0.00081,0.012767,3.348717,0.0021,36,14262,True
+betweenness → revenue percentile,Notebook 05 (M4),revenue_percentile_year,z_log_betweenness,0.011958,0.001064,0.012767,3.273062,0.0026,36,7547,True
+participation → revenue percentile,Notebook 05 (M4),revenue_percentile_year,z_participation,-0.008167,0.005292,0.04763,-2.788689,0.006701,36,7547,True
+clustering × has-a-star → rating,Part 6,vote_average,z_clustering:has_star,0.078001,0.001292,0.010337,3.217731,0.011901,36,19084,True

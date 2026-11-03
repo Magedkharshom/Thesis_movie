@@ -1,0 +1,7 @@
+value,label,note
+"19,919",plots embedded,one overview per film
+384,numbers per plot,all-MiniLM-L6-v2
+masked,character names,replaced by 'someone' before embedding
+20,nearest plots per film,candidate neighbours
+"70,372",mutual links,both films agree
+0.57,median edge similarity,"cosine, 1 = identical text"

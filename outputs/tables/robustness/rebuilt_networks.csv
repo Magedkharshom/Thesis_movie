@@ -1,0 +1,5 @@
+network,representation,k,films_in_lcc,edges,mean_degree,communities,modularity
+MiniLM k=10,MiniLM,10,16955,33668,3.97145,46,0.7603
+MiniLM k=20,MiniLM,20,19084,70265,7.36376,28,0.64691
+MiniLM k=30,MiniLM,30,19556,107505,10.99458,23,0.60908
+TF-IDF k=20,TF-IDF,20,19911,120740,12.12797,31,0.51465

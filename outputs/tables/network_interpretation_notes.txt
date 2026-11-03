@@ -1,0 +1,13 @@
+Network interpretation notes
+
+The semantic network contains 19,084 films in its largest connected component and 70,252 mutual-kNN similarity edges. Edges represent similarity between plot overviews, not success, fame or quality.
+Community detection (consensus_louvain_igraph) finds 105 communities; 35 have at least 100 films and cover 93.2% of the network. 69.3% of edges lie inside a community.
+Membership confidence (share of single Louvain runs that keep a film with its consensus community): median 0.68; 1.4% of films are boundary films (< 0.2). 45% of films are core films (≥ 75% of their similarity inside their community). 4 major communities are tentative (robustness < 0.5): C9, C25, C29, C31; describe their boundaries as blurred.
+NMI between community and primary genre is 0.11 (chance level 0.01). Communities overlap little with primary-genre labels (part of this gap reflects that a single primary genre is a coarse label); several communities are thematic (crime, war, sci-fi, school) across genres.
+35 communities are labelled; the other 70 minor communities hold 6.8% of films and are pooled as 'minor'. 2 communities are franchise-driven and 10 character-name-driven (0 of them major).
+2.1% of edges join two films whose overviews share a character name (11× the chance level of 0.20%). Person names were masked before embedding, so this residue comes mostly from franchise sequels and names the recogniser missed.
+Weighted degree is bounded by k = 20 neighbours, so the most 'central' films are those whose overviews are most generic (similar to many others); they are typical, not influential, films.
+Betweenness is exact. Spearman correlation between participation coefficient and betweenness: 0.37.
+The raw top-50 by weighted degree contains 46 distinct title families; thesis tables therefore apply a display-only franchise cap and a 50-vote visibility rule.
+Descriptive differences in reception between major communities (Kruskal–Wallis ε²): vote_average 0.047, log_revenue 0.052, popularity 0.027. Formal modelling with controls follows in Notebook 05.
+Labels: 35 of 35 major communities have reviewed labels.

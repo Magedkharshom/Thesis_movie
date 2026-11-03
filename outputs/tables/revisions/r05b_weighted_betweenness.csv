@@ -1,0 +1,25 @@
+outcome,betweenness,term,coef,p_value,n
+log_revenue,unweighted (published),betweenness,0.09303,0.02322,7547
+log_revenue,unweighted (published),z_participation,-0.06456,0.04593,7547
+log_revenue,unweighted (published),z_clustering,0.06767,0.02827,7547
+log_revenue,similarity-weighted,betweenness,0.09365,0.02423,7547
+log_revenue,similarity-weighted,z_participation,-0.05894,0.06331,7547
+log_revenue,similarity-weighted,z_clustering,0.06823,0.02705,7547
+revenue_percentile_year,unweighted (published),betweenness,0.01196,0.00106,7547
+revenue_percentile_year,unweighted (published),z_participation,-0.00817,0.00529,7547
+revenue_percentile_year,unweighted (published),z_clustering,0.00677,0.03146,7547
+revenue_percentile_year,similarity-weighted,betweenness,0.01188,0.00108,7547
+revenue_percentile_year,similarity-weighted,z_participation,-0.0074,0.01069,7547
+revenue_percentile_year,similarity-weighted,z_clustering,0.00684,0.03059,7547
+vote_average,unweighted (published),betweenness,-0.00954,0.38131,19084
+vote_average,unweighted (published),z_participation,0.00894,0.28641,19084
+vote_average,unweighted (published),z_clustering,0.01676,0.0537,19084
+vote_average,similarity-weighted,betweenness,-0.01142,0.31653,19084
+vote_average,similarity-weighted,z_participation,0.00881,0.26229,19084
+vote_average,similarity-weighted,z_clustering,0.01657,0.05369,19084
+log_popularity,unweighted (published),betweenness,0.00978,0.04398,19084
+log_popularity,unweighted (published),z_participation,0.00024,0.95901,19084
+log_popularity,unweighted (published),z_clustering,0.01025,0.03451,19084
+log_popularity,similarity-weighted,betweenness,0.0105,0.0411,19084
+log_popularity,similarity-weighted,z_participation,0.00068,0.87975,19084
+log_popularity,similarity-weighted,z_clustering,0.01038,0.03228,19084

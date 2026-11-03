@@ -1,0 +1,385 @@
+outcome,term,coef,se,p_value
+log_revenue,Intercept,16.213713,0.338027,0.0
+log_revenue,C(release_year)[T.1991],-0.50649,0.334541,0.13003
+log_revenue,C(release_year)[T.1992],-0.360537,0.315634,0.253345
+log_revenue,C(release_year)[T.1993],-0.842906,0.351501,0.016484
+log_revenue,C(release_year)[T.1994],-0.934268,0.361411,0.009736
+log_revenue,C(release_year)[T.1995],-0.727478,0.420464,0.083599
+log_revenue,C(release_year)[T.1996],-0.663565,0.305183,0.029681
+log_revenue,C(release_year)[T.1997],-1.289328,0.402138,0.001345
+log_revenue,C(release_year)[T.1998],-0.70954,0.397665,0.074381
+log_revenue,C(release_year)[T.1999],-0.996113,0.359509,0.005593
+log_revenue,C(release_year)[T.2000],-0.887899,0.456397,0.05172
+log_revenue,C(release_year)[T.2001],-0.649832,0.328893,0.048175
+log_revenue,C(release_year)[T.2002],-0.506147,0.367682,0.16864
+log_revenue,C(release_year)[T.2003],-0.795085,0.356642,0.02579
+log_revenue,C(release_year)[T.2004],-0.841931,0.299954,0.005003
+log_revenue,C(release_year)[T.2005],-0.850554,0.32709,0.009312
+log_revenue,C(release_year)[T.2006],-0.938596,0.387239,0.015358
+log_revenue,C(release_year)[T.2007],-0.903258,0.332174,0.006543
+log_revenue,C(release_year)[T.2008],-0.825182,0.315085,0.008821
+log_revenue,C(release_year)[T.2009],-0.838287,0.291684,0.004054
+log_revenue,C(release_year)[T.2010],-0.960234,0.336422,0.004314
+log_revenue,C(release_year)[T.2011],-1.109565,0.311454,0.000367
+log_revenue,C(release_year)[T.2012],-1.23355,0.353383,0.000482
+log_revenue,C(release_year)[T.2013],-1.272186,0.354068,0.000327
+log_revenue,C(release_year)[T.2014],-1.580197,0.300867,0.0
+log_revenue,C(release_year)[T.2015],-1.467335,0.318996,4e-06
+log_revenue,C(release_year)[T.2016],-1.64681,0.384393,1.8e-05
+log_revenue,C(release_year)[T.2017],-1.53881,0.313414,1e-06
+log_revenue,C(release_year)[T.2018],-1.338707,0.353116,0.00015
+log_revenue,C(release_year)[T.2019],-1.475306,0.368895,6.4e-05
+log_revenue,C(release_year)[T.2020],-2.242922,0.34934,0.0
+log_revenue,C(release_year)[T.2021],-2.030266,0.329781,0.0
+log_revenue,C(release_year)[T.2022],-2.309129,0.331331,0.0
+log_revenue,C(release_year)[T.2023],-1.615731,0.322445,1e-06
+log_revenue,C(release_year)[T.2024],-1.689062,0.352905,2e-06
+log_revenue,C(primary_genre_model)[T.Adventure],0.294682,0.194425,0.129605
+log_revenue,C(primary_genre_model)[T.Animation],1.380623,0.144518,0.0
+log_revenue,C(primary_genre_model)[T.Comedy],-0.10725,0.133327,0.421157
+log_revenue,C(primary_genre_model)[T.Crime],-1.082803,0.139623,0.0
+log_revenue,C(primary_genre_model)[T.Drama],-1.301863,0.119476,0.0
+log_revenue,C(primary_genre_model)[T.Family],1.196865,0.198344,0.0
+log_revenue,C(primary_genre_model)[T.Fantasy],0.226603,0.340331,0.505519
+log_revenue,C(primary_genre_model)[T.History],-1.490244,0.347581,1.8e-05
+log_revenue,C(primary_genre_model)[T.Horror],-0.405733,0.147745,0.006029
+log_revenue,C(primary_genre_model)[T.Music],-1.059944,0.327769,0.001221
+log_revenue,C(primary_genre_model)[T.Mystery],-0.09476,0.321189,0.767971
+log_revenue,C(primary_genre_model)[T.Other],-1.678726,0.412638,4.7e-05
+log_revenue,C(primary_genre_model)[T.Romance],-0.297572,0.165604,0.072353
+log_revenue,C(primary_genre_model)[T.Science Fiction],-0.374494,0.145068,0.009837
+log_revenue,C(primary_genre_model)[T.Thriller],-1.149618,0.184584,0.0
+log_revenue,C(primary_genre_model)[T.War],-1.242194,0.171141,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C0]",-0.142987,0.063123,0.0235
+log_revenue,"C(community_group, Treatment('minor'))[T.C1]",-0.05358,0.066135,0.417848
+log_revenue,"C(community_group, Treatment('minor'))[T.C10]",-0.366849,0.028898,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C11]",0.367505,0.050112,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C12]",-0.312561,0.048196,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C13]",-0.731389,0.027867,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C14]",0.181479,0.047419,0.00013
+log_revenue,"C(community_group, Treatment('minor'))[T.C15]",-0.170066,0.035535,2e-06
+log_revenue,"C(community_group, Treatment('minor'))[T.C16]",0.112441,0.050559,0.02615
+log_revenue,"C(community_group, Treatment('minor'))[T.C17]",0.158239,0.037607,2.6e-05
+log_revenue,"C(community_group, Treatment('minor'))[T.C18]",0.497981,0.068282,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C19]",-0.34044,0.058069,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C2]",-0.272355,0.062665,1.4e-05
+log_revenue,"C(community_group, Treatment('minor'))[T.C20]",-0.20618,0.038717,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C21]",0.216229,0.049956,1.5e-05
+log_revenue,"C(community_group, Treatment('minor'))[T.C22]",-0.154849,0.052752,0.003331
+log_revenue,"C(community_group, Treatment('minor'))[T.C23]",-0.256125,0.029077,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C24]",-0.490501,0.036975,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C25]",-0.968845,0.03055,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C26]",-0.484413,0.054441,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C27]",0.119988,0.051294,0.019324
+log_revenue,"C(community_group, Treatment('minor'))[T.C28]",-1.230144,0.051254,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C29]",-1.348099,0.050963,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C3]",-0.153484,0.041063,0.000186
+log_revenue,"C(community_group, Treatment('minor'))[T.C30]",0.249386,0.031167,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C31]",0.170671,0.048961,0.000491
+log_revenue,"C(community_group, Treatment('minor'))[T.C32]",-0.342691,0.04001,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C33]",-0.02858,0.068029,0.674403
+log_revenue,"C(community_group, Treatment('minor'))[T.C34]",-0.199074,0.057398,0.000524
+log_revenue,"C(community_group, Treatment('minor'))[T.C4]",0.383212,0.06095,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C5]",0.0547,0.035476,0.123105
+log_revenue,"C(community_group, Treatment('minor'))[T.C6]",0.40997,0.051139,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C7]",-0.402871,0.031991,0.0
+log_revenue,"C(community_group, Treatment('minor'))[T.C8]",-0.053879,0.043774,0.218381
+log_revenue,"C(community_group, Treatment('minor'))[T.C9]",0.250562,0.033665,0.0
+log_revenue,z_runtime,0.789011,0.041346,0.0
+log_revenue,is_english,1.029263,0.056626,0.0
+log_revenue,z_novelty,0.099737,0.057931,0.085132
+log_revenue,z_novelty_sq,-0.030299,0.020308,0.135701
+log_revenue,z_log_betweenness,0.093028,0.040985,0.02322
+log_revenue,z_participation,-0.064558,0.032343,0.045926
+log_revenue,z_clustering,0.067675,0.030853,0.028272
+log_revenue,z_star_index,0.098349,0.039194,0.012098
+log_revenue,z_director_index,0.597911,0.032638,0.0
+log_revenue,has_star,0.259205,0.094676,0.006185
+revenue_percentile_year,Intercept,0.545619,0.037837,0.0
+revenue_percentile_year,C(release_year)[T.1991],0.010543,0.037486,0.778518
+revenue_percentile_year,C(release_year)[T.1992],-0.01298,0.037857,0.731706
+revenue_percentile_year,C(release_year)[T.1993],-0.058861,0.04071,0.148215
+revenue_percentile_year,C(release_year)[T.1994],-0.078949,0.043814,0.071559
+revenue_percentile_year,C(release_year)[T.1995],-0.067322,0.035818,0.06017
+revenue_percentile_year,C(release_year)[T.1996],-0.085451,0.033005,0.009624
+revenue_percentile_year,C(release_year)[T.1997],-0.09124,0.041836,0.02919
+revenue_percentile_year,C(release_year)[T.1998],-0.051029,0.044544,0.251966
+revenue_percentile_year,C(release_year)[T.1999],-0.072869,0.039333,0.063936
+revenue_percentile_year,C(release_year)[T.2000],-0.058695,0.048119,0.222541
+revenue_percentile_year,C(release_year)[T.2001],-0.04951,0.038381,0.197064
+revenue_percentile_year,C(release_year)[T.2002],-0.023203,0.039273,0.554653
+revenue_percentile_year,C(release_year)[T.2003],-0.041389,0.039136,0.290249
+revenue_percentile_year,C(release_year)[T.2004],-0.03758,0.034565,0.276936
+revenue_percentile_year,C(release_year)[T.2005],-0.047099,0.034872,0.176815
+revenue_percentile_year,C(release_year)[T.2006],-0.051561,0.041786,0.217231
+revenue_percentile_year,C(release_year)[T.2007],-0.026135,0.036253,0.470968
+revenue_percentile_year,C(release_year)[T.2008],-0.024678,0.032722,0.450749
+revenue_percentile_year,C(release_year)[T.2009],-0.029721,0.030917,0.336382
+revenue_percentile_year,C(release_year)[T.2010],-0.023644,0.032,0.459985
+revenue_percentile_year,C(release_year)[T.2011],-0.032776,0.034448,0.341369
+revenue_percentile_year,C(release_year)[T.2012],-0.012278,0.038876,0.752142
+revenue_percentile_year,C(release_year)[T.2013],-0.053158,0.038545,0.167864
+revenue_percentile_year,C(release_year)[T.2014],-0.049573,0.032778,0.130429
+revenue_percentile_year,C(release_year)[T.2015],-0.059226,0.035079,0.091336
+revenue_percentile_year,C(release_year)[T.2016],-0.042404,0.039142,0.278656
+revenue_percentile_year,C(release_year)[T.2017],-0.014146,0.033372,0.671659
+revenue_percentile_year,C(release_year)[T.2018],-0.029579,0.039587,0.454945
+revenue_percentile_year,C(release_year)[T.2019],-0.050006,0.040769,0.219986
+revenue_percentile_year,C(release_year)[T.2020],-0.048685,0.041439,0.240056
+revenue_percentile_year,C(release_year)[T.2021],-0.060331,0.035959,0.09339
+revenue_percentile_year,C(release_year)[T.2022],-0.06716,0.038069,0.077699
+revenue_percentile_year,C(release_year)[T.2023],-0.049695,0.035338,0.159648
+revenue_percentile_year,C(release_year)[T.2024],-0.044574,0.037726,0.237404
+revenue_percentile_year,C(primary_genre_model)[T.Adventure],0.029987,0.01975,0.128936
+revenue_percentile_year,C(primary_genre_model)[T.Animation],0.1345,0.015769,0.0
+revenue_percentile_year,C(primary_genre_model)[T.Comedy],-0.012791,0.012993,0.324898
+revenue_percentile_year,C(primary_genre_model)[T.Crime],-0.100732,0.012829,0.0
+revenue_percentile_year,C(primary_genre_model)[T.Drama],-0.132965,0.012675,0.0
+revenue_percentile_year,C(primary_genre_model)[T.Family],0.1268,0.020857,0.0
+revenue_percentile_year,C(primary_genre_model)[T.Fantasy],0.027961,0.029948,0.350479
+revenue_percentile_year,C(primary_genre_model)[T.History],-0.152453,0.02875,0.0
+revenue_percentile_year,C(primary_genre_model)[T.Horror],-0.046523,0.016259,0.004218
+revenue_percentile_year,C(primary_genre_model)[T.Music],-0.094679,0.031317,0.002501
+revenue_percentile_year,C(primary_genre_model)[T.Mystery],0.002307,0.030682,0.940058
+revenue_percentile_year,C(primary_genre_model)[T.Other],-0.153061,0.043274,0.000405
+revenue_percentile_year,C(primary_genre_model)[T.Romance],-0.031365,0.015338,0.04086
+revenue_percentile_year,C(primary_genre_model)[T.Science Fiction],-0.049057,0.015159,0.001212
+revenue_percentile_year,C(primary_genre_model)[T.Thriller],-0.103318,0.019125,0.0
+revenue_percentile_year,C(primary_genre_model)[T.War],-0.111236,0.016617,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C0]",-0.015099,0.006361,0.017619
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C1]",-0.009347,0.006229,0.133458
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C10]",-0.048679,0.002765,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C11]",0.032109,0.00583,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C12]",-0.046316,0.00495,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C13]",-0.06644,0.002783,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C14]",0.014851,0.005444,0.006377
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C15]",-0.036007,0.003103,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C16]",0.005855,0.005023,0.24378
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C17]",0.006649,0.00364,0.067751
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C18]",0.05497,0.007193,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C19]",-0.027815,0.005648,1e-06
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C2]",-0.022687,0.006021,0.000164
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C20]",-0.033278,0.003679,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C21]",0.025251,0.004953,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C22]",-0.017386,0.005155,0.000745
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C23]",-0.03579,0.003095,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C24]",-0.042095,0.003654,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C25]",-0.07397,0.003291,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C26]",-0.052949,0.005007,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C27]",0.011969,0.005553,0.031119
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C28]",-0.126065,0.004885,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C29]",-0.149386,0.005433,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C3]",-0.017616,0.003551,1e-06
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C30]",0.037797,0.002593,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C31]",0.014693,0.004771,0.002074
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C32]",-0.05931,0.003982,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C33]",-0.001677,0.006439,0.794506
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C34]",-0.030548,0.005755,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C4]",0.037304,0.006079,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C5]",0.006092,0.004023,0.129932
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C6]",0.04061,0.005003,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C7]",-0.034577,0.002994,0.0
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C8]",-0.008149,0.004459,0.067609
+revenue_percentile_year,"C(community_group, Treatment('minor'))[T.C9]",0.025068,0.003271,0.0
+revenue_percentile_year,z_runtime,0.078511,0.003966,0.0
+revenue_percentile_year,is_english,0.10831,0.004584,0.0
+revenue_percentile_year,z_novelty,0.011036,0.005755,0.055161
+revenue_percentile_year,z_novelty_sq,-0.002895,0.001824,0.112586
+revenue_percentile_year,z_log_betweenness,0.011958,0.003653,0.001064
+revenue_percentile_year,z_participation,-0.008167,0.002929,0.005292
+revenue_percentile_year,z_clustering,0.006773,0.003148,0.031461
+revenue_percentile_year,z_star_index,0.009266,0.003857,0.0163
+revenue_percentile_year,z_director_index,0.063051,0.003478,0.0
+revenue_percentile_year,has_star,0.023703,0.010708,0.026855
+vote_average,Intercept,6.021974,0.063645,0.0
+vote_average,C(release_year)[T.1991],0.077404,0.080648,0.337165
+vote_average,C(release_year)[T.1992],0.126104,0.07814,0.106567
+vote_average,C(release_year)[T.1993],0.123141,0.115663,0.287035
+vote_average,C(release_year)[T.1994],-0.094019,0.076234,0.217464
+vote_average,C(release_year)[T.1995],0.110026,0.072865,0.131046
+vote_average,C(release_year)[T.1996],-0.018205,0.067838,0.788418
+vote_average,C(release_year)[T.1997],0.11143,0.054199,0.039788
+vote_average,C(release_year)[T.1998],0.064363,0.053237,0.226669
+vote_average,C(release_year)[T.1999],0.054845,0.069606,0.430735
+vote_average,C(release_year)[T.2000],-0.04004,0.070304,0.569004
+vote_average,C(release_year)[T.2001],-0.036036,0.070183,0.607632
+vote_average,C(release_year)[T.2002],0.040197,0.074814,0.591066
+vote_average,C(release_year)[T.2003],-0.023737,0.064296,0.711987
+vote_average,C(release_year)[T.2004],0.048077,0.07299,0.510098
+vote_average,C(release_year)[T.2005],-0.024204,0.070363,0.730854
+vote_average,C(release_year)[T.2006],-0.040372,0.071519,0.57242
+vote_average,C(release_year)[T.2007],-0.067532,0.067502,0.317095
+vote_average,C(release_year)[T.2008],-0.080991,0.0644,0.208526
+vote_average,C(release_year)[T.2009],-0.096833,0.06177,0.116963
+vote_average,C(release_year)[T.2010],-0.028774,0.068407,0.674029
+vote_average,C(release_year)[T.2011],-0.116696,0.065591,0.075213
+vote_average,C(release_year)[T.2012],-0.159914,0.05532,0.003844
+vote_average,C(release_year)[T.2013],-0.100091,0.058923,0.089378
+vote_average,C(release_year)[T.2014],-0.071449,0.072819,0.3265
+vote_average,C(release_year)[T.2015],-0.069342,0.077282,0.369585
+vote_average,C(release_year)[T.2016],-0.035047,0.069463,0.613884
+vote_average,C(release_year)[T.2017],0.044415,0.06772,0.511917
+vote_average,C(release_year)[T.2018],0.085438,0.066404,0.198221
+vote_average,C(release_year)[T.2019],0.159652,0.066179,0.015847
+vote_average,C(release_year)[T.2020],0.193421,0.065296,0.003054
+vote_average,C(release_year)[T.2021],0.236977,0.058278,4.8e-05
+vote_average,C(release_year)[T.2022],0.177738,0.06856,0.00953
+vote_average,C(release_year)[T.2023],0.217408,0.070947,0.002181
+vote_average,C(release_year)[T.2024],0.273112,0.059029,4e-06
+vote_average,C(primary_genre_model)[T.Adventure],0.310308,0.07394,2.7e-05
+vote_average,C(primary_genre_model)[T.Animation],1.080813,0.078636,0.0
+vote_average,C(primary_genre_model)[T.Comedy],0.043683,0.022246,0.049576
+vote_average,C(primary_genre_model)[T.Crime],0.21626,0.03285,0.0
+vote_average,C(primary_genre_model)[T.Drama],0.348977,0.022513,0.0
+vote_average,C(primary_genre_model)[T.Family],0.526876,0.048743,0.0
+vote_average,C(primary_genre_model)[T.Fantasy],0.155458,0.047936,0.001183
+vote_average,C(primary_genre_model)[T.History],0.230834,0.074637,0.001983
+vote_average,C(primary_genre_model)[T.Horror],-0.401297,0.033205,0.0
+vote_average,C(primary_genre_model)[T.Music],0.730029,0.141552,0.0
+vote_average,C(primary_genre_model)[T.Mystery],0.035629,0.052909,0.500685
+vote_average,C(primary_genre_model)[T.Other],-0.029809,0.05743,0.603735
+vote_average,C(primary_genre_model)[T.Romance],0.293808,0.039932,0.0
+vote_average,C(primary_genre_model)[T.Science Fiction],-0.139159,0.045751,0.002353
+vote_average,C(primary_genre_model)[T.Thriller],-0.054343,0.045975,0.237203
+vote_average,C(primary_genre_model)[T.War],0.332963,0.05752,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C0]",0.022359,0.01599,0.162018
+vote_average,"C(community_group, Treatment('minor'))[T.C1]",-0.070522,0.014931,2e-06
+vote_average,"C(community_group, Treatment('minor'))[T.C10]",0.135971,0.010431,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C11]",-0.029534,0.015356,0.054439
+vote_average,"C(community_group, Treatment('minor'))[T.C12]",0.192202,0.02873,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C13]",0.008453,0.005924,0.153658
+vote_average,"C(community_group, Treatment('minor'))[T.C14]",-0.075649,0.011193,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C15]",0.007528,0.01138,0.508269
+vote_average,"C(community_group, Treatment('minor'))[T.C16]",0.028962,0.009128,0.00151
+vote_average,"C(community_group, Treatment('minor'))[T.C17]",0.011797,0.009802,0.228791
+vote_average,"C(community_group, Treatment('minor'))[T.C18]",-0.155028,0.019942,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C19]",-0.198226,0.024076,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C2]",0.072895,0.014249,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C20]",0.010968,0.006292,0.081324
+vote_average,"C(community_group, Treatment('minor'))[T.C21]",-0.016046,0.016077,0.31824
+vote_average,"C(community_group, Treatment('minor'))[T.C22]",0.134076,0.010164,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C23]",0.104679,0.006772,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C24]",-0.272703,0.014721,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C25]",-0.097739,0.008905,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C26]",-0.15502,0.012889,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C27]",-0.058945,0.007265,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C28]",-0.028475,0.009884,0.003966
+vote_average,"C(community_group, Treatment('minor'))[T.C29]",-0.039362,0.011436,0.000578
+vote_average,"C(community_group, Treatment('minor'))[T.C3]",-0.012433,0.010488,0.235847
+vote_average,"C(community_group, Treatment('minor'))[T.C30]",-0.091162,0.005808,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C31]",-0.027913,0.008231,0.000696
+vote_average,"C(community_group, Treatment('minor'))[T.C32]",-0.074749,0.013475,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C33]",0.093532,0.020686,6e-06
+vote_average,"C(community_group, Treatment('minor'))[T.C34]",-0.145143,0.013613,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C4]",-0.128762,0.014302,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C5]",-0.102911,0.010742,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C6]",-0.055855,0.014619,0.000133
+vote_average,"C(community_group, Treatment('minor'))[T.C7]",-0.083657,0.010173,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C8]",0.226009,0.013642,0.0
+vote_average,"C(community_group, Treatment('minor'))[T.C9]",0.074336,0.006082,0.0
+vote_average,z_runtime,0.245777,0.013787,0.0
+vote_average,is_english,-0.227937,0.026726,0.0
+vote_average,z_novelty,0.004022,0.017591,0.819138
+vote_average,z_novelty_sq,0.006049,0.008101,0.455254
+vote_average,z_log_betweenness,-0.009536,0.010892,0.381315
+vote_average,z_participation,0.008936,0.008383,0.286409
+vote_average,z_clustering,0.01676,0.008687,0.053699
+vote_average,z_star_index,-0.031174,0.013897,0.024884
+vote_average,z_director_index,0.063433,0.007645,0.0
+vote_average,has_star,0.174398,0.019959,0.0
+log_popularity,Intercept,1.063899,0.05155,0.0
+log_popularity,C(release_year)[T.1991],0.058233,0.063754,0.36103
+log_popularity,C(release_year)[T.1992],0.089516,0.057748,0.12111
+log_popularity,C(release_year)[T.1993],0.041086,0.076455,0.590994
+log_popularity,C(release_year)[T.1994],0.013146,0.051117,0.797045
+log_popularity,C(release_year)[T.1995],0.021495,0.062781,0.732069
+log_popularity,C(release_year)[T.1996],0.013886,0.049702,0.779951
+log_popularity,C(release_year)[T.1997],-0.008815,0.063494,0.889584
+log_popularity,C(release_year)[T.1998],0.027371,0.068809,0.690788
+log_popularity,C(release_year)[T.1999],0.038453,0.070187,0.58379
+log_popularity,C(release_year)[T.2000],0.017956,0.069341,0.795669
+log_popularity,C(release_year)[T.2001],-0.015224,0.064719,0.814033
+log_popularity,C(release_year)[T.2002],0.026728,0.068274,0.695442
+log_popularity,C(release_year)[T.2003],0.004335,0.05967,0.94208
+log_popularity,C(release_year)[T.2004],0.008621,0.057157,0.880107
+log_popularity,C(release_year)[T.2005],-0.015988,0.063159,0.80016
+log_popularity,C(release_year)[T.2006],-0.041631,0.065301,0.523781
+log_popularity,C(release_year)[T.2007],-0.022772,0.059381,0.70135
+log_popularity,C(release_year)[T.2008],-0.060496,0.054326,0.265467
+log_popularity,C(release_year)[T.2009],-0.02228,0.065276,0.732863
+log_popularity,C(release_year)[T.2010],-0.046702,0.0619,0.450563
+log_popularity,C(release_year)[T.2011],-0.088448,0.053227,0.096572
+log_popularity,C(release_year)[T.2012],-0.089756,0.047687,0.05981
+log_popularity,C(release_year)[T.2013],-0.063415,0.062757,0.312268
+log_popularity,C(release_year)[T.2014],-0.038442,0.0624,0.537864
+log_popularity,C(release_year)[T.2015],-0.069791,0.055702,0.210233
+log_popularity,C(release_year)[T.2016],-0.103607,0.058604,0.077074
+log_popularity,C(release_year)[T.2017],-0.063371,0.051732,0.220577
+log_popularity,C(release_year)[T.2018],-0.083618,0.056215,0.136892
+log_popularity,C(release_year)[T.2019],-0.022802,0.055131,0.679176
+log_popularity,C(release_year)[T.2020],-0.084486,0.062368,0.175533
+log_popularity,C(release_year)[T.2021],-0.048501,0.051633,0.347562
+log_popularity,C(release_year)[T.2022],-0.054737,0.05596,0.328007
+log_popularity,C(release_year)[T.2023],-0.011954,0.062086,0.847325
+log_popularity,C(release_year)[T.2024],0.111277,0.053725,0.038338
+log_popularity,C(primary_genre_model)[T.Adventure],0.013956,0.031176,0.654418
+log_popularity,C(primary_genre_model)[T.Animation],0.186242,0.054398,0.000618
+log_popularity,C(primary_genre_model)[T.Comedy],-0.174009,0.020507,0.0
+log_popularity,C(primary_genre_model)[T.Crime],-0.126165,0.021632,0.0
+log_popularity,C(primary_genre_model)[T.Drama],-0.164869,0.022104,0.0
+log_popularity,C(primary_genre_model)[T.Family],-0.085997,0.030659,0.005032
+log_popularity,C(primary_genre_model)[T.Fantasy],0.017018,0.040192,0.671995
+log_popularity,C(primary_genre_model)[T.History],-0.236433,0.044894,0.0
+log_popularity,C(primary_genre_model)[T.Horror],-0.197932,0.024955,0.0
+log_popularity,C(primary_genre_model)[T.Music],-0.323829,0.033814,0.0
+log_popularity,C(primary_genre_model)[T.Mystery],-0.134305,0.035032,0.000126
+log_popularity,C(primary_genre_model)[T.Other],-0.187716,0.040448,3e-06
+log_popularity,C(primary_genre_model)[T.Romance],-0.099411,0.034172,0.003624
+log_popularity,C(primary_genre_model)[T.Science Fiction],-0.059774,0.039011,0.125464
+log_popularity,C(primary_genre_model)[T.Thriller],-0.133207,0.025521,0.0
+log_popularity,C(primary_genre_model)[T.War],-0.134852,0.031297,1.6e-05
+log_popularity,"C(community_group, Treatment('minor'))[T.C0]",0.006921,0.009503,0.466455
+log_popularity,"C(community_group, Treatment('minor'))[T.C1]",0.002364,0.006405,0.712074
+log_popularity,"C(community_group, Treatment('minor'))[T.C10]",-0.045084,0.004498,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C11]",0.012581,0.005507,0.022343
+log_popularity,"C(community_group, Treatment('minor'))[T.C12]",-0.03103,0.005281,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C13]",-0.03163,0.002379,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C14]",0.021423,0.002909,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C15]",-0.015594,0.005096,0.002213
+log_popularity,"C(community_group, Treatment('minor'))[T.C16]",0.031513,0.005712,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C17]",-0.025267,0.004256,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C18]",0.035072,0.012192,0.004018
+log_popularity,"C(community_group, Treatment('minor'))[T.C19]",-0.190453,0.017909,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C2]",0.009279,0.006595,0.159422
+log_popularity,"C(community_group, Treatment('minor'))[T.C20]",-0.053143,0.00563,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C21]",-0.060493,0.006023,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C22]",0.073186,0.008093,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C23]",-0.015018,0.003497,1.7e-05
+log_popularity,"C(community_group, Treatment('minor'))[T.C24]",0.001328,0.005628,0.813443
+log_popularity,"C(community_group, Treatment('minor'))[T.C25]",0.002718,0.004695,0.562677
+log_popularity,"C(community_group, Treatment('minor'))[T.C26]",0.028593,0.005525,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C27]",0.022055,0.006866,0.001317
+log_popularity,"C(community_group, Treatment('minor'))[T.C28]",0.006344,0.007351,0.388177
+log_popularity,"C(community_group, Treatment('minor'))[T.C29]",-0.079907,0.007221,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C3]",-0.030065,0.009154,0.001022
+log_popularity,"C(community_group, Treatment('minor'))[T.C30]",0.052819,0.005434,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C31]",-0.007761,0.003272,0.017686
+log_popularity,"C(community_group, Treatment('minor'))[T.C32]",-0.042932,0.004864,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C33]",-0.051269,0.006262,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C34]",-0.049766,0.009173,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C4]",0.061488,0.006275,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C5]",0.028478,0.007077,5.7e-05
+log_popularity,"C(community_group, Treatment('minor'))[T.C6]",0.082858,0.004639,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C7]",-0.022525,0.005095,1e-05
+log_popularity,"C(community_group, Treatment('minor'))[T.C8]",0.130428,0.00791,0.0
+log_popularity,"C(community_group, Treatment('minor'))[T.C9]",0.04901,0.003857,0.0
+log_popularity,z_runtime,0.105099,0.011121,0.0
+log_popularity,is_english,0.233926,0.011894,0.0
+log_popularity,z_novelty,0.003301,0.005741,0.565227
+log_popularity,z_novelty_sq,0.000417,0.002183,0.848493
+log_popularity,z_log_betweenness,0.009777,0.004854,0.043977
+log_popularity,z_participation,0.000239,0.004653,0.95901
+log_popularity,z_clustering,0.010253,0.00485,0.034509
+log_popularity,z_star_index,0.024557,0.004609,0.0
+log_popularity,z_director_index,0.107727,0.005198,0.0
+log_popularity,has_star,0.128851,0.017315,0.0

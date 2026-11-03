@@ -1,0 +1,7 @@
+Brick 5 — Central story positions
+
+Centrality here is typicality: a central film has many strong mutual plot neighbours, i.e. its kind of story is told often. Weighted degree and mean similarity to the 20 nearest plots correlate at Spearman ρ = 0.71.
+Centrality and fame are different: ρ(weighted degree, votes) = 0.05, ρ(weighted degree, rating) = -0.03.
+Most central well-known films (≥ 50 votes, one per title family): The Return (2006); The Postcard Killings (2020); Beautiful Kate (2009); Glass House: The Good Mother (2006); All That Glitters (2010).
+Representative films per community are ranked by within community strength, core films first, so the films used to describe a community actually belong to it.
+Main text: fig_01_centrality_is_typicality, fig_03_central_films_table, fig_04_ego_network. Appendix: fig_02, fig_05.

@@ -1,0 +1,6 @@
+outcome,revenue_percentile_year,log_roi,vote_average,log_popularity,log_votes
+revenue_percentile_year,1.0,0.7033,0.2744,0.5954,0.678
+log_roi,0.7033,1.0,0.3596,0.396,0.4713
+vote_average,0.2744,0.3596,1.0,0.247,0.3095
+log_popularity,0.5954,0.396,0.247,1.0,0.5187
+log_votes,0.678,0.4713,0.3095,0.5187,1.0

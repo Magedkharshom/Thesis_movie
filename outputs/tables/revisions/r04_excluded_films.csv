@@ -1,0 +1,12 @@
+,excluded,network (LCC)
+films,835.0,19084.0
+median_novelty,0.5495,0.4713
+share_top10pct_novelty,0.5042,0.0823
+share_top1pct_novelty,0.115,0.0054
+share_no_mutual_neighbour,0.8754,0.0
+median_votes,77.0,96.0
+median_rating,6.2,6.2
+median_popularity,1.5348,1.643
+share_revenue_known,0.394,0.3955
+share_english,0.5126,0.5314
+median_year,2012.0,2013.0
