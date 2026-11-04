@@ -14,7 +14,7 @@ Run them in order; each one reads the files written by the previous ones.
 
 | Notebook | Content |
 |---|---|
-| 01 | Builds the film corpora from the raw TMDB extract |
+| 01 | Builds the film  from the raw TMDB extract |
 | 02 | Data checks and exploratory analysis |
 | 03 | Name masking, embeddings, network and communities |
 | 04 | Interpretation of the communities |
